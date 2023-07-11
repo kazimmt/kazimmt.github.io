@@ -140,114 +140,148 @@
 ### General</summary>
 <img src="/assets/youtube/header/general.jpg" >
 
-#### Disable Forced auto captions
-Disable forced captions from being automatically enabled.
+**Disable forced auto captions**
+>Disable forced captions from being automatically enabled.
 <img src="/assets/youtube/general/disable-forced-auto-caption.jpg" >
-#### Enable tablet mini player
-Enables the tablet mini player layout.
+
+**Enable tablet mini player**
+>Enables the tablet mini player layout.
 <img src="/assets/youtube/general/enable-tablet-mini-player.jpg" >
-#### Enable wide search bar
-Replaces the search icon with a wide search bar. This will hide the YouTube logo when active.
+
+**Enable wide search bar**
+>Replaces the search icon with a wide search bar. This will hide the YouTube logo when active.
 <img src="/assets/youtube/general/enable-wide-search-bar.jpg" >
-#### Hide Account Menu
-Hide account menu elements.
+
+**Hide account menu**
+>Hide account menu elements.
 <img src="/assets/youtube/general/hide-account-menu-elements.jpg" >
-#### Hide auto player popup panels
-Hide automatic popup panels (playlist or live chat) on video player.
+
+**Hide auto player popup panels**
+>Hide automatic popup panels (playlist or live chat) on video player.
 <img src="/assets/youtube/general/hide-auto-player-popup.jpg" >
-#### Hide category bar
-Hide the category bar at the top of the feed, at the top of related videos & from search result.
+
+**Hide category bar**
+>Hide the category bar at the top of the feed, at the top of related videos & from search result.
 <img src="/assets/youtube/general/hide-category-bar.jpg" >
-#### Hide Channel Avatar Section
-Hides the channel avatar section of the subscription feed.
+
+**Hide channel avatar section**
+>Hides the channel avatar section of the subscription feed.
 <img src="/assets/youtube/general/hide-channel-avatar-section.jpg" >
-#### Hide Crowdfunding Box
-Hides the crowdfunding box between the player and video description.
+
+**Hide crowdfunding box**
+>Hides the crowdfunding box between the player and video description.
 <img src="/assets/youtube/general/hide-crowdfunding-box.jpg" >
-#### Hide Email Address
-Hides the email address(handle) in the account switcher.
+
+**Hide email address**
+>Hides the email address(handle) in the account switcher.
 <img src="/assets/youtube/general/hide-email-address.jpg" >
-#### Hide Floating Microphone
-Hide floating microphone button from search page.
+
+**Hide floating microphone**
+>Hide floating microphone button from search page.
 <img src="/assets/youtube/general/hide-floating-microphone.jpg" >
-#### Hide Load More Button
-Hides load more ˅ / show more ˅ button on search feed.
+
+**Hide load more button**
+>Hides load more ˅ / show more ˅ button on search feed.
 <img src="/assets/youtube/general/hide-load-more-button.jpg" >
-#### Hide Mix Playlists
-Removes mix playlists from home feed and video player.
+
+**Hide mix playlists**
+>Removes mix playlists from home feed and video player.
 <img src="/assets/youtube/general/hide-mix-playlist.jpg" >
-#### Hide Snackbar
-Hides the snackbar action popup.
+
+**Hide snackbar**
+>Hides the snackbar action popup.
 <img src="/assets/youtube/general/hide-snackbar.jpg" >
-#### Hide Suggestions Shelf
-Hides the Breaking news/top news, continue watching, Explore more channels, Shopping & watch it again shelves.
+
+**Hide suggestions shelf**
+>Hides the Breaking news/top news, continue watching, Explore more channels, Shopping & watch it again shelves.
 <img src="/assets/youtube/general/hide-suggestions-shelf.jpg" >
-#### Hide Search Terms
-Hide trending searches and search history in the search bar.
+
+**Hide search terms**
+>Hide trending searches and search history in the search bar.
 <img src="/assets/youtube/general/hide-search-terms.jpg" >
-#### Header Switch
-Add switch to change header. [Regular or Premium]
+
+**Header switch**
+>Add switch to change header. [Regular or Premium]
 <img src="/assets/youtube/general/header-switch.jpg" >
 
-#### Layout
-#### Hide Album Cards
-Hides the album cards below the artist description.
+**Layout**
+
+**Hide album cards**
+>Hides the album cards below the artist description.
 <img src="/assets/youtube/general/hide-album-cards.jpg" >
-#### Hide Channel Member Shelf
-Hide member shelf from channel.
+
+**Hide channel member shelf**
+>Hide member shelf from channel.
 <img src="/assets/youtube/general/hide-channel-member-shelf.jpg" >
-#### Hide Community Post
-Hides community posts on the homepage tab & also from subscriptions feed.
+
+**Hide community post**
+>Hides community posts on the homepage tab & also from subscriptions feed.
 <img src="/assets/youtube/general/hide-community-post.jpg" >
-#### Hide Expandable Chip Under Video
-Hides expandable chip under video
+
+**Hide expandable chip under video**
+>Hides expandable chip under video
 <img src="/assets/youtube/general/hide-expandable-chip.jpg" >
-#### Hide Feed Surveys
-Hides survey on the homepage and subscription feed
+
+**Hide feed surveys**
+>Hides survey on the homepage and subscription feed
 <img src="/assets/youtube/general/hide-feed-survey.jpg" >
-#### Hide gray description
-Hides 'People also watched this video' under a video
+
+**Hide gray description**
+>Hides 'People also watched this video' under a video
 <img src="/assets/youtube/general/hide-gray-description.jpg" >
-#### Hide Gray Seperator
-hides annoying gray lines between Video & Community Post
+
+**Hide gray seperator**
+>Hides annoying gray lines between Video & Community Post
 <img src="/assets/youtube/general/hide-gray-seperator.jpg" >
-#### Hide info panels
-Hides important information panels from feed/search
+
+**Hide info panels**
+>Hides important information panels from feed/search
 <img src="/assets/youtube/general/hide-info-panels.jpg" >
-#### Hide join Button
-Hides join button besides subscription button as well as from shorts.
+
+**Hide join Button**
+>Hides join button besides subscription button as well as from shorts.
 <img src="/assets/youtube/general/hide-join-button.jpg" >
-#### Hide latest posts
-Hides latest posts panels from feed
+
+**Hide latest posts**
+>Hides latest posts panels from feed
 <img src="/assets/youtube/general/hide-latest-post.jpg" >
-#### Hide Medical Panels
-Hides medical panels from feed/search
+
+**Hide medical panels**
+>Hides medical panels from feed/search
 <img src="/assets/youtube/general/hide-medical-panels.jpg" >
-#### Hide Movies Shelf
-Hides movies shelf from search
+
+**Hide movies shelf**
+>Hides movies shelf from search
 <img src="/assets/youtube/general/hide-movies-shelf.jpg" >
-#### Hide Official header
-Hides official header from any search result
+
+**Hide official header**
+>Hides official header from any search result
 <img src="/assets/youtube/general/hide-official-header.jpg" >
-#### Hide Ticket shelf
-Hides ticket shelf of any upcoming events from search & related videos.
+
+**Hide Ticket shelf**
+>Hides ticket shelf of any upcoming events from search & related videos.
 <img src="/assets/youtube/general/hide-ticket-shelf.jpg" >
-#### Hide Timed reaction
-Hides Timed Reaction from video comments/live chat
+
+**Hide timed reaction**
+>Hides Timed Reaction from video comments/live chat
 <img src="/assets/youtube/general/hide-timed-reaction.jpg" >
 
-#### Description
-#### Hide Chapters
-Hides chapters from video description
+**Description**
+
+**Hide Chapters**
+>Hides chapters from video description
 <img src="/assets/youtube/general/hide-chapters.jpg" >
-#### Hide music section
-Hides music section from video description
+
+**Hide music section**
+>Hides music section from video description
 <img src="/assets/youtube/general/hide-music-section.jpg" >
-#### Hide place section
-Hides place section from video description
+
+**Hide place section**
+>Hides place section from video description
 <img src="/assets/youtube/general/hide-place-section123.jpg" >
-#### Hide transcript section
-Hides transcript section from video description
+
+**Hide transcript section**
+>Hides transcript section from video description
 <img src="/assets/youtube/general/hide-transcript.jpg" >
 </details>
 
@@ -257,53 +291,72 @@ Hides transcript section from video description
 ### Miscellaneous</summary>
 <img src="/assets/youtube/header/miscellaneous.jpg" >
 
-#### Bypass ambient mode restrictions
-Bypass ambient mode restrictions in battery saver mode.
+**Bypass ambient mode restrictions**
+>Bypass ambient mode restrictions in battery saver mode.
 <img src="/assets/youtube/miscellaneous/bypass-ambient-mode-restriction.jpg" >
-#### Enable external browser
-Open URL outside the app in an external browser.
+
+**Enable external browser**
+>Open URL outside the app in an external browser.
 <img src="/assets/youtube/miscellaneous/enable-external-browser.jpg" >
-#### Enable new splash screen
-Enabled the new splash screen (android 12+) tested by google.
+
+**Enable new splash screen**
+>Enabled the new splash screen (android 12+) tested by google.
 <img src="/assets/youtube/miscellaneous/enable-new-splash-screen.jpg" >
-#### Enable open links directly
-Skips over redirection URLs to external links.
+
+**Enable open links directly**
+>Skips over redirection URLs to external links.
 <img src="/assets/youtube/miscellaneous/enable-open-links-directly.jpg" >
-#### Double back timeout
-Set the number of seconds the double press back to exit.
+
+**Double back timeout**
+>Set the number of seconds the double press back to exit.
 <img src="/assets/youtube/miscellaneous/double-back-timeout.jpg" >
-#### Open default app settings
-It allows you to set YouTube ReVanced Extended as default to open YouTube Links from anywhere.
+
+**Open default app settings**
+>It allows you to set YouTube ReVanced Extended as default to open YouTube Links from anywhere.
 <img src="/assets/youtube/miscellaneous/open-default-app-settings.jpg" >
-#### Open microG
-Settings to Access MicroG Settings from YT directly.
+
+**Open microG**
+>Settings to Access MicroG Settings from YT directly.
 <img src="/assets/youtube/miscellaneous/open-microg.jpg" >
-#### Experimental Flags
-#### Disable quic Protocol
-Disable CronetEngine's QUIC protocol. Read More: https://t.me/ReVancedBuildMMT/56259
-#### Enable force opus codec
-Apply Opus codec instead of mp4a audio codec.
+
+***Experimental Flags***
+
+**Disable quic Protocol**
+>Disable CronetEngine's QUIC protocol. Read More: https://t.me/ReVancedBuildMMT/56259
+
+**Enable force opus codec**
+>Apply Opus codec instead of mp4a audio codec.
 <img src="/assets/youtube/miscellaneous/enable-force-opus-codec.jpg" >
-#### Enable phone layout
-Tricks the Tablet dpi to use some phone layout. (Community posts & Hide mix playlist will be availabe on tablet)
+
+**Enable phone layout**
+>Tricks the Tablet dpi to use some phone layout. (Community posts & Hide mix playlist will be availabe on tablet)
 <img src="/assets/youtube/miscellaneous/enable-phone-layout.jpg" >
-#### Enable tablet layout
-Tricks your phone dpi to change some layouts to Tablet layout (Community posts will not be available)
+
+**Enable tablet layout**
+>Tricks your phone dpi to change some layouts to Tablet layout (Community posts will not be available)
 <img src="/assets/youtube/miscellaneous/enable-tablet-layout.jpg" >
-#### Enable VP9 codec
-Forces the VP9 codec for videos. same vp9 codec setting that existed in Vanced. If your device is old enough or if your device's hardware specification isn't good enough. This option may work for you.
+
+**Enable VP9 codec**
+>Forces the VP9 codec for videos. same vp9 codec setting that existed in Vanced. If your device is old enough or if your device's hardware specification isn't good enough. This option may work for you.
 !<img src="/assets/youtube/miscellaneous/enable-vp9-codec.jpg" >
-#### Import / export setting
-Options to Export Import ReVanced Extended Settings.
+
+**Import / export setting**
+>Options to Export Import ReVanced Extended Settings.
 <img src="/assets/youtube/miscellaneous/import-export-settings.jpg" >
-#### Spoof app version
-Spoof YouTube version to any old version to access some old features.
+
+**Spoof app version**
+>Spoof YouTube version to any old version to access some old features.
 <img src="/assets/youtube/miscellaneous/spoof-app-version.jpg" >
-```Using Edit spoof app version, you can manually type any app version```
-#### Spoof players parameter
-Spoofs player parameters to prevent playback issues. You can also change Spoof player parameter type inside same settings. There are two types of Parameter. 1. **Player parameters of shors**, 2. **Player parameters of incognito mode**. Try another if one doesn't work for you.
+```
+Using Edit spoof app version, you can manually type any app version
+```
+
+**Spoof players parameter**
+>Spoofs player parameters to prevent playback issues. You can also change Spoof player parameter type inside same settings. There are two types of Parameter. 1. **Player parameters of shors**, 2. **Player parameters of incognito mode**. Try another if one doesn't work for you.
 <img src="/assets/youtube/miscellaneous/spoof-player-parameter.jpg" >
-```Don't forget to read side effects```
+```
+Don't forget to read side effects
+```
 </details>
 
 <details>
@@ -312,37 +365,48 @@ Spoofs player parameters to prevent playback issues. You can also change Spoof p
 ### Navigation</summary>
 <img src="/assets/youtube/header/navigation.jpg" >
 
-#### Change homepage
-#### Change homepage to subscriptions
-Changes homepage to subscription feed. [When you start the app, the main feed becomes the subscription feed instead of the home feed]
+***Change homepage***
+
+**Change homepage to subscriptions**
+>Changes homepage to subscription feed. [When you start the app, the main feed becomes the subscription feed instead of the home feed]
 <img src="/assets/youtube/navigation/change-homepage-to-subscription.jpg" >
-#### Enable tablet navigation Bar
-Enables the tablet navigation bar.
+
+**Enable tablet navigation Bar**
+>Enables the tablet navigation bar.
 <img src="/assets/youtube/navigation/enable-tablet-navigation-bar.jpg" >
-#### Hide navigation buttons
-#### Hide create button
-Hides create button from navigation.
+
+***Hide navigation buttons***
+
+**Hide create button**
+>Hides create button from navigation.
 <img src="/assets/youtube/navigation/hide-create-button.jpg" >
-#### Hide Home button
-Hides create button from navigation.
+
+**Hide home button**
+>Hides create button from navigation.
 <img src="/assets/youtube/navigation/hide-home-button.jpg" >
-#### Hide library button
-Hides library button from navigation.
+
+**Hide library button**
+>Hides library button from navigation.
 <img src="/assets/youtube/navigation/hide-library-button.jpg" >
-#### Hide navigation label
-Hides navigation button's label
+
+**Hide navigation label**
+>Hides navigation button's label
 <img src="/assets/youtube/navigation/hide-navigation-label.jpg" >
-#### Hide shorts button
-Hides shorts button from navigation.
+
+**Hide shorts button**
+>Hides shorts button from navigation.
 <img src="/assets/youtube/navigation/hide-shorts-button.jpg" >
-#### Hide subscriptions button
-Hides subscriptions button from navigation.
+
+**Hide subscriptions button**
+>Hides subscriptions button from navigation.
 <img src="/assets/youtube/navigation/hide-subscriptions-button.jpg" >
-#### Open library on app startup
-When you start the app, the main page becomes the library instead of the home feed
+
+**Open library on app startup**
+>When you start the app, the main page becomes the library instead of the home feed
 <img src="/assets/youtube/navigation/open-library-on-app-startup.jpg" >
-#### Switch create with notification button
-Switching the create button and notification button.
+
+**Switch create with notification button**
+>Switching the create button and notification button.
 <img src="/assets/youtube/navigation/switch-create-with-notification.jpg" >
 </details>
 
@@ -352,31 +416,37 @@ Switching the create button and notification button.
 ### Overlay Button</summary>
 <img src="/assets/youtube/header/overlay-button.jpg" >
 
-#### Always autorepeat button
-Shows always autorepeat button on player. You can autorepeat any video by pressing this button.
+**Always autorepeat button**
+>Shows always autorepeat button on player. You can autorepeat any video by pressing this button.
 <img src="/assets/youtube/overlay-button/always-autorepeat-button.jpg" >
-#### Copy video URL button
-Shows copy video url button on player. You can copy video link directly by pressing this button.
+
+**Copy video URL button**
+>Shows copy video url button on player. You can copy video link directly by pressing this button.
 <img src="/assets/youtube/overlay-button/copy-video-url-button.jpg" >
-#### Copy timestamp URL button
-Shows copy timestamp url button on player. You can copy video link with current timestamp directly by pressing this button.
+
+**Copy timestamp URL button**
+>Shows copy timestamp url button on player. You can copy video link with current timestamp directly by pressing this button.
 <img src="/assets/youtube/overlay-button/copy-timestamp-url-button.jpg" >
-#### External download button
-Shows external button on player which allows you to download video locally.
+
+**External download button**
+>Shows external button on player which allows you to download video locally.
 <img src="/assets/youtube/overlay-button/external-download-button.jpg" >
-#### Speed dialog button
-Shows speed dialog button on player. You can change/reset video speed using this button.
+
+**Speed dialog button**
+>Shows speed dialog button on player. You can change/reset video speed using this button.
 <img src="/assets/youtube/overlay-button/speed-dialog-button.jpg" >
-#### External downloader settings
-Configure external download button with your favourite downloader app.
+
+**External downloader settings**
+>Configure external download button with your favourite downloader app.
 <img src="/assets/youtube/overlay-button/external-download-configure.jpg" >
 To learn how to config, visit this: https://telegra.ph/Set-downloader-to-RVXRV-01-09
 <details>
 <summary>
-  
-#### Experimental Flags</summary>
-#### Hook download button
-Hook native download button as external download button. Then native download button also work as a external downloader button.
+
+***Experimental Flags***</summary>
+
+**Hook download button**
+>Hook native download button as external download button. Then native download button also work as a external downloader button.
 <img src="/assets/youtube/overlay-button/hook-download-button.jpg" >
 </details>
 </details>
@@ -387,45 +457,47 @@ Hook native download button as external download button. Then native download bu
 ### Player</summary>
 <img src="/assets/youtube/header/player.jpg" >
 
-**Work in progress!!**
-#### Hide audio track button
+***Work in progress!!***
+**Hide audio track button**
 
-#### Hide autoplay button
+**Hide autoplay button**
 
-#### Hide captions button
+**Hide captions button**
 
-#### Hide cast button
+**Hide cast button**
 
-#### Hide channel watermark
+**Hide channel watermark**
 
-#### Hide collapse button
+**Hide collapse button**
 
-#### Hide end screen cards
+**Hide end screen cards**
 
-#### Hide info cards
+**Hide info cards**
 
-#### Hide live chat button
+**Hide live chat button**
 
-#### Hide player button background
+**Hide player button background**
 
-#### Hide player overlay filter
+**Hide player overlay filter**
 
-#### Hide previous & next button
+**Hide previous & next button**
 
-#### Hide seek message
+**Hide seek message**
 
-#### Hide speed overlay
+**Hide speed overlay**
 
-#### Hide suggested actions
+**Hide suggested actions**
 
-#### Hide youtube music button
-Hides the YouTube Music button in the video player.
+**Hide youtube music button**
+>Hides the YouTube Music button in the video player.
 
-#### Experimental Flags
-#### Hide film strip overlay
+***Experimental Flags***
 
-#### Haptic feedback
-#### Disable haptic feedback in various situation.
+**Hide film strip overlay**
+
+***Haptic feedback***
+
+**Disable haptic feedback in various situation**
 </details>
 
 <details>
@@ -434,22 +506,23 @@ Hides the YouTube Music button in the video player.
 ### Seekbar</summary>
 <img src="/assets/youtube/header/seekbar.jpg" >
 
-**Work in progress!!**
-#### Enable custom seekbar color
+***Work in progress!!***
 
-#### Custom seekbar color value
+**Enable custom seekbar color**
 
-#### Enable new thumbnail preview
+**Custom seekbar color value**
 
-#### Enable seekbar tapping
+**Enable new thumbnail preview**
 
-#### Enable time stamp speed
+**Enable seekbar tapping**
 
-#### Hide seekbar in video player
+**Enable time stamp speed**
 
-#### Hide seekbar in video thumbnails
+**Hide seekbar in video player**
 
-#### Hide time stamp
+**Hide seekbar in video thumbnails**
+
+**Hide time stamp**
 </details>
 
 <details>
@@ -458,34 +531,37 @@ Hides the YouTube Music button in the video player.
 ### Shorts</summary>
 <img src="/assets/youtube/header/shorts.jpg" >
 
-**Work in progress!!**
-#### Hide shorts shelf
+***Work in progress!!***
 
-#### Shorts player
-#### Disable shorts player at app startup
+**Hide shorts shelf**
 
-#### Hide comments button
+***Shorts player***
 
-#### Hide info panels
+**Disable shorts player at app startup**
 
-#### Hide join button
+**Hide comments button**
 
-#### Hide like button
+**Hide info panels**
 
-#### Hide paid promotion banner
+**Hide join button**
 
-#### Hide remix button
+**Hide like button**
 
-#### Hide share button
+**Hide paid promotion banner**
 
-#### Hide subscrioptions button
+**Hide remix button**
 
-#### Hide thanks button
+**Hide share button**
 
-#### Experimental Flags
-#### Hide navigation bar
+**Hide subscrioptions button**
 
-#### Hide toolbar
+**Hide thanks button**
+
+***Experimental Flags***
+
+**Hide navigation bar**
+
+**Hide toolbar**
 </details>
 
 <details>
@@ -494,30 +570,32 @@ Hides the YouTube Music button in the video player.
 ### Swipe Control</summary>
 <img src="/assets/youtube/header/swipe-control.jpg" >
 
-**Work in progress!!**
-#### Enable auto-brightness by swiping
-Makes the brightness of HDR videos follow the system default.
+***Work in progress!!***
 
-#### Enable brightness gesture
+**Enable auto-brightness by swiping**
+>Makes the brightness of HDR videos follow the system default by swiping the player.
 
-#### Enable volume gesture
+**Enable brightness gesture**
 
-#### Enable press-to-swipe gesture
+**Enable volume gesture**
 
-#### Enable press-to-swipe haptic feedback
+**Enable press-to-swipe gesture**
 
-#### Swipe background visibility
+**Enable press-to-swipe haptic feedback**
 
-#### Swipe magnitude threshold
+**Swipe background visibility**
 
-#### Swipe overlay text size
+**Swipe magnitude threshold**
 
-#### Swipe overlay timeout
+**Swipe overlay text size**
 
-#### Experimental Flags
-#### Disable auto HDR brightness
+**Swipe overlay timeout**
 
-#### Enable save and restore brightness
+***Experimental Flags***
+
+**Disable auto HDR brightness**
+
+**Enable save and restore brightness**
 </details>
 
 <details>
@@ -526,26 +604,31 @@ Makes the brightness of HDR videos follow the system default.
 ### Videos</summary>
 <img src="/assets/youtube/header/videos.jpg" >
 
-**Work in progress!!**
-#### Default video quality
-Adds ability to set default video quality settings.
+***Work in progress!!***
 
-#### Default video speed
+**Default video quality**
+>Adds ability to set default video quality.
 
-#### Disable HDR video
-Disable HDR video.
+**Default video speed**
+>Adds ability to set default video speed.
 
-#### Disable video speed in live stream
+**Disable HDR video
+>Disables HDR video experience.
 
-#### Enable custom video speed
-Adds more video speed options.
+**Disable video speed in live stream**
+>Disables video speed function in live stream.
+
+**Enable custom video speed**
+>Adds more video speed options.
 ```
 With edit custom video speeds settings, you can manually type custom video speed you want
 ```
 
-#### Enable save video quality
+**Enable save video quality**
+>Whenever you change the video quality while watching video, it remembers the new video quality.
 
-#### Enable save video speed
+**Enable save video speed**
+>Whenever you change the video speed while watching video, it remembers the new video speed.
 </details>
 
 <details>
@@ -567,15 +650,16 @@ Settings for these features are not available in ReVanced Extended Settings Page
 ### Return YouTube Dislike</summary>
 <img src="/assets/youtube/header/return-youtube-dislike.jpg" >
 
-**Work in progress!!**
-#### Enable Return YouTube Dislike
-Shows the dislike count of videos using the Return YouTube Dislike API.
+***Work in progress!!***
 
-#### Show dislikes on Shorts
+**Enable Return YouTube Dislike**
+>Shows the dislike count of videos using the Return YouTube Dislike API.
 
-#### Dislikes as percentage
+**Show dislikes on Shorts**
 
-#### Compact like button
+**Dislikes as percentage**
+
+**Compact like button**
 </details>
 
 <details>
@@ -584,25 +668,29 @@ Shows the dislike count of videos using the Return YouTube Dislike API.
 ### SponsorBlock</summary>
 <img src="/assets/youtube/header/sponsorblock.jpg" >
 
-**Work in progress!!**
-#### Enable SponsorBlock
-Integrates SponsorBlock which allows skipping undesired video segments, such as sponsored content.
+***Work in progress!!***
 
-#### Appearance
-#### Show voting button
+**Enable SponsorBlock**
+>Integrates SponsorBlock which allows skipping undesired video segments, such as sponsored content.
 
-#### Use compact skip button
+***Appearance***
 
-##### Automatically hide skip button
+**Show voting button**
 
-#### Show a toast when skipping automatically
+**Use compact skip button**
 
-#### Show video length without segment
+**Automatically hide skip button**
 
-#### Change segment behaviour
+**Show a toast when skipping automatically**
 
-#### Creating new segment
-#### Show create new segment button
-#### Adjust new segment step
+**Show video length without segment**
+
+**Change segment behaviour**
+
+***Creating new segment***
+
+**Show create new segment button**
+
+**Adjust new segment step**
 </details>
 
