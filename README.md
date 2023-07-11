@@ -71,7 +71,7 @@
 <img src="/assets/youtube/bottom-player/hide-comment-section.jpg" >
 
 **Hide thanks button**
->Hides super thanks button from shorts comments.
+>Hides super thanks button from comments.
 <img src="/assets/youtube/bottom-player/hide-thanks-button.jpg" >
 
 **Hide preview comment**
@@ -113,7 +113,7 @@
 <img src="/assets/youtube/fullscreen/hide-autoplay-preview.jpg" >
 
 **Hide endscreen overlay**
->Hide endscreen overlay on swipe controls.
+>Hides endscreen overlay when swiping up while in fullscreen and at the end of videos.
 <img src="/assets/youtube/fullscreen/hide-endscreen-overlay.jpg" >
 
 **Hide fullscreen panels**
@@ -196,8 +196,8 @@
 >Hides the Breaking news/top news, continue watching, Explore more channels, Shopping & watch it again shelves.
 <img src="/assets/youtube/general/hide-suggestions-shelf.jpg" >
 
-**Hide search terms**
->Hide trending searches and search history in the search bar.
+**Hide trending searches**
+>Hide trending searches in the search bar.
 <img src="/assets/youtube/general/hide-search-terms.jpg" >
 
 **Header switch**
@@ -209,6 +209,9 @@
 **Hide album cards**
 >Hides the album cards below the artist description.
 <img src="/assets/youtube/general/hide-album-cards.jpg" >
+
+**Hide browse store button**
+>Hide browse store button from any channel.
 
 **Hide channel member shelf**
 >Hide member shelf from channel.
@@ -239,7 +242,7 @@
 <img src="/assets/youtube/general/hide-info-panels.jpg" >
 
 **Hide join Button**
->Hides join button besides subscription button as well as from shorts.
+>Hides join button besides subscribe button.
 <img src="/assets/youtube/general/hide-join-button.jpg" >
 
 **Hide latest posts**
@@ -347,6 +350,7 @@
 **Spoof app version**
 >Spoof YouTube version to any old version to access some old features.
 <img src="/assets/youtube/miscellaneous/spoof-app-version.jpg" >
+
 ```
 Using Edit spoof app version, you can manually type any app version
 ```
@@ -354,6 +358,7 @@ Using Edit spoof app version, you can manually type any app version
 **Spoof players parameter**
 >Spoofs player parameters to prevent playback issues. You can also change Spoof player parameter type inside same settings. There are two types of Parameter. 1. **Player parameters of shors**, 2. **Player parameters of incognito mode**. Try another if one doesn't work for you.
 <img src="/assets/youtube/miscellaneous/spoof-player-parameter.jpg" >
+
 ```
 Don't forget to read side effects
 ```
@@ -459,34 +464,49 @@ To learn how to config, visit this: https://telegra.ph/Set-downloader-to-RVXRV-0
 
 ***Work in progress!!***
 **Hide audio track button**
+>Hide the audio track button shown in the video player.
 
 **Hide autoplay button**
+>Hides the captions button in the video player.
 
 **Hide captions button**
+>Hides the captions button in the video player.
 
 **Hide cast button**
+>Hides the cast button in the video player.
 
 **Hide channel watermark**
+>Hides the collapse button in the video player.
 
 **Hide collapse button**
+>Hides the collapse button in the video player.
 
-**Hide end screen cards**
+**Hide endscreen cards**
+>Hides the suggested video cards at the end of a video.
 
 **Hide info cards**
+>Hides info-cards in videos.
 
 **Hide live chat button**
+>Hides the live chat button in the video player (for old layout).
 
 **Hide player button background**
+>Hides dark filter layer from player button.
 
 **Hide player overlay filter**
+>Removes the double tap dark filter layer.
 
 **Hide previous & next button**
+>Hides the previous and next button in the player controller.
 
 **Hide seek message**
+>Hides the 'Slide left or right to seek' message container.
 
 **Hide speed overlay**
+>Hides speed overlay in player.
 
 **Hide suggested actions**
+>Hide the suggested actions bar inside the player.
 
 **Hide youtube music button**
 >Hides the YouTube Music button in the video player.
@@ -494,10 +514,12 @@ To learn how to config, visit this: https://telegra.ph/Set-downloader-to-RVXRV-0
 ***Experimental Flags***
 
 **Hide film strip overlay**
+>Hide flimstrip overlay on swipe controls.
 
 ***Haptic feedback***
 
 **Disable haptic feedback in various situation**
+>Disables haptic feed from below functionalities.
 </details>
 
 <details>
@@ -509,20 +531,29 @@ To learn how to config, visit this: https://telegra.ph/Set-downloader-to-RVXRV-0
 ***Work in progress!!***
 
 **Enable custom seekbar color**
+>Adds an option to change dark mode gray seekbar color to any color.
 
 **Custom seekbar color value**
+>You can set any color with hex color code.
 
 **Enable new thumbnail preview**
+>Enables a new type of thumbnail preview.
 
 **Enable seekbar tapping**
+>Enables tap-to-seek on the seekbar of the video player.
 
 **Enable time stamp speed**
+>Adds the current video speed in brackets next to the current time.
 
 **Hide seekbar in video player**
+>Hides the seekbar in video player.
 
 **Hide seekbar in video thumbnails**
+>Hides the seekbar in video thumbnails.
 
 **Hide time stamp**
+>Hides timestamp in video player.
+
 </details>
 
 <details>
@@ -534,32 +565,44 @@ To learn how to config, visit this: https://telegra.ph/Set-downloader-to-RVXRV-0
 ***Work in progress!!***
 
 **Hide shorts shelf**
+>Hides shorts shelf from Feed.
 
 ***Shorts player***
 
 **Disable shorts player at app startup**
+>Disables playing YouTube Shorts when launching YouTube.
 
 **Hide comments button**
+>Hides comments button from shorts.
 
 **Hide info panels**
+>Hides important info panel in shorts. 
 
 **Hide join button**
+>Hides join button in shorts.
 
 **Hide like button**
+>Hides like button in shorts.
 
 **Hide paid promotion banner**
+>Hides paid promotion banner in shorts.
 
 **Hide remix button**
+>Hides remix button in shorts
 
 **Hide share button**
+>Hides share button in shorts.
 
 **Hide subscrioptions button**
+>Hides subscription button in shorts.
 
 **Hide thanks button**
+>Hide thanks button in shorts comments.
 
 ***Experimental Flags***
 
 **Hide navigation bar**
+>Hide navigation bar when playing shorts.
 
 **Hide toolbar**
 </details>
@@ -576,26 +619,36 @@ To learn how to config, visit this: https://telegra.ph/Set-downloader-to-RVXRV-0
 >Makes the brightness of HDR videos follow the system default by swiping the player.
 
 **Enable brightness gesture**
+>Enable brightness swipe control.
 
 **Enable volume gesture**
+>Enables volume swipe control.
 
 **Enable press-to-swipe gesture**
+>Enables long press to swipe control instead of normal swipe.
 
 **Enable press-to-swipe haptic feedback**
+>Feels haptic feedback when try to use press-to-swipe gesture.
 
 **Swipe background visibility**
+>Can set the visibility of swipe overlay background.
 
 **Swipe magnitude threshold**
+>Can set the amount of threshold for swipe to occur.
 
 **Swipe overlay text size**
+>Can set the text size for swipe overlay. 
 
 **Swipe overlay timeout**
+>Can set the time (in millisecond) the overlay is visible.
 
 ***Experimental Flags***
 
 **Disable auto HDR brightness**
+>Disable the brightness to set HDR automatically.
 
 **Enable save and restore brightness**
+>Saves & restores the brightness when exiting or entering fullscreen.
 </details>
 
 <details>
@@ -620,6 +673,7 @@ To learn how to config, visit this: https://telegra.ph/Set-downloader-to-RVXRV-0
 
 **Enable custom video speed**
 >Adds more video speed options.
+
 ```
 With edit custom video speeds settings, you can manually type custom video speed you want
 ```
@@ -637,8 +691,51 @@ With edit custom video speeds settings, you can manually type custom video speed
 ### More</summary>
 <img src="/assets/youtube/header/more.jpg" >
 
+**add-splash-animation**
+>Adds splash animation, which was removed in YT v18.19.36+. This patch cannot be used with custom-branding-icon patch.
+
+**custom-branding-icon-mmt**
+>Changes the YouTube launcher icon to MMT.
+
+**custom-branding-youtube-name**
+>Rename the YouTube app to the name specified in options.json.
+
+**custom-package-name**
+>Specifies the package name for YouTube and YT Music in the MicroG build.
+
+**enable-debug-logging**
+>Adds debugging options.
+
+**enable-minimized-playback**
+>Enables minimized and background playback.
+
+**force-hide-player-button-background**
+>Force removes the background from the video player buttons.
+
+**hide-pip-notification**
+>Disable pip notification when you first launch pip mode.
+
+**hide-tooltip-content**
+>Hides the tooltip box that appears on first install.
+
+**language-switch**
+>Add in-app language switch toggle.
+
+**materialyou**
+>Applies the MaterialYou theme for Android 12+ to YouTube.
+
+**settings**
+>Applies mandatory patches to implement ReVanced settings into the application.
+
+**theme**
+>Change the app's theme to the values specified in options.json.
+
+**translations**
+>Add Crowdin translations for YouTube ReVanced Extended settings.
+
+
 ```
-Settings for these features are not available in ReVanced Extended Settings Page
+Settings for some of these features are not available in ReVanced Extended Settings Page
 ```
 
 **Work in progress!!**
@@ -656,6 +753,7 @@ Settings for these features are not available in ReVanced Extended Settings Page
 >Shows the dislike count of videos using the Return YouTube Dislike API.
 
 **Show dislikes on Shorts**
+>Return YouTube Dislike now support Shorts videos. It also shows the dislike count of shorts video using the RYD API.
 
 **Dislikes as percentage**
 
