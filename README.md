@@ -341,6 +341,18 @@ Shows external button on player which allows you to download video locally.
 #### Speed dialog button
 Shows speed dialog button on player. You can change/reset video speed using this button.
 <img src="/assets/youtube/overlay-button/speed-dialog-button.jpg" >
+#### External downloader settings
+Configure external download button with your favourite downloader app.
+<img src="/assets/youtube/overlay-button/external-download-configure.jpg" >
+To learn how to config, visit this: https://telegra.ph/Set-downloader-to-RVXRV-01-09
+<details>
+<summary>
+  
+#### Experimental Flags</summary>
+#### Hook download button
+Hook native download button as external download button. Then native download button also work as a external downloader button.
+<img src="/assets/youtube/overlay-button/hook-download-button.jpg" >
+</details>
 </details>
 
 <details>
