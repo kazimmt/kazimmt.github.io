@@ -11,32 +11,40 @@
 ### Ads</summary>
 <img src="/assets/youtube/header/ads.jpg" >
   
-#### Hide general ads
-Removes general ads.
+**Hide general ads**
+>Removes general ads.
 <img src="/assets/youtube/ads/hide-general-ads.jpg" >
-#### Hide image shelf
-Hides image shelves from YouTube Feed
+
+**Hide image shelf**
+>Hides image shelves from YouTube Feed
 <img src="/assets/youtube/ads/hide-image-shelf.jpg" >
-#### Hide merchandise shelf
-Hides merchandise ads from feed.
+
+**Hide merchandise shelf**
+>Hides merchandise ads from feed.
 <img src="/assets/youtube/ads/hide-merchandise-shelf.jpg" >
-#### Hide paid promotion banner
-Hides paid promotion banner from video
+
+**Hide paid promotion banner**
+>Hides paid promotion banner from video
 <img src="/assets/youtube/ads/hide-paid-promotion-banner.jpg" >
-#### Hide self sponsored cards
-Hides self sponsored cards under video info.
+
+**Hide self sponsored cards**
+>Hides self sponsored cards under video info.
 <img src="/assets/youtube/ads/hide-self-sponsored-card.jpg" >
-#### View Product Banner
-Hides View products Banner from Video Player
+
+**View product Banner**
+>Hides View products Banner from Video Player
 <img src="/assets/youtube/ads/hide-view-products-banner.jpg" >
-#### Web search result
-Hides web search results from search feed.
+
+** Web search result**
+>Hides web search results from search feed.
 <img src="/assets/youtube/ads/hide-web-search-result.jpg" >
-#### Hide Video Ads
-Removes ads in the video player.
+
+**Hide video ads**
+>Removes ads in the video player.
 <img src="/assets/youtube/ads/hide-video-ads.jpg" >
-#### Hide Get Premium
-Hides the YouTube Premium promotion banner between the player and video description.
+
+**Hide get premium**
+>Hides the YouTube Premium promotion banner between the player and video description.
 <img src="/assets/youtube/ads/hide-get-premium.jpg" >
 </details>
 
@@ -46,22 +54,28 @@ Hides the YouTube Premium promotion banner between the player and video descript
 ### Bottom Player</summary>
 <img src="/assets/youtube/header/bottom-player.jpg" >
 
-#### Button container
-#### Hide button container
-Adds the options to hide action buttons under a video.
+**Button container**
+
+**Hide button container**
+>Adds the options to hide action buttons under a video.
 <img src="/assets/youtube/bottom-player/hide-button-container.jpg" >
-#### Comments
-#### Hide channel guidelines
-Hide community guidelines from comments.
+
+**Comments**
+
+**Hide channel guidelines**
+>Hide community guidelines from comments.
 <img src="/assets/youtube/bottom-player/hide-channel-guidelines.jpg" >
-#### Hide comments section
-Adds options to hide comment component under a video.
+
+**Hide comments section**
+>Adds options to hide comment component under a video.
 <img src="/assets/youtube/bottom-player/hide-comment-section.jpg" >
-#### Hide thanks button
-Hides super thanks button from shorts comments.
+
+**Hide thanks button**
+>Hides super thanks button from shorts comments.
 <img src="/assets/youtube/bottom-player/hide-thanks-button.jpg" >
-#### Hide preview comment
-Hides preview from comments
+
+**Hide preview comment**
+>Hides preview from comments
 <img src="/assets/youtube/bottom-player/hide-preview-comment.jpg" >
 </details>
 
@@ -71,16 +85,20 @@ Hides preview from comments
 ### Flyout Menu</summary>
 <img src="/assets/youtube/header/flyout-menu.jpg" >
 
-#### Feed flyout panel
-#### Hide feed flyout menu
-Hides components from feed flyout menu.
+**Feed flyout panel**
+
+**Hide feed flyout menu**
+>Hides components from feed flyout menu.
 <img src="/assets/youtube/flyout-menu/hide-feed-flyout-menu.jpg" >
-#### Player flyout panel
-#### Enable Old Quality Layout
-Enables the original quality flyout menu.
+
+**Player flyout panel**
+
+**Enable old quality layout**
+>Enables the original quality flyout menu.
 <img src="/assets/youtube/flyout-menu/enable-old-quality-layout.jpg" >
-#### Hide flyout panel
-Adds options to hide player settings flyout panel.
+
+**Hide flyout panel**
+>Adds options to hide player settings flyout panel.
 <img src="/assets/youtube/flyout-menu/hide-flyout-panel.jpg" >
 </details>
 
@@ -90,22 +108,30 @@ Adds options to hide player settings flyout panel.
 ### Fullscreen</summary>
 <img src="/assets/youtube/header/fullscreen.jpg" >
 
-#### Hide autoplay preview
-Hides the autoplay preview container in the fullscreen.
+**Hide autoplay preview**
+>Hides the autoplay preview container in the fullscreen.
 <img src="/assets/youtube/fullscreen/hide-autoplay-preview.jpg" >
-#### Hide endscreen overlay
-Hide endscreen overlay on swipe controls.
+
+**Hide endscreen overlay**
+>Hide endscreen overlay on swipe controls.
 <img src="/assets/youtube/fullscreen/hide-endscreen-overlay.jpg" >
-#### Hide fullscreen panels
-Hides video description and comments panel in fullscreen view.
+
+**Hide fullscreen panels**
+>Hides video description and comments panel in fullscreen view.
 <img src="/assets/youtube/fullscreen/hide-fullscreen-panels.jpg" >
-#### Quick actions
-#### Hide quick actions container
-Adds the options to hide quick actions components in the fullscreen.
+
+**Quick actions**
+
+**Hide quick actions container**
+>Adds the options to hide quick actions components in the fullscreen.
 <img src="/assets/youtube/fullscreen/hide-quick-actions-container.jpg" >
 ```You can also hide them separately.```
-#### Experimental Flags
-#### Enable compact controls overlay
+
+**Experimental Flags**
+
+**Enable compact controls overlay**
+>Compact all control overlay in fullscressn.
+<img src="/assets/youtube/fullscreen/enable-compact-controls-overlay.jpg"
 </details>
 
 <details>
