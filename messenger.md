@@ -5,9 +5,6 @@
 
 [![Hits](https://hits.sh/github.com/kazimmt/rvx-features/messenger.md/hits.svg)](https://hits.sh/github.com/kazimmt/rvx-features/messenger.md/hits/)
 
-<details>
-<summary>
-
 ### Disable switching emoji to sticker in message input field
 >Disable switching emoji to sticker in message input field
 
