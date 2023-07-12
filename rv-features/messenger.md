@@ -12,6 +12,7 @@
 </summary>
 
 >Disable switching emoji to sticker in message input field
+![](../assets/messenger/Disable-switching-emoji-to-sticker-in-message-input-field.jpg)
 </details>
 
 <details>
@@ -21,6 +22,7 @@
 </summary>
 
 >Disables the indicator while typing a message
+![](../assets/messenger/Disable-typing-indicator.jpg)
 </details>
 
 <details>
@@ -30,4 +32,5 @@
 </summary>
 
 >Hides ads in messenger inbox
-<details>
+![](../assets/messenger/Hide-inbox-ads.jpg)
+</details>
