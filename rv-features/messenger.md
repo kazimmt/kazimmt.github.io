@@ -3,7 +3,7 @@
 
 ## Organized Messenger ReVanced functionalities along with visual illustrations, arranged alphabetically.
 
-[![Hits](https://hits.sh/github.com/kazimmt/rvx-features/messenger.md/hits.svg)](https://hits.sh/github.com/kazimmt/rvx-features/messenger.md/hits/)
+[![Hits](https://hits.sh/github.com/kazimmt/rvx-features/messenger/hits.svg)](https://hits.sh/github.com/kazimmt/rvx-features/messenger/hits/)
 
 <details>
 <summary>
