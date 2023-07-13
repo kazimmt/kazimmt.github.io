@@ -1,4 +1,4 @@
-# Messenger ReVanced Extended
+# Messenger ReVanced
 
 
 ## Organized Messenger ReVanced functionalities along with visual illustrations, arranged alphabetically.
