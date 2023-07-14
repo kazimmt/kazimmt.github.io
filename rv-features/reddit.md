@@ -67,8 +67,9 @@
 ### Reddit Settings
 </summary>
 
->Adds ReVanced settings to Reddit.
+>Adds ReVanced Extended settings to Reddit.
 
+![](../assets/reddit/Reddit-Settings.jpg)
 </details>
 
 <details>
