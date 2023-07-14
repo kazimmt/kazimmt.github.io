@@ -35,7 +35,7 @@
 >Hides View products Banner from Video Player
 <img src="/assets/youtube/ads/hide-view-products-banner.jpg" >
 
-** Web search result**
+**Web search result**
 >Hides web search results from search feed.
 <img src="/assets/youtube/ads/hide-web-search-result.jpg" >
 
@@ -281,7 +281,7 @@
 
 **Hide place section**
 >Hides place section from video description
-<img src="/assets/youtube/general/hide-place-section123.jpg" >
+<img src="/assets/youtube/general/hide-place-section.jpg" >
 
 **Hide transcript section**
 >Hides transcript section from video description
@@ -462,64 +462,81 @@ To learn how to config, visit this: https://telegra.ph/Set-downloader-to-RVXRV-0
 ### Player</summary>
 <img src="/assets/youtube/header/player.jpg" >
 
-***Work in progress!!***
 **Hide audio track button**
 >Hide the audio track button shown in the video player.
+![](assets/youtube/player/Hide-audio-track-button.jpg)
 
 **Hide autoplay button**
 >Hides the captions button in the video player.
+![](assets/youtube/player/Hide-autoplay-button.jpg)
 
 **Hide captions button**
 >Hides the captions button in the video player.
+![](assets/youtube/player/Hide-captions-button.jpg)
 
 **Hide cast button**
 >Hides the cast button in the video player.
+![](assets/youtube/player/Hide-cast-button.jpg)
 
 **Hide channel watermark**
->Hides the collapse button in the video player.
+>Hides the channel watermark in the video player.
+![](assets/youtube/player/Hide-channel-watermark.jpg)
 
 **Hide collapse button**
 >Hides the collapse button in the video player.
+![](assets/youtube/player/Hide-collapse-button.jpg)
 
 **Hide endscreen cards**
 >Hides the suggested video cards at the end of a video.
+![](assets/youtube/player/Hide-endscreen-cards.jpg)
 
 **Hide info cards**
 >Hides info-cards in videos.
+![](assets/youtube/player/Hide-info-cards.jpg)
 
 **Hide live chat button**
 >Hides the live chat button in the video player (for old layout).
+![](assets/youtube/player/Hide-live-chat-button.jpg)
 
 **Hide player button background**
 >Hides dark filter layer from player button.
+![](assets/youtube/player/Hide-player-button-background.jpg)
 
 **Hide player overlay filter**
->Removes the double tap dark filter layer.
+>Removes the dark filter layer from player when you tap on it.
+![](assets/youtube/player/Hide-player-overlay-filter.jpg)
 
 **Hide previous & next button**
 >Hides the previous and next button in the player controller.
+![](assets/youtube/player/Hide-previous-and-next-button.jpg)
 
 **Hide seek message**
 >Hides the 'Slide left or right to seek' message container.
+![](assets/youtube/player/Hide-seek-message.jpg)
 
 **Hide speed overlay**
 >Hides speed overlay in player.
+![](assets/youtube/player/Hide-speed-overlay.jpg)
 
 **Hide suggested actions**
 >Hide the suggested actions bar inside the player.
+![](assets/youtube/player/Hide-suggested-actions.jpg)
 
 **Hide youtube music button**
 >Hides the YouTube Music button in the video player.
+![](assets/youtube/player/Hide-youtube-music-button.jpg)
 
 ***Experimental Flags***
 
 **Hide film strip overlay**
 >Hide flimstrip overlay on swipe controls.
+![](assets/youtube/player/Hide-filmstrip-overlay.jpg)
 
 ***Haptic feedback***
 
 **Disable haptic feedback in various situation**
 >Disables haptic feed from below functionalities.
+![](assets/youtube/player/Disable-haptic-feedback.jpg)
 </details>
 
 <details>
