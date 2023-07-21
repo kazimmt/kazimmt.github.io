@@ -740,32 +740,42 @@ https://github.com/kazimmt/RVX-Features/assets/82371061/9e0dcdfd-fe78-44c5-bc23-
 ### Videos</summary>
 <img src="/assets/youtube/header/videos.jpg" >
 
-***Work in progress!!***
-
 **Default video quality**
 >Adds ability to set default video quality.
 
-**Default video speed**
->Adds ability to set default video speed.
+![](assets/youtube/video/Default-Video-Quality.jpg)
 
-**Disable HDR video
+**Default playback speed**
+>Adds ability to set default playback speed.
+
+![](assets/youtube/video/Default-playback-speed.jpg)
+
+**Disable HDR video**
 >Disables HDR video experience.
 
-**Disable video speed in live stream**
->Disables video speed function in live stream.
+![](assets/youtube/video/Disable-HDR-Video.jpg)
 
-**Enable custom video speed**
->Adds more video speed options.
+**Disable playback speed in live stream**
+>Disables playback speed function in live stream.
+
+**Enable custom playback speed**
+>Adds more playback speed options.
+
+![](assets/youtube/video/Enable-custom-playback-speed.jpg)
 
 ```
-With edit custom video speeds settings, you can manually type custom video speed you want
+With edit custom playback speeds settings, you can manually type custom video speed you want
 ```
 
 **Enable save video quality**
 >Whenever you change the video quality while watching video, it remembers the new video quality.
 
+![](assets/youtube/video/Enable-save-video-quality.jpg)
+
 **Enable save video speed**
 >Whenever you change the video speed while watching video, it remembers the new video speed.
+
+![](assets/youtube/video/Enable-save-playback-speed.jpg)
 </details>
 
 <details>
