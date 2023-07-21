@@ -563,32 +563,42 @@ To learn how to config, visit this: https://telegra.ph/Set-downloader-to-RVXRV-0
 ### Seekbar</summary>
 <img src="/assets/youtube/header/seekbar.jpg" >
 
-***Work in progress!!***
-
 **Enable custom seekbar color**
 >Adds an option to change dark mode gray seekbar color to any color.
 
-**Custom seekbar color value**
+![](assets/youtube/seekbar/Enable-custom-seekbar-color.jpg)
+
 >You can set any color with hex color code.
 
 **Enable new thumbnail preview**
 >Enables a new type of thumbnail preview.
 
+![](assets/youtube/seekbar/Enable-new-thumbnail-preview.jpg)
+
 **Enable seekbar tapping**
 >Enables tap-to-seek on the seekbar of the video player.
+
+![](assets/youtube/seekbar/Enable-seekbar-tapping.jpg)
 
 **Enable time stamp speed**
 >Adds the current video speed in brackets next to the current time.
 
+![](assets/youtube/seekbar/Enable-timestamp-speed.jpg)
+
 **Hide seekbar in video player**
 >Hides the seekbar in video player.
+
+![](assets/youtube/seekbar/Hide-seekbar-in-video-player.jpg)
 
 **Hide seekbar in video thumbnails**
 >Hides the seekbar in video thumbnails.
 
+![](assets/youtube/seekbar/Hide-seekbar-in-video-thumbnails.jpg)
+
 **Hide time stamp**
 >Hides timestamp in video player.
 
+![](assets/youtube/seekbar/Hide-time-stamp.jpg)
 </details>
 
 <details>
