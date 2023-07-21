@@ -125,7 +125,9 @@
 **Hide quick actions container**
 >Adds the options to hide quick actions components in the fullscreen.
 <img src="/assets/youtube/fullscreen/hide-quick-actions-container.jpg" >
-```You can also hide them separately.```
+```
+You can also hide them separately.
+```
 
 **Experimental Flags**
 
