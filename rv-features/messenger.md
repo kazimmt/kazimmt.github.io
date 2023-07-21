@@ -5,6 +5,8 @@
 
 [![Hits](https://hits.sh/github.com/kazimmt/rvx-features/messenger/hits.svg)](https://hits.sh/github.com/kazimmt/rvx-features/messenger/hits/)
 
+<details><summary> 👈 <code><i> Click arrows to expand/collapse details on this page </i></code></summary></details>
+
 <details>
 <summary>
 
