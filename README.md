@@ -784,54 +784,70 @@ With edit custom playback speeds settings, you can manually type custom video sp
 ### More</summary>
 <img src="/assets/youtube/header/more.jpg" >
 
-**add-splash-animation**
+**Add splash animation**
 >Adds splash animation, which was removed in YT v18.19.36+. This patch cannot be used with custom-branding-icon patch.
+>Animation only works in Android 12+ devices.
 
-**custom-branding-icon-mmt**
+**Custom branding icon mmt**
 >Changes the YouTube launcher icon to MMT.
 
-**custom-branding-youtube-name**
+**Custom branding youtube name**
 >Rename the YouTube app to the name specified in options.json.
 
-**custom-package-name**
+**Custom package name**
 >Specifies the package name for YouTube and YT Music in the MicroG build.
 
-**enable-debug-logging**
+**Enable debug logging**
 >Adds debugging options.
 
-**enable-minimized-playback**
+**Enable minimized playback**
 >Enables minimized and background playback.
 
-**force-hide-player-button-background**
+![](assets/youtube/more/Enable-minimized-playback.jpg)
+
+**Force hide player button background**
 >Force removes the background from the video player buttons.
 
-**hide-pip-notification**
+![](assets/youtube/more/Force-hide-player-button-background.jpg)
+
+**Hide pip notification**
 >Disable pip notification when you first launch pip mode.
 
-**hide-tooltip-content**
+![](assets/youtube/more/Hide-pip-notification.jpg)
+
+**Hide tooltip content**
 >Hides the tooltip box that appears on first install.
 
-**language-switch**
+![](assets/youtube/more/Hide-tooltip-content.jpg)
+
+**Language switch**
 >Add in-app language switch toggle.
 
-**materialyou**
+![](assets/youtube/more/Language-switch.jpg)
+
+**MaterialYou**
 >Applies the MaterialYou theme for Android 12+ to YouTube.
 
-**settings**
+![](assets/youtube/more/MaterialYou.jpg)
+
+**Settings**
 >Applies mandatory patches to implement ReVanced settings into the application.
 
-**theme**
->Change the app's theme to the values specified in options.json.
+![](assets/youtube/more/settings.jpg)
 
-**translations**
+**Theme**
+>Change the app's theme to the values specified in options.json. [by default: Black]
+
+![](assets/youtube/more/Theme.jpg)
+
+**Translations**
 >Add Crowdin translations for YouTube ReVanced Extended settings.
 
+![](assets/youtube/more/Translations.jpg)
 
 ```
 Settings for some of these features are not available in ReVanced Extended Settings Page
 ```
-
-**Work in progress!!**
 </details>
 
 <details>
