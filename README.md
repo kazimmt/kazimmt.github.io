@@ -692,16 +692,20 @@ https://github.com/kazimmt/RVX-Features/assets/82371061/9e0dcdfd-fe78-44c5-bc23-
 ### Swipe Control</summary>
 <img src="/assets/youtube/header/swipe-control.jpg" >
 
-***Work in progress!!***
-
 **Enable auto-brightness by swiping**
 >Makes the brightness of HDR videos follow the system default by swiping the player.
+
+![](assets/youtube/swipe-control/Enable-auto-brightness-by-swiping.jpg)
 
 **Enable brightness gesture**
 >Enable brightness swipe control.
 
+![](assets/youtube/swipe-control/Enable-brightness-gesture.jpg)
+
 **Enable volume gesture**
 >Enables volume swipe control.
+
+![](assets/youtube/swipe-control/Enable-volume-gesture.jpg)
 
 **Enable press-to-swipe gesture**
 >Enables long press to swipe control instead of normal swipe.
