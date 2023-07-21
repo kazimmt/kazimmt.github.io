@@ -356,7 +356,7 @@ Using Edit spoof app version, you can manually type any app version
 ```
 
 **Spoof players parameter**
->Spoofs player parameters to prevent playback issues. You can also change Spoof player parameter type inside same settings. There are two types of Parameter. 1. **Player parameters of shors**, 2. **Player parameters of incognito mode**. Try another if one doesn't work for you.
+>Spoofs player parameters to prevent playback issues. You can also change Spoof player parameter type inside same settings. There are two types of Parameter. 1. **Player parameters of shorts**, 2. **Player parameters of incognito mode**. Try another if one doesn't work for you.
 <img src="/assets/youtube/miscellaneous/spoof-player-parameter.jpg" >
 
 ```
@@ -606,8 +606,6 @@ To learn how to config, visit this: https://telegra.ph/Set-downloader-to-RVXRV-0
 
 ### Shorts</summary>
 <img src="/assets/youtube/header/shorts.jpg" >
-
-***Work in progress!!***
 
 **Hide shorts shelf**
 >Hides shorts shelf from Feed.
