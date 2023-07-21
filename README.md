@@ -619,7 +619,7 @@ To learn how to config, visit this: https://telegra.ph/Set-downloader-to-RVXRV-0
 **Disable shorts player at app startup**
 >Disables playing YouTube Shorts when launching YouTube.
 
-https://github.com/kazimmt/RVX-Features/assets/youtube/shorts/Disable-shorts-player-app-startup.mp4
+https://github.com/kazimmt/RVX-Features/assets/82371061/9e0dcdfd-fe78-44c5-bc23-8a1b22011413
 
 **Hide comments button**
 >Hides comments button from shorts.
