@@ -1,7 +1,6 @@
 # YouTube ReVanced Extended Features
 
-
-## Organized YouTube ReVanced Extended functionalities along with visual illustrations, arranged based on RVX Settings.
+## Organized YouTube ReVanced Extended functionalities along with visual illustrations, arranged based on RVX Settings (Alphabetically).
 
 [![Hits](https://hits.sh/github.com/kazimmt/rvx-features/hits.svg)](https://hits.sh/github.com/kazimmt/rvx-features/hits/)
 
@@ -29,23 +28,23 @@
 >Hides paid promotion banner from video
 <img src="/assets/youtube/ads/hide-paid-promotion-banner.jpg" >
 
-**Hide self sponsored cards**
+**Hide Hide self sponsored cards**
 >Hides self sponsored cards under video info.
 <img src="/assets/youtube/ads/hide-self-sponsored-card.jpg" >
-
-**View product Banner**
->Hides View products Banner from Video Player
-<img src="/assets/youtube/ads/hide-view-products-banner.jpg" >
-
-**Web search result**
->Hides web search results from search feed.
-<img src="/assets/youtube/ads/hide-web-search-result.jpg" >
 
 **Hide video ads**
 >Removes ads in the video player.
 <img src="/assets/youtube/ads/hide-video-ads.jpg" >
 
-**Hide get premium**
+**Hide View product Banner**
+>Hides View products Banner from Video Player
+<img src="/assets/youtube/ads/hide-view-products-banner.jpg" >
+
+**Hide Web search result**
+>Hides web search results from search feed.
+<img src="/assets/youtube/ads/hide-web-search-result.jpg" >
+
+**Hide YouTube Premium promotion**
 >Hides the YouTube Premium promotion banner between the player and video description.
 <img src="/assets/youtube/ads/hide-get-premium.jpg" >
 </details>
@@ -59,8 +58,12 @@
 **Button container**
 
 **Hide button container**
+
+**Hide action buttons**
 >Adds the options to hide action buttons under a video.
 <img src="/assets/youtube/bottom-player/hide-button-container.jpg" >
+
+💡 <code><i>You can hide **Clip**, **Dislike**, **Download**, **Download**, **Like**, **Playlist**, **Rewards** button separately</i></code>
 
 **Comments**
 
@@ -72,13 +75,19 @@
 >Adds options to hide comment component under a video.
 <img src="/assets/youtube/bottom-player/hide-comment-section.jpg" >
 
-**Hide thanks button**
->Hides super thanks button from comments.
-<img src="/assets/youtube/bottom-player/hide-thanks-button.jpg" >
+**Hide emoji button**
+>Hides emoji button from comment section.
+
+**Hides emoji picker**
+>Hides emoji picker from comments section.
 
 **Hide preview comment**
 >Hides preview from comments
 <img src="/assets/youtube/bottom-player/hide-preview-comment.jpg" >
+
+**Hide thanks button**
+>Hides super thanks button from comments.
+<img src="/assets/youtube/bottom-player/hide-thanks-button.jpg" >
 </details>
 
 <details>
@@ -102,6 +111,8 @@
 **Hide flyout panel**
 >Adds options to hide player settings flyout panel.
 <img src="/assets/youtube/flyout-menu/hide-flyout-panel.jpg" >
+
+💡 <code><i>You can hide **Ambient mode**, **Audio track**, **Captions**, **Help & Feedback**, **Listen with YouTube Music**, **Listening controls**, **Loop video**, **More information**, **Playback speed**, **Report**, **Stats for nerds**, **Watch in VR** menu seperately</i></code>
 </details>
 
 <details>
@@ -122,14 +133,15 @@
 >Hides video description and comments panel in fullscreen view.
 <img src="/assets/youtube/fullscreen/hide-fullscreen-panels.jpg" >
 
+💡 <code><i>When fullscreen panels are hidden, you can how the title only with **Show fullscreen title** setting.</i></code>
+
 **Quick actions**
 
 **Hide quick actions container**
 >Adds the options to hide quick actions components in the fullscreen.
 <img src="/assets/youtube/fullscreen/hide-quick-actions-container.jpg" >
-```
-You can also hide them separately.
-```
+
+💡 <code><i>You can hide **Comment**, **Dislike**, **Like**, **Live chat**, **More**, **Playlist** button seperately</i></code>
 
 **Experimental Flags**
 
@@ -168,6 +180,8 @@ You can also hide them separately.
 >Hide the category bar at the top of the feed, at the top of related videos & from search result.
 <img src="/assets/youtube/general/hide-category-bar.jpg" >
 
+💡 <code><i>You can hide **Category bar in feed**, **Category bar in related videos**, **Category bar in search results** seperately</i></code>
+
 **Hide channel avatar section**
 >Hides the channel avatar section of the subscription feed.
 <img src="/assets/youtube/general/hide-channel-avatar-section.jpg" >
@@ -176,7 +190,7 @@ You can also hide them separately.
 >Hides the crowdfunding box between the player and video description.
 <img src="/assets/youtube/general/hide-crowdfunding-box.jpg" >
 
-**Hide email address**
+**Hide email address (handle)**
 >Hides the email address(handle) in the account switcher.
 <img src="/assets/youtube/general/hide-email-address.jpg" >
 
@@ -192,7 +206,7 @@ You can also hide them separately.
 >Removes mix playlists from home feed and video player.
 <img src="/assets/youtube/general/hide-mix-playlist.jpg" >
 
-**Hide snackbar**
+**Hide snack bar**
 >Hides the snackbar action popup.
 <img src="/assets/youtube/general/hide-snackbar.jpg" >
 
@@ -210,6 +224,10 @@ You can also hide them separately.
 
 **Layout**
 
+**Enable custom filter**
+>Enable filtering any layouts
+>Write components by line-seperated names
+
 **Hide album cards**
 >Hides the album cards below the artist description.
 <img src="/assets/youtube/general/hide-album-cards.jpg" >
@@ -224,6 +242,8 @@ You can also hide them separately.
 **Hide community post**
 >Hides community posts on the homepage tab & also from subscriptions feed.
 <img src="/assets/youtube/general/hide-community-post.jpg" >
+
+💡 <code><i>You can hide **Community posts in home feed** & **Community posts in subscriptions feed** seperately</i></code>
 
 **Hide expandable chip under video**
 >Hides expandable chip under video
@@ -265,7 +285,7 @@ You can also hide them separately.
 >Hides official header from any search result
 <img src="/assets/youtube/general/hide-official-header.jpg" >
 
-**Hide Ticket shelf**
+**Hide ticket shelf**
 >Hides ticket shelf of any upcoming events from search & related videos.
 <img src="/assets/youtube/general/hide-ticket-shelf.jpg" >
 
@@ -276,8 +296,14 @@ You can also hide them separately.
 **Description**
 
 **Hide Chapters**
->Hides chapters from video description
+>Hides chapters section from video description
 <img src="/assets/youtube/general/hide-chapters.jpg" >
+
+**Hide game section**
+>Hides game section from video description
+
+**Hide info cards section**
+>Hides info cards section from video description
 
 **Hide music section**
 >Hides music section from video description
@@ -302,6 +328,10 @@ You can also hide them separately.
 >Bypass ambient mode restrictions in battery saver mode.
 <img src="/assets/youtube/miscellaneous/bypass-ambient-mode-restriction.jpg" >
 
+**Double back timeout**
+>Set the number of seconds the double press back to exit.
+<img src="/assets/youtube/miscellaneous/double-back-timeout.jpg" >
+
 **Enable external browser**
 >Open URL outside the app in an external browser.
 <img src="/assets/youtube/miscellaneous/enable-external-browser.jpg" >
@@ -314,10 +344,6 @@ You can also hide them separately.
 >Skips over redirection URLs to external links.
 <img src="/assets/youtube/miscellaneous/enable-open-links-directly.jpg" >
 
-**Double back timeout**
->Set the number of seconds the double press back to exit.
-<img src="/assets/youtube/miscellaneous/double-back-timeout.jpg" >
-
 **Open default app settings**
 >It allows you to set YouTube ReVanced Extended as default to open YouTube Links from anywhere.
 <img src="/assets/youtube/miscellaneous/open-default-app-settings.jpg" >
@@ -328,10 +354,10 @@ You can also hide them separately.
 
 ***Experimental Flags***
 
-**Disable quic Protocol**
+**Disable QUIC protocol**
 >Disable CronetEngine's QUIC protocol. Read More: https://t.me/ReVancedBuildMMT/56259
 
-**Enable force opus codec**
+**Enable opus codec**
 >Apply Opus codec instead of mp4a audio codec.
 <img src="/assets/youtube/miscellaneous/enable-force-opus-codec.jpg" >
 
@@ -355,17 +381,14 @@ You can also hide them separately.
 >Spoof YouTube version to any old version to access some old features.
 <img src="/assets/youtube/miscellaneous/spoof-app-version.jpg" >
 
-```
-Using Edit spoof app version, you can manually type any app version
-```
+💡 <code><i>Using Edit spoof app version, you can manually type any app version</i></code>
 
 **Spoof players parameter**
 >Spoofs player parameters to prevent playback issues. You can also change Spoof player parameter type inside same settings. There are two types of Parameter. 1. **Player parameters of shorts**, 2. **Player parameters of incognito mode**. Try another if one doesn't work for you.
 <img src="/assets/youtube/miscellaneous/spoof-player-parameter.jpg" >
 
-```
-Don't forget to read side effects
-```
+💡 <code><i>Don't forget to read side effects</i></code>
+
 </details>
 
 <details>
@@ -383,8 +406,6 @@ Don't forget to read side effects
 **Enable tablet navigation Bar**
 >Enables the tablet navigation bar.
 <img src="/assets/youtube/navigation/enable-tablet-navigation-bar.jpg" >
-
-***Hide navigation buttons***
 
 **Hide create button**
 >Hides create button from navigation.
@@ -414,8 +435,8 @@ Don't forget to read side effects
 >When you start the app, the main page becomes the library instead of the home feed
 <img src="/assets/youtube/navigation/open-library-on-app-startup.jpg" >
 
-**Switch create with notification button**
->Switching the create button and notification button.
+**Switch create with notifications button**
+>Switching the create button and notificatiosn button.
 <img src="/assets/youtube/navigation/switch-create-with-notification.jpg" >
 </details>
 
@@ -425,30 +446,30 @@ Don't forget to read side effects
 ### Overlay Button</summary>
 <img src="/assets/youtube/header/overlay-button.jpg" >
 
-**Always autorepeat button**
+**Show Always autorepeat button**
 >Shows always autorepeat button on player. You can autorepeat any video by pressing this button.
 <img src="/assets/youtube/overlay-button/always-autorepeat-button.jpg" >
 
-**Copy video URL button**
->Shows copy video url button on player. You can copy video link directly by pressing this button.
-<img src="/assets/youtube/overlay-button/copy-video-url-button.jpg" >
-
-**Copy timestamp URL button**
+**Show Copy timestamp URL button**
 >Shows copy timestamp url button on player. You can copy video link with current timestamp directly by pressing this button.
 <img src="/assets/youtube/overlay-button/copy-timestamp-url-button.jpg" >
 
-**External download button**
+**Show Copy video URL button**
+>Shows copy video url button on player. You can copy video link directly by pressing this button.
+<img src="/assets/youtube/overlay-button/copy-video-url-button.jpg" >
+
+**Show External download button**
 >Shows external button on player which allows you to download video locally.
 <img src="/assets/youtube/overlay-button/external-download-button.jpg" >
-
-**Speed dialog button**
->Shows speed dialog button on player. You can change/reset video speed using this button.
-<img src="/assets/youtube/overlay-button/speed-dialog-button.jpg" >
 
 **External downloader settings**
 >Configure external download button with your favourite downloader app.
 <img src="/assets/youtube/overlay-button/external-download-configure.jpg" >
 To learn how to config, visit this: https://telegra.ph/Set-downloader-to-RVXRV-01-09
+
+**Show Speed dialog button**
+>Shows speed dialog button on player. You can change/reset video speed using this button.
+<img src="/assets/youtube/overlay-button/speed-dialog-button.jpg" >
 <details>
 <summary>
 
@@ -468,97 +489,77 @@ To learn how to config, visit this: https://telegra.ph/Set-downloader-to-RVXRV-0
 
 **Hide audio track button**
 >Hide the audio track button shown in the video player.
-
-![](assets/youtube/player/Hide-audio-track-button.jpg)
+<img src="/assets/youtube/player/Hide-audio-track-button.jpg">
 
 **Hide autoplay button**
 >Hides the captions button in the video player.
-
-![](assets/youtube/player/Hide-autoplay-button.jpg)
+<img src="/assets/youtube/player/Hide-autoplay-button.jpg">
 
 **Hide captions button**
 >Hides the captions button in the video player.
-
-![](assets/youtube/player/Hide-captions-button.jpg)
+<img src="/assets/youtube/player/Hide-captions-button.jpg">
 
 **Hide cast button**
 >Hides the cast button in the video player.
-
-![](assets/youtube/player/Hide-cast-button.jpg)
+<img src="/assets/youtube/player/Hide-cast-button.jpg">
 
 **Hide channel watermark**
 >Hides the channel watermark in the video player.
-
-![](assets/youtube/player/Hide-channel-watermark.jpg)
+<img src="/assets/youtube/player/Hide-channel-watermark.jpg">
 
 **Hide collapse button**
 >Hides the collapse button in the video player.
-
-![](assets/youtube/player/Hide-collapse-button.jpg)
+<img src="/assets/youtube/player/Hide-collapse-button.jpg">
 
 **Hide endscreen cards**
 >Hides the suggested video cards at the end of a video.
-
-![](assets/youtube/player/Hide-endscreen-cards.jpg)
+<img src="/assets/youtube/player/Hide-endscreen-cards.jpg">
 
 **Hide info cards**
 >Hides info-cards in videos.
-
-![](assets/youtube/player/Hide-info-cards.jpg)
-
-**Hide live chat button**
->Hides the live chat button in the video player (for old layout).
-
-![](assets/youtube/player/Hide-live-chat-button.jpg)
+<img src="/assets/youtube/player/Hide-info-cards.jpg">
 
 **Hide player button background**
 >Hides dark filter layer from player button.
-
-![](assets/youtube/player/Hide-player-button-background.jpg)
+<img src="/assets/youtube/player/Hide-player-button-background.jpg">
 
 **Hide player overlay filter**
 >Removes the dark filter layer from player when you tap on it.
-
-![](assets/youtube/player/Hide-player-overlay-filter.jpg)
+<img src="/assets/youtube/player/Hide-player-overlay-filter.jpg">
 
 **Hide previous & next button**
 >Hides the previous and next button in the player controller.
-
-![](assets/youtube/player/Hide-previous-and-next-button.jpg)
+<img src="/assets/youtube/player/Hide-previous-and-next-button.jpg">
 
 **Hide seek message**
 >Hides the 'Slide left or right to seek' message container.
-
-![](assets/youtube/player/Hide-seek-message.jpg)
+<img src="/assets/youtube/player/Hide-seek-message.jpg">
 
 **Hide speed overlay**
 >Hides speed overlay in player.
-
-![](assets/youtube/player/Hide-speed-overlay.jpg)
+<img src="/assets/youtube/player/Hide-speed-overlay.jpg">
 
 **Hide suggested actions**
 >Hide the suggested actions bar inside the player.
+<img src="/assets/youtube/player/Hide-suggested-actions.jpg">
 
-![](assets/youtube/player/Hide-suggested-actions.jpg)
-
-**Hide youtube music button**
+**Hide YouYube Music button**
 >Hides the YouTube Music button in the video player.
-
-![](assets/youtube/player/Hide-youtube-music-button.jpg)
+<img src="/assets/youtube/player/Hide-youtube-music-button.jpg">
 
 ***Experimental Flags***
 
 **Hide film strip overlay**
 >Hide flimstrip overlay on swipe controls.
-
-![](assets/youtube/player/Hide-filmstrip-overlay.jpg)
+<img src="/assets/youtube/player/Hide-filmstrip-overlay.jpg">
 
 ***Haptic feedback***
 
 **Disable haptic feedback in various situation**
 >Disables haptic feed from below functionalities.
+<img src="/assets/youtube/player/Disable-haptic-feedback.jpg">
 
-![](assets/youtube/player/Disable-haptic-feedback.jpg)
+<i>💡 You can disable **Chapters haptic feedback**, **Scrubbing haptic feedback**, **Seek haptic feedback**, **Zoom haptic feedback** seperately</i>
 </details>
 
 <details>
@@ -569,40 +570,33 @@ To learn how to config, visit this: https://telegra.ph/Set-downloader-to-RVXRV-0
 
 **Enable custom seekbar color**
 >Adds an option to change dark mode gray seekbar color to any color.
+<img src="/assets/youtube/seekbar/Enable-custom-seekbar-color.jpg">
 
-![](assets/youtube/seekbar/Enable-custom-seekbar-color.jpg)
-
->You can set any color with hex color code.
+💡 <code><i>You can set any color with hex color code.</i></code>
 
 **Enable new thumbnail preview**
 >Enables a new type of thumbnail preview.
-
-![](assets/youtube/seekbar/Enable-new-thumbnail-preview.jpg)
+<img src="/assets/youtube/seekbar/Enable-new-thumbnail-preview.jpg">
 
 **Enable seekbar tapping**
 >Enables tap-to-seek on the seekbar of the video player.
-
-![](assets/youtube/seekbar/Enable-seekbar-tapping.jpg)
+<img src="/(assets/youtube/seekbar/Enable-seekbar-tapping.jpg">
 
 **Enable time stamp speed**
 >Adds the current video speed in brackets next to the current time.
-
-![](assets/youtube/seekbar/Enable-timestamp-speed.jpg)
+<img src="/assets/youtube/seekbar/Enable-timestamp-speed.jpg">
 
 **Hide seekbar in video player**
 >Hides the seekbar in video player.
-
-![](assets/youtube/seekbar/Hide-seekbar-in-video-player.jpg)
+<img src="/assets/youtube/seekbar/Hide-seekbar-in-video-player.jpg">
 
 **Hide seekbar in video thumbnails**
 >Hides the seekbar in video thumbnails.
-
-![](assets/youtube/seekbar/Hide-seekbar-in-video-thumbnails.jpg)
+<img src="/assets/youtube/seekbar/Hide-seekbar-in-video-thumbnails.jpg">
 
 **Hide time stamp**
 >Hides timestamp in video player.
-
-![](assets/youtube/seekbar/Hide-time-stamp.jpg)
+<img src="/assets/youtube/seekbar/Hide-time-stamp.jpg)".
 </details>
 
 <details>
@@ -613,8 +607,7 @@ To learn how to config, visit this: https://telegra.ph/Set-downloader-to-RVXRV-0
 
 **Hide shorts shelf**
 >Hides shorts shelf from Feed.
-
-![](assets/youtube/shorts/Hide-shorts-shelf.jpg)
+<img src="/assets/youtube/shorts/Hide-shorts-shelf.jpg">
 
 ***Shorts player***
 
@@ -623,67 +616,59 @@ To learn how to config, visit this: https://telegra.ph/Set-downloader-to-RVXRV-0
 
 https://github.com/kazimmt/RVX-Features/assets/82371061/9e0dcdfd-fe78-44c5-bc23-8a1b22011413
 
+**Enable new comment popup panels**
+>Enable new type of comment popup panels in shorts.
+<img src="/assets/youtube/shorts/Enable-new-comment-popup-panel.jpg" >
+
 **Hide comments button**
 >Hides comments button from shorts.
-
-![](assets/youtube/shorts/Hide-comments-button.jpg)
+<img src="/assets/youtube/shorts/Hide-comments-button.jpg">
 
 **Hide dislike button**
 >Hides dislike button in shorts
-
-![](assets/youtube/shorts/Hide-dislike-button.jpg)
+<img src="/assets/youtube/shorts/Hide-dislike-button.jpg">
 
 **Hide info panels**
 >Hides important info panel in shorts. 
-
-![](assets/youtube/shorts/Hide-info-panels.jpg)
+<img src="/assets/youtube/shorts/Hide-info-panels.jpg">
 
 **Hide join button**
 >Hides join button in shorts.
-
-![](assets/youtube/shorts/Hide-join-button.jpg)
+<img src="/assets/youtube/shorts/Hide-join-button.jpg">
 
 **Hide like button**
 >Hides like button in shorts.
-
-![](assets/youtube/shorts/Hide-like-button.jpg)
+<img src="/assets/youtube/shorts/Hide-like-button.jpg">
 
 **Hide paid promotion banner**
 >Hides paid promotion banner in shorts.
-
-![](assets/youtube/shorts/Hide-paid-promotion-banner.jpg)
+<img src="/(assets/youtube/shorts/Hide-paid-promotion-banner.jpg">
 
 **Hide remix button**
 >Hides remix button in shorts
-
-![](assets/youtube/shorts/Hide-remix-button.jpg)
+<img src="/assets/youtube/shorts/Hide-remix-button.jpg">
 
 **Hide share button**
 >Hides share button in shorts.
-
-![](assets/youtube/shorts/Hide-share-button.jpg)
+<img src="/assets/youtube/shorts/Hide-share-button.jpg">
 
 **Hide subscrioptions button**
 >Hides subscription button in shorts.
-
-![](assets/youtube/shorts/Hide-subscription-button.jpg)
+<img src="/assets/youtube/shorts/Hide-subscription-button.jpg">
 
 **Hide thanks button**
 >Hide thanks button in shorts comments.
-
-![](assets/youtube/shorts/Hide-thanks-button.jpg)
+<img src="/assets/youtube/shorts/Hide-thanks-button.jpg">
 
 ***Experimental Flags***
 
 **Hide navigation bar**
 >Hides navigation bar when playing shorts.
-
-![](assets/youtube/shorts/Hide-navigation-bar.jpg)
+<img src="/assets/youtube/shorts/Hide-navigation-bar.jpg">
 
 **Hide toolbar**
 >Hides toolbar from shorts.
-
-![](assets/youtube/shorts/Hide-toolbar.jpg)
+<img src="/assets/youtube/shorts/Hide-toolbar.jpg">
 </details>
 
 <details>
@@ -694,18 +679,15 @@ https://github.com/kazimmt/RVX-Features/assets/82371061/9e0dcdfd-fe78-44c5-bc23-
 
 **Enable auto-brightness by swiping**
 >Makes the brightness of HDR videos follow the system default by swiping the player.
-
-![](assets/youtube/swipe-control/Enable-auto-brightness-by-swiping.jpg)
+<img src="/assets/youtube/swipe-control/Enable-auto-brightness-by-swiping.jpg">
 
 **Enable brightness gesture**
 >Enable brightness swipe control.
-
-![](assets/youtube/swipe-control/Enable-brightness-gesture.jpg)
+<img src="/assets/youtube/swipe-control/Enable-brightness-gesture.jpg">
 
 **Enable volume gesture**
 >Enables volume swipe control.
-
-![](assets/youtube/swipe-control/Enable-volume-gesture.jpg)
+<img src="/assets/youtube/swipe-control/Enable-volume-gesture.jpg">
 
 **Enable press-to-swipe gesture**
 >Enables long press to swipe control instead of normal swipe.
@@ -740,42 +722,36 @@ https://github.com/kazimmt/RVX-Features/assets/82371061/9e0dcdfd-fe78-44c5-bc23-
 ### Videos</summary>
 <img src="/assets/youtube/header/videos.jpg" >
 
-**Default video quality**
->Adds ability to set default video quality.
-
-![](assets/youtube/video/Default-Video-Quality.jpg)
-
 **Default playback speed**
 >Adds ability to set default playback speed.
+<img src="/assets/youtube/video/Default-playback-speed.jpg">
 
-![](assets/youtube/video/Default-playback-speed.jpg)
+**Default video quality**
+>Adds ability to set default video quality.
+<img src="/assets/youtube/video/Default-Video-Quality.jpg">
+
+<code><i>You can set default video quality for **Mobile Network** & **Wi-Fi** seperately</i></code>
 
 **Disable HDR video**
 >Disables HDR video experience.
-
-![](assets/youtube/video/Disable-HDR-Video.jpg)
+<img src="/assets/youtube/video/Disable-HDR-Video.jpg">
 
 **Disable playback speed in live stream**
 >Disables playback speed function in live stream.
 
 **Enable custom playback speed**
 >Adds more playback speed options.
+<img src="/assets/youtube/video/Enable-custom-playback-speed.jpg">
 
-![](assets/youtube/video/Enable-custom-playback-speed.jpg)
-
-```
-With edit custom playback speeds settings, you can manually type custom video speed you want
-```
+💡 <code><i>With **edit custom playback speeds settings**, you can manually type custom video speed you want</i></code>
 
 **Enable save video quality**
 >Whenever you change the video quality while watching video, it remembers the new video quality.
+<img src="/assets/youtube/video/Enable-save-video-quality.jpg">
 
-![](assets/youtube/video/Enable-save-video-quality.jpg)
-
-**Enable save video speed**
+**Enable save playback speed**
 >Whenever you change the video speed while watching video, it remembers the new video speed.
-
-![](assets/youtube/video/Enable-save-playback-speed.jpg)
+<img src="/assets/youtube/video/Enable-save-playback-speed.jpg">
 </details>
 
 <details>
@@ -803,51 +779,41 @@ With edit custom playback speeds settings, you can manually type custom video sp
 **Enable minimized playback**
 >Enables minimized and background playback.
 
-![](assets/youtube/more/Enable-minimized-playback.jpg)
+<img src="/assets/youtube/more/Enable-minimized-playback.jpg">
 
 **Force hide player button background**
 >Force removes the background from the video player buttons.
-
-![](assets/youtube/more/Force-hide-player-button-background.jpg)
+<img src="/assets/youtube/more/Force-hide-player-button-background.jpg">
 
 **Hide pip notification**
 >Disable pip notification when you first launch pip mode.
-
-![](assets/youtube/more/Hide-pip-notification.jpg)
+<img src="/assets/youtube/more/Hide-pip-notification.jpg">
 
 **Hide tooltip content**
 >Hides the tooltip box that appears on first install.
-
-![](assets/youtube/more/Hide-tooltip-content.jpg)
+<img src="/assets/youtube/more/Hide-tooltip-content.jpg">
 
 **Language switch**
 >Add in-app language switch toggle.
-
-![](assets/youtube/more/Language-switch.jpg)
+<img src="/assets/youtube/more/Language-switch.jpg">
 
 **MaterialYou**
 >Applies the MaterialYou theme for Android 12+ to YouTube.
-
-![](assets/youtube/more/MaterialYou.jpg)
+<img src="/assets/youtube/more/MaterialYou.jpg">
 
 **Settings**
 >Applies mandatory patches to implement ReVanced settings into the application.
-
-![](assets/youtube/more/settings.jpg)
+<img src="/assets/youtube/more/settings.jpg">
 
 **Theme**
 >Change the app's theme to the values specified in options.json. [by default: Black]
-
-![](assets/youtube/more/Theme.jpg)
+<img src="/assets/youtube/more/Theme.jpg">
 
 **Translations**
 >Add Crowdin translations for YouTube ReVanced Extended settings.
+<img src="/assets/youtube/more/Translations.jpg">
 
-![](assets/youtube/more/Translations.jpg)
-
-```
-Settings for some of these features are not available in ReVanced Extended Settings Page
-```
+💡 <code><i>Settings for some of these features are not available in ReVanced Extended Settings Page</i></code>
 </details>
 
 <details>
@@ -858,23 +824,19 @@ Settings for some of these features are not available in ReVanced Extended Setti
 
 **Enable Return YouTube Dislike**
 >Shows the dislike count of videos using the Return YouTube Dislike API.
-
-![](assets/youtube/return-youtube-dislike/Enable-Return-YouTube-Dislike.jpg)
+<img src="/assets/youtube/return-youtube-dislike/Enable-Return-YouTube-Dislike.jpg">
 
 **Show dislikes on Shorts**
 >Return YouTube Dislike now support Shorts videos. It also shows the dislike count of shorts video using the RYD API.
-
-![](assets/youtube/return-youtube-dislike/Show-dislikes-on-Shorts.jpg)
+<img src="/assets/youtube/return-youtube-dislike/Show-dislikes-on-Shorts.jpg">
 
 **Dislikes as percentage**
 >It counts dislikes as a percentage of the number.
-
-![](assets/youtube/return-youtube-dislike/Dislikes-as-percentage.jpg)
+<img src="/assets/youtube/return-youtube-dislike/Dislikes-as-percentage.jpg">
 
 **Compact like button**
 >Like button styled for minimum width.
-
-![](assets/youtube/return-youtube-dislike/Compact-like-button.jpg)
+<img src="/assets/youtube/return-youtube-dislike/Compact-like-button.jpg">
 </details>
 
 <details>
@@ -885,8 +847,7 @@ Settings for some of these features are not available in ReVanced Extended Setti
 
 **Enable SponsorBlock**
 >Integrates SponsorBlock which allows skipping undesired video segments, such as sponsored content.
-
-![](assets/youtube/Sponsorblock/Enable-Sponsorblock.jpg)
+<img src="/assets/youtube/Sponsorblock/Enable-Sponsorblock.jpg">
 
 ***Appearance***
 
@@ -915,6 +876,5 @@ Settings for some of these features are not available in ReVanced Extended Setti
 
 **Adjust new segment step**
 
-<i>You Can visit SponsorBlock website for detail info</i>
+💡 <code><i>You Can visit SponsorBlock website for detail info</i></code>
 </details>
-
