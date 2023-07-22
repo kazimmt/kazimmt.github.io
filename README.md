@@ -75,9 +75,6 @@
 >Adds options to hide comment component under a video.
 <img src="/assets/youtube/bottom-player/hide-comment-section.jpg" >
 
-**Hide emoji button**
->Hides emoji button from comment section.
-
 **Hides emoji picker**
 >Hides emoji picker from comments section.
 
