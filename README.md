@@ -642,7 +642,7 @@ https://github.com/kazimmt/RVX-Features/assets/82371061/9e0dcdfd-fe78-44c5-bc23-
 
 **Hide paid promotion banner**
 >Hides paid promotion banner in shorts.
-<img src="/(assets/youtube/shorts/Hide-paid-promotion-banner.jpg">
+<img src="/assets/youtube/shorts/Hide-paid-promotion-banner.jpg">
 
 **Hide remix button**
 >Hides remix button in shorts
