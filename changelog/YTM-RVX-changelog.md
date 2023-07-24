@@ -1,4 +1,4 @@
-# YT Music ReVanced Extenced Change 
+# YT Music ReVanced Extenced Changelog
 ## only for ReVanced Apps MMT Telegram Channel
 [![Hits](https://hits.sh/github.com/kazimmt/rvx-music-changelog/hits.svg)](https://hits.sh/github.com/kazimmt/rvx-music-changelog/hits/)
 
