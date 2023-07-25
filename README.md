@@ -577,7 +577,7 @@ To learn how to config, visit this: https://telegra.ph/Set-downloader-to-RVXRV-0
 
 **Enable seekbar tapping**
 >Enables tap-to-seek on the seekbar of the video player.
-<img src="/(assets/youtube/seekbar/Enable-seekbar-tapping.jpg">
+<img src="/assets/youtube/seekbar/Enable-seekbar-tapping.jpg">
 
 **Enable time stamp speed**
 >Adds the current video speed in brackets next to the current time.
