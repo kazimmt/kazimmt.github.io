@@ -77,6 +77,7 @@
 
 **Hides emoji picker**
 >Hides emoji picker from comments section.
+<img src="/assets/youtube/bottom-player/Hide-Emoji-Picker.jpg" >
 
 **Hide preview comment**
 >Hides preview from comments
@@ -144,7 +145,7 @@
 
 **Enable compact controls overlay**
 >Compact all control overlay in fullscressn.
-<img src="/assets/youtube/fullscreen/enable-compact-controls-overlay.jpg"
+<img src="/assets/youtube/fullscreen/enable-compact-controls-overlay.jpg" >
 </details>
 
 <details>
@@ -224,6 +225,7 @@
 **Enable custom filter**
 >Enable filtering any layouts
 >Write components by line-seperated names
+<img src="/assets/youtube/general/Enable-Custom-Filter.jpg" >
 
 **Hide album cards**
 >Hides the album cards below the artist description.
@@ -231,6 +233,7 @@
 
 **Hide browse store button**
 >Hide browse store button from any channel.
+<img src="/assets/youtube/general/Hide-browse-store-button.jpg" >
 
 **Hide channel member shelf**
 >Hide member shelf from channel.
@@ -298,9 +301,11 @@
 
 **Hide game section**
 >Hides game section from video description
+<img src="/assets/youtube/general/Hide-game-section.jpg" >
 
 **Hide info cards section**
 >Hides info cards section from video description
+<img src="/assets/youtube/general/Hide-info-cards-section.jpg" >
 
 **Hide music section**
 >Hides music section from video description
@@ -549,6 +554,10 @@ To learn how to config, visit this: https://telegra.ph/Set-downloader-to-RVXRV-0
 **Hide film strip overlay**
 >Hide flimstrip overlay on swipe controls.
 <img src="/assets/youtube/player/Hide-filmstrip-overlay.jpg">
+
+**Hide suggested video overlay**
+>Hides up next suggested overlay from video player.
+<img src="/assets/youtube/player/Hide-suggested-video-overlay.jpg">
 
 ***Haptic feedback***
 
