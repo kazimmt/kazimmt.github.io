@@ -46,7 +46,7 @@ Enable color match player</summary>
 
 <details>
 <summary>
-### Enable compact dialog</summary>
+Enable compact dialog</summary>
 
 >Enable compact dialog on phone.
 
