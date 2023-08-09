@@ -209,7 +209,7 @@ Hook share button (Experimental flags)</summary>
 
 <details>
 <summary>
-HExternal downloader package name</summary>
+External downloader package name</summary>
 
 >Options to select package name of your installed downloader app
 
