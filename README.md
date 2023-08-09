@@ -28,7 +28,7 @@
 >Hides paid promotion banner from video
 <img src="/assets/youtube/ads/hide-paid-promotion-banner.jpg" >
 
-**Hide Hide self sponsored cards**
+**Hide self sponsored cards**
 >Hides self sponsored cards under video info.
 <img src="/assets/youtube/ads/hide-self-sponsored-card.jpg" >
 
@@ -36,11 +36,11 @@
 >Removes ads in the video player.
 <img src="/assets/youtube/ads/hide-video-ads.jpg" >
 
-**Hide View product Banner**
+**Hide view product Banner**
 >Hides View products Banner from Video Player
 <img src="/assets/youtube/ads/hide-view-products-banner.jpg" >
 
-**Hide Web search result**
+**Hide web search result**
 >Hides web search results from search feed.
 <img src="/assets/youtube/ads/hide-web-search-result.jpg" >
 
@@ -100,9 +100,11 @@
 >Hides components from feed flyout menu.
 <img src="/assets/youtube/flyout-menu/hide-feed-flyout-menu.jpg" >
 
+<i>By utilizing the filter in the edit feed flyout menus, you have the option to select what you wish to conceal.</i>
+
 **Player flyout panel**
 
-**Enable old quality layout**
+**Enable old style quality layout**
 >Enables the original quality flyout menu.
 <img src="/assets/youtube/flyout-menu/enable-old-quality-layout.jpg" >
 
@@ -119,12 +121,12 @@
 ### Fullscreen</summary>
 <img src="/assets/youtube/header/fullscreen.jpg" >
 
-**Hide autoplay preview**
+**Hide autoplay preview container**
 >Hides the autoplay preview container in the fullscreen.
 <img src="/assets/youtube/fullscreen/hide-autoplay-preview.jpg" >
 
-**Hide endscreen overlay**
->Hides endscreen overlay when swiping up while in fullscreen and at the end of videos.
+**Hide end screen overlay**
+>Hides end screen overlay when swiping up while in fullscreen and at the end of videos.
 <img src="/assets/youtube/fullscreen/hide-endscreen-overlay.jpg" >
 
 **Hide fullscreen panels**
@@ -193,11 +195,14 @@
 <img src="/assets/youtube/general/hide-email-address.jpg" >
 
 **Hide floating microphone**
->Hide floating microphone button from search page.
+>Hides floating microphone button from search page.
 <img src="/assets/youtube/general/hide-floating-microphone.jpg" >
 
+**Hide latest videos button**
+>Hides latest videos button in home feed.
+
 **Hide load more button**
->Hides load more ˅ / show more ˅ button on search feed.
+>Hides ***load more ˅*** / ***show more ˅*** button on search feed.
 <img src="/assets/youtube/general/hide-load-more-button.jpg" >
 
 **Hide mix playlists**
@@ -238,6 +243,9 @@
 **Hide channel member shelf**
 >Hide member shelf from channel.
 <img src="/assets/youtube/general/hide-channel-member-shelf.jpg" >
+
+**Hide chips shelf**
+>Hide chips shelf from videos.
 
 **Hide community post**
 >Hides community posts on the homepage tab & also from subscriptions feed.
