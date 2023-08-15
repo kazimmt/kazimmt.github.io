@@ -10,13 +10,13 @@ Choose any icon/theme you prefer. [It will take you to the link of our Telegram 
 
 ### 2. OG icon | Black Amoled Theme
 ==- Example Image
-![](https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/icon-difference/mmt-monet.jpg)
+![](https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/icon-difference/og-black.jpg)
 ===
 [!button variant="secondary" text="📥 Non Root"](https://t.me/ReVancedBuildMMT/122768) [!button variant="warning" text="📥 Root Module"](https://t.me/ReVancedBuildMMT/122770)
 
 ### 3. MMT icon | Monet Theme
 ==- Example Image
-![](https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/icon-difference/og-black.jpg)
+![](https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/icon-difference/mmt-monet.jpg)
 ===
 [!button variant="secondary" text="📥 Non Root"](https://t.me/ReVancedBuildMMT/122772) [!button variant="warning" text="📥 Root Module"](https://t.me/ReVancedBuildMMT/122774)
 
