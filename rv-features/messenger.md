@@ -1,41 +1,20 @@
-# Messenger ReVanced
+# Messenger RV
+<i>Organized Messenger ReVanced functionalities, arranged alphabetically.</i>
 
-
-## Organized Messenger ReVanced functionalities along with visual illustrations, arranged alphabetically.
-
-[![Hits](https://hits.sh/github.com/kazimmt/rvx-features/messenger/hits.svg)](https://hits.sh/github.com/kazimmt/rvx-features/messenger/hits/)
-
-<details><summary> 👈 <code><i> Click arrows to expand/collapse details on this page </i></code></summary></details>
-
-<details>
-<summary>
-
-### Disable switching emoji to sticker in message input field
-</summary>
-
+#### Disable switching emoji to sticker in message input field
 >Disable switching emoji to sticker in message input field
-
+==- Reference image
 ![](../assets/messenger/Disable-switching-emoji-to-sticker-in-message-input-field.jpg)
-</details>
+===
 
-<details>
-<summary>
-
-### Disable typing indicator
-</summary>
-
+#### Disable typing indicator
 >Disables the indicator while typing a message
-
+==- Reference image
 ![](../assets/messenger/Disable-typing-indicator.jpg)
-</details>
+===
 
-<details>
-<summary>
-
-### Hide inbox ads
-</summary>
-
+#### Hide inbox ads
 >Hides ads in messenger inbox
-
+==- Reference image
 ![](../assets/messenger/Hide-inbox-ads.jpg)
-</details>
+===

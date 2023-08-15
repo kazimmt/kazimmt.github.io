@@ -1,0 +1,16 @@
+# Download
+
+- [YT RVX](https://t.me/ReVanced_MMT/515)
+- [YTM RVX](https://t.me/ReVanced_MMT/506)
+- [mMicroG](https://github.com/kazimmt/mMicroG/releases/download/v0.2.28.232516/microG.apk)
+- [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/download/v0.2.24.220220-220220001/microg.apk)
+- [External Downloaders](https://t.me/ReVanced_MMT/266)
+- [Twitter](https://t.me/ReVanced_MMT/421)
+- [TikTok](https://t.me/ReVanced_MMT/494)
+- [Messenger](https://t.me/ReVanced_MMT/450)
+- [Twitch](https://t.me/ReVanced_MMT/428)
+- [Reddit](https://t.me/ReVanced_MMT/512)
+- [Candylink VPN](https://t.me/ReVanced_MMT/374)
+- [VSCO Editor](https://t.me/ReVanced_MMT/377)
+- [Nova Launcher](https://t.me/ReVanced_MMT/481)
+- [Lightroom Mobile](https://t.me/ReVanced_MMT/492)

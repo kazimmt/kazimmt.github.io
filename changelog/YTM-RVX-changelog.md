@@ -1,6 +1,4 @@
-# YT Music ReVanced Extenced Changelog
-## only for ReVanced Apps MMT Telegram Channel
-[![Hits](https://hits.sh/github.com/kazimmt/rvx-music-changelog/hits.svg)](https://hits.sh/github.com/kazimmt/rvx-music-changelog/hits/)
+# YTM RVX Changelog
 
 ### 09 August 2023
 - bumped base to YT Music 6.14.50

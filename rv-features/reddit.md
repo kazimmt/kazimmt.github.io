@@ -1,90 +1,46 @@
-# Reddit ReVanced + Extended
+# Reddit RV + RVX
+<i>Organized Reddit ReVanced & ReVanced Extended functionalities along with visual illustrations, arranged alphabetically.</i>
 
-
-## Organized Reddit ReVanced & ReVanced Extended functionalities along with visual illustrations, arranged alphabetically.
-
-[![Hits](https://hits.sh/github.com/kazimmt/rvx-features/reddit/hits.svg)](https://hits.sh/github.com/kazimmt/rvx-features/reddit/hits/)
-
-<details><summary> 👈 <code><i> Click arrows to expand/collapse details on this page </i></code></summary></details>
-
-<details>
-<summary>
-
-### Disable screenshot popup
-</summary>
+#### Disable screenshot popup
 
 >Disables the popup that shows up when taking a screenshot.
-
+==- Reference image
 ![](../assets/reddit/Disable-screenshot-popup.jpg)
->No longar valid since reddit 2023.27.xx
-</details>
+>No longer valid since reddit 2023.27.xx
+===
 
-<details>
-<summary>
-
-### Hide ads
-</summary>
-
+#### Hide ads
 >Hides ads from the Reddit.
-
+==- Reference image
 ![](../assets/reddit/Hide-ads.jpg)
-</details>
+===
 
-<details>
-<summary>
-
-### Open Links Directly
-</summary>
-
+#### Open Links Directly
 >Skips over redirection URLs to external links.
-
+==- Reference image
 ![](../assets/reddit/Open-Links-Directly.jpg)
-</details>
+===
 
-<details>
-<summary>
-
-### Open Links Externally
-</summary>
-
+#### Open Links Externally
 >Open links outside of the app directly in your browser.
-
+==- Reference image
 ![](../assets/reddit/Open-Links-Externally.jpg)
-</details>
+===
 
-<details>
-<summary>
-
-### Premium icon
-</summary>
-
+#### Premium icon
 >Unlocks premium icons.
-
+==- Reference image
 ![](../assets/reddit/Premium-icon.jpg)
-</details>
+===
 
-<details>
-<summary>
-
-### Reddit Settings
-</summary>
-
+#### Reddit Settings
 >Adds ReVanced Extended settings to Reddit.
-
+==- Reference image
 ![](../assets/reddit/Reddit-Settings.jpg)
-</details>
+===
 
-<details>
-<summary>
-
-### Sanitize Sharing Links
-</summary>
-
+#### Sanitize Sharing Links
 >Removes (tracking) query parameters from the URLs when sharing links.
-
+==- Reference image
 ![](../assets/reddit/Sanitize-Sharing-Links.jpg)
-</details>
-
-If you  want to patch other reddit client with your own outh id
-#### Follow this guide by decipher3114
-[Make Reddit clients alive again !!!](https://gist.github.com/decipher3114/4423a2671dc3ce4401025b737d5c89f4)
+===

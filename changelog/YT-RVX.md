@@ -1,6 +1,4 @@
-# YT ReVanced Extenced Changelog
-## only for ReVanced Apps MMT Telegram Channel
-[![Hits](https://hits.sh/github.com/kazimmt/rvx-features/rvx182540/hits.svg)](https://hits.sh/github.com/kazimmt/rvx-features/rvx182540/hits/)
+# YT RVX Changelog
 
 ### 11 August 2023
 YT RVX 18.30.37

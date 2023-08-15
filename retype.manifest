@@ -1,0 +1,665 @@
+{
+  "version": "3.1.0",
+  "created": "2023-08-15T06:42:35Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "assets\\messenger\\disable-switching-emoji-to-sticker-in-message-input-field.jpg"
+    },
+    {
+      "path": "assets\\messenger\\disable-typing-indicator.jpg"
+    },
+    {
+      "path": "assets\\messenger\\hide-inbox-ads.jpg"
+    },
+    {
+      "path": "assets\\reddit\\disable-screenshot-popup.jpg"
+    },
+    {
+      "path": "assets\\reddit\\hide-ads.jpg"
+    },
+    {
+      "path": "assets\\reddit\\open-links-directly.jpg"
+    },
+    {
+      "path": "assets\\reddit\\open-links-externally.jpg"
+    },
+    {
+      "path": "assets\\reddit\\premium-icon.jpg"
+    },
+    {
+      "path": "assets\\reddit\\reddit-settings.jpg"
+    },
+    {
+      "path": "assets\\reddit\\sanitize-sharing-links.jpg"
+    },
+    {
+      "path": "assets\\youtube\\ads\\hide-general-ads.jpg"
+    },
+    {
+      "path": "assets\\youtube\\ads\\hide-get-premium.jpg"
+    },
+    {
+      "path": "assets\\youtube\\ads\\hide-image-shelf.jpg"
+    },
+    {
+      "path": "assets\\youtube\\ads\\hide-merchandise-shelf.jpg"
+    },
+    {
+      "path": "assets\\youtube\\ads\\hide-paid-promotion-banner.jpg"
+    },
+    {
+      "path": "assets\\youtube\\ads\\hide-self-sponsored-card.jpg"
+    },
+    {
+      "path": "assets\\youtube\\ads\\hide-video-ads.jpg"
+    },
+    {
+      "path": "assets\\youtube\\ads\\hide-view-products-banner.jpg"
+    },
+    {
+      "path": "assets\\youtube\\ads\\hide-web-search-result.jpg"
+    },
+    {
+      "path": "assets\\youtube\\bottom-player\\hide-button-container.jpg"
+    },
+    {
+      "path": "assets\\youtube\\bottom-player\\hide-channel-guidelines.jpg"
+    },
+    {
+      "path": "assets\\youtube\\bottom-player\\hide-comment-section.jpg"
+    },
+    {
+      "path": "assets\\youtube\\bottom-player\\hide-emoji-picker.jpg"
+    },
+    {
+      "path": "assets\\youtube\\bottom-player\\hide-preview-comment.jpg"
+    },
+    {
+      "path": "assets\\youtube\\bottom-player\\hide-thanks-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\flyout-menu\\enable-old-quality-layout.jpg"
+    },
+    {
+      "path": "assets\\youtube\\flyout-menu\\hide-feed-flyout-menu.jpg"
+    },
+    {
+      "path": "assets\\youtube\\flyout-menu\\hide-flyout-panel.jpg"
+    },
+    {
+      "path": "assets\\youtube\\fullscreen\\enable-compact-controls-overlay.jpg"
+    },
+    {
+      "path": "assets\\youtube\\fullscreen\\hide-autoplay-preview.jpg"
+    },
+    {
+      "path": "assets\\youtube\\fullscreen\\hide-endscreen-overlay.jpg"
+    },
+    {
+      "path": "assets\\youtube\\fullscreen\\hide-fullscreen-panels.jpg"
+    },
+    {
+      "path": "assets\\youtube\\fullscreen\\hide-quick-actions-container.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\disable-forced-auto-caption.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\enable-custom-filter.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\enable-tablet-mini-player.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\enable-wide-search-bar.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\header-switch.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-account-menu-elements.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-album-cards.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-auto-player-popup.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-browse-store-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-category-bar.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-channel-avatar-section.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-channel-member-shelf.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-chapters.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-community-post.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-crowdfunding-box.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-email-address.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-expandable-chip.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-feed-survey.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-floating-microphone.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-game-section.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-gray-description.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-gray-seperator.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-info-cards-section.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-info-panels.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-join-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-latest-post.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-load-more-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-medical-panels.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-mix-playlist.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-movies-shelf.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-music-section.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-official-header.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-place-section.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-search-terms.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-snackbar.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-suggestions-shelf.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-ticket-shelf.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-timed-reaction.jpg"
+    },
+    {
+      "path": "assets\\youtube\\general\\hide-transcript.jpg"
+    },
+    {
+      "path": "assets\\youtube\\header\\ads.jpg"
+    },
+    {
+      "path": "assets\\youtube\\header\\bottom-player.jpg"
+    },
+    {
+      "path": "assets\\youtube\\header\\flyout-menu.jpg"
+    },
+    {
+      "path": "assets\\youtube\\header\\fullscreen.jpg"
+    },
+    {
+      "path": "assets\\youtube\\header\\general.jpg"
+    },
+    {
+      "path": "assets\\youtube\\header\\miscellaneous.jpg"
+    },
+    {
+      "path": "assets\\youtube\\header\\more.jpg"
+    },
+    {
+      "path": "assets\\youtube\\header\\navigation.jpg"
+    },
+    {
+      "path": "assets\\youtube\\header\\overlay-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\header\\player.jpg"
+    },
+    {
+      "path": "assets\\youtube\\header\\return-youtube-dislike.jpg"
+    },
+    {
+      "path": "assets\\youtube\\header\\seekbar.jpg"
+    },
+    {
+      "path": "assets\\youtube\\header\\shorts.jpg"
+    },
+    {
+      "path": "assets\\youtube\\header\\sponsorblock.jpg"
+    },
+    {
+      "path": "assets\\youtube\\header\\swipe-control.jpg"
+    },
+    {
+      "path": "assets\\youtube\\header\\videos.jpg"
+    },
+    {
+      "path": "assets\\youtube\\miscellaneous\\bypass-ambient-mode-restriction.jpg"
+    },
+    {
+      "path": "assets\\youtube\\miscellaneous\\double-back-timeout.jpg"
+    },
+    {
+      "path": "assets\\youtube\\miscellaneous\\enable-external-browser.jpg"
+    },
+    {
+      "path": "assets\\youtube\\miscellaneous\\enable-force-opus-codec.jpg"
+    },
+    {
+      "path": "assets\\youtube\\miscellaneous\\enable-new-splash-screen.jpg"
+    },
+    {
+      "path": "assets\\youtube\\miscellaneous\\enable-open-links-directly.jpg"
+    },
+    {
+      "path": "assets\\youtube\\miscellaneous\\enable-phone-layout.jpg"
+    },
+    {
+      "path": "assets\\youtube\\miscellaneous\\enable-tablet-layout.jpg"
+    },
+    {
+      "path": "assets\\youtube\\miscellaneous\\enable-vp9-codec.jpg"
+    },
+    {
+      "path": "assets\\youtube\\miscellaneous\\import-export-settings.jpg"
+    },
+    {
+      "path": "assets\\youtube\\miscellaneous\\open-default-app-settings.jpg"
+    },
+    {
+      "path": "assets\\youtube\\miscellaneous\\open-microg.jpg"
+    },
+    {
+      "path": "assets\\youtube\\miscellaneous\\spoof-app-version.jpg"
+    },
+    {
+      "path": "assets\\youtube\\miscellaneous\\spoof-player-parameter.jpg"
+    },
+    {
+      "path": "assets\\youtube\\more\\enable-minimized-playback.jpg"
+    },
+    {
+      "path": "assets\\youtube\\more\\force-hide-player-button-background.jpg"
+    },
+    {
+      "path": "assets\\youtube\\more\\hide-pip-notification.jpg"
+    },
+    {
+      "path": "assets\\youtube\\more\\hide-tooltip-content.jpg"
+    },
+    {
+      "path": "assets\\youtube\\more\\language-switch.jpg"
+    },
+    {
+      "path": "assets\\youtube\\more\\materialyou.jpg"
+    },
+    {
+      "path": "assets\\youtube\\more\\settings.jpg"
+    },
+    {
+      "path": "assets\\youtube\\more\\theme.jpg"
+    },
+    {
+      "path": "assets\\youtube\\more\\translations.jpg"
+    },
+    {
+      "path": "assets\\youtube\\navigation\\change-homepage-to-subscription.jpg"
+    },
+    {
+      "path": "assets\\youtube\\navigation\\enable-tablet-navigation-bar.jpg"
+    },
+    {
+      "path": "assets\\youtube\\navigation\\hide-create-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\navigation\\hide-home-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\navigation\\hide-library-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\navigation\\hide-navigation-label.jpg"
+    },
+    {
+      "path": "assets\\youtube\\navigation\\hide-shorts-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\navigation\\hide-subscriptions-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\navigation\\open-library-on-app-startup.jpg"
+    },
+    {
+      "path": "assets\\youtube\\navigation\\switch-create-with-notification.jpg"
+    },
+    {
+      "path": "assets\\youtube\\overlay-button\\always-autorepeat-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\overlay-button\\copy-timestamp-url-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\overlay-button\\copy-video-url-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\overlay-button\\external-download-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\overlay-button\\external-download-configure.jpg"
+    },
+    {
+      "path": "assets\\youtube\\overlay-button\\hook-download-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\overlay-button\\speed-dialog-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\player\\disable-haptic-feedback.jpg"
+    },
+    {
+      "path": "assets\\youtube\\player\\hide-audio-track-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\player\\hide-autoplay-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\player\\hide-captions-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\player\\hide-cast-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\player\\hide-channel-watermark.jpg"
+    },
+    {
+      "path": "assets\\youtube\\player\\hide-collapse-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\player\\hide-endscreen-cards.jpg"
+    },
+    {
+      "path": "assets\\youtube\\player\\hide-filmstrip-overlay.jpg"
+    },
+    {
+      "path": "assets\\youtube\\player\\hide-info-cards.jpg"
+    },
+    {
+      "path": "assets\\youtube\\player\\hide-live-chat-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\player\\hide-player-button-background.jpg"
+    },
+    {
+      "path": "assets\\youtube\\player\\hide-player-overlay-filter.jpg"
+    },
+    {
+      "path": "assets\\youtube\\player\\hide-previous-and-next-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\player\\hide-seek-message.jpg"
+    },
+    {
+      "path": "assets\\youtube\\player\\hide-speed-overlay.jpg"
+    },
+    {
+      "path": "assets\\youtube\\player\\hide-suggested-actions.jpg"
+    },
+    {
+      "path": "assets\\youtube\\player\\hide-suggested-video-overlay.jpg"
+    },
+    {
+      "path": "assets\\youtube\\player\\hide-youtube-music-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\return-youtube-dislike\\compact-like-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\return-youtube-dislike\\dislikes-as-percentage.jpg"
+    },
+    {
+      "path": "assets\\youtube\\return-youtube-dislike\\enable-return-youtube-dislike.jpg"
+    },
+    {
+      "path": "assets\\youtube\\return-youtube-dislike\\show-dislikes-on-shorts.jpg"
+    },
+    {
+      "path": "assets\\youtube\\seekbar\\enable-custom-seekbar-color.jpg"
+    },
+    {
+      "path": "assets\\youtube\\seekbar\\enable-new-thumbnail-preview.jpg"
+    },
+    {
+      "path": "assets\\youtube\\seekbar\\enable-seekbar-tapping.jpg"
+    },
+    {
+      "path": "assets\\youtube\\seekbar\\enable-timestamp-speed.jpg"
+    },
+    {
+      "path": "assets\\youtube\\seekbar\\hide-seekbar-in-video-player.jpg"
+    },
+    {
+      "path": "assets\\youtube\\seekbar\\hide-seekbar-in-video-thumbnails.jpg"
+    },
+    {
+      "path": "assets\\youtube\\seekbar\\hide-time-stamp.jpg"
+    },
+    {
+      "path": "assets\\youtube\\shorts\\disable-shorts-player-app-startup.mp4"
+    },
+    {
+      "path": "assets\\youtube\\shorts\\enable-new-comment-popup-panel.jpg"
+    },
+    {
+      "path": "assets\\youtube\\shorts\\hide-comments-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\shorts\\hide-dislike-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\shorts\\hide-info-panels.jpg"
+    },
+    {
+      "path": "assets\\youtube\\shorts\\hide-join-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\shorts\\hide-like-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\shorts\\hide-navigation-bar.jpg"
+    },
+    {
+      "path": "assets\\youtube\\shorts\\hide-paid-promotion-banner.jpg"
+    },
+    {
+      "path": "assets\\youtube\\shorts\\hide-remix-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\shorts\\hide-share-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\shorts\\hide-shorts-shelf.jpg"
+    },
+    {
+      "path": "assets\\youtube\\shorts\\hide-subscription-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\shorts\\hide-thanks-button.jpg"
+    },
+    {
+      "path": "assets\\youtube\\shorts\\hide-toolbar.jpg"
+    },
+    {
+      "path": "assets\\youtube\\sponsorblock\\enable-sponsorblock.jpg"
+    },
+    {
+      "path": "assets\\youtube\\swipe-control\\enable-auto-brightness-by-swiping.jpg"
+    },
+    {
+      "path": "assets\\youtube\\swipe-control\\enable-brightness-gesture.jpg"
+    },
+    {
+      "path": "assets\\youtube\\swipe-control\\enable-volume-gesture.jpg"
+    },
+    {
+      "path": "assets\\youtube\\video\\default-playback-speed.jpg"
+    },
+    {
+      "path": "assets\\youtube\\video\\default-video-quality.jpg"
+    },
+    {
+      "path": "assets\\youtube\\video\\disable-hdr-video.jpg"
+    },
+    {
+      "path": "assets\\youtube\\video\\enable-custom-playback-speed.jpg"
+    },
+    {
+      "path": "assets\\youtube\\video\\enable-save-playback-speed.jpg"
+    },
+    {
+      "path": "assets\\youtube\\video\\enable-save-video-quality.jpg"
+    },
+    {
+      "path": "changelog\\00-yt-rvx\\index.html"
+    },
+    {
+      "path": "changelog\\01-ytm-rvx-changelog\\index.html"
+    },
+    {
+      "path": "changelog\\02-reddit-rv-rvx\\index.html"
+    },
+    {
+      "path": "changelog\\reddit-rv-rvx\\index.html",
+      "old": true
+    },
+    {
+      "path": "changelog\\yt-rvx\\index.html",
+      "old": true
+    },
+    {
+      "path": "changelog\\ytm-rvx-changelog\\index.html",
+      "old": true
+    },
+    {
+      "path": "download\\00-download\\index.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "resources\\css\\retype.css"
+    },
+    {
+      "path": "resources\\fonts\\Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources\\fonts\\Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources\\js\\config.js"
+    },
+    {
+      "path": "resources\\js\\lunr.js"
+    },
+    {
+      "path": "resources\\js\\retype.js"
+    },
+    {
+      "path": "resources\\js\\search.json"
+    },
+    {
+      "path": "resources\\lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "rv-features\\00-messenger\\index.html"
+    },
+    {
+      "path": "rv-features\\01-reddit\\index.html"
+    },
+    {
+      "path": "rv-features\\02-tiktok\\index.html"
+    },
+    {
+      "path": "rv-features\\messenger\\index.html",
+      "old": true
+    },
+    {
+      "path": "rv-features\\reddit\\index.html",
+      "old": true
+    },
+    {
+      "path": "rv-features\\tiktok\\index.html",
+      "old": true
+    },
+    {
+      "path": "rvx-features\\01-yt-features\\index.html"
+    },
+    {
+      "path": "rvx-features\\02-ytm-features\\index.html"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "yt-features\\index.html",
+      "old": true
+    },
+    {
+      "path": "ytm-rvx-features\\index.html",
+      "old": true
+    }
+  ]
+}

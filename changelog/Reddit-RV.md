@@ -1,6 +1,4 @@
-# Reddit ReVanced + Extenced Changelog
-## only for ReVanced Apps MMT Telegram Channel
-[![Hits](https://hits.sh/github.com/kazimmt/rvx-features/reddit-changelog/hits.svg)](https://hits.sh/github.com/kazimmt/rvx-features/reddit-changelog/hits/)
+# Reddit RV + RVX Changelog
 
 ### 27 July 2023
 Reddit 2023.29.0

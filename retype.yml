@@ -1,0 +1,13 @@
+input: .
+output: .retype
+url: # kazimmt.github.io/RVX-Features
+branding:
+  title: ReVanced Apps | MMT
+  label: Features
+links:
+- text: Join ReVanced MMT
+  link: https://t.me/ReVanced_MMT
+- text: Discussion Group
+  link: https://t.me/ReVancedBuildMMT
+footer:
+  copyright: "&copy; {{ year }} by kaziMMT. GPLv3"
