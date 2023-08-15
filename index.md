@@ -10,3 +10,5 @@
 - [Messenger Features](RV-features/messenger.md)
 - [Reddit Features](RV-features/reddit.md)
 - [TikTok Features](RV-features/tiktok.md)
+
+#### [Download Latest ReVanced Apps](Download/download.md)
