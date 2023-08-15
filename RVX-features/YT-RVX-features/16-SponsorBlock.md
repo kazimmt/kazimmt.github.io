@@ -3,7 +3,7 @@
 #### Enable SponsorBlock
 >Integrates SponsorBlock which allows skipping undesired video segments, such as sponsored content.
 ==- Reference image
-<img src="/assets/youtube/Sponsorblock/Enable-Sponsorblock.jpg">
+<img src="https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/youtube/Sponsorblock/Enable-Sponsorblock.jpg">
 ===
 
 ### Appearance

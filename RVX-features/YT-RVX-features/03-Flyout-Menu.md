@@ -5,7 +5,7 @@
 #### Hide feed flyout menu
 >Hides components from feed flyout menu.
 ==- Reference image
-<img src="/assets/youtube/flyout-menu/hide-feed-flyout-menu.jpg" >
+<img src="https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/youtube/flyout-menu/hide-feed-flyout-menu.jpg" >
 ===
 
 <i>By utilizing the filter in the edit feed flyout menus, you have the option to select what you wish to conceal.</i>
@@ -15,13 +15,13 @@
 #### Enable old style quality layout
 >Enables the original quality flyout menu.
 ==- Reference image
-<img src="/assets/youtube/flyout-menu/enable-old-quality-layout.jpg" >
+<img src="https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/youtube/flyout-menu/enable-old-quality-layout.jpg" >
 ===
 
 #### Hide flyout panel
 >Adds options to hide player settings flyout panel.
 ==- Reference image
-<img src="/assets/youtube/flyout-menu/hide-flyout-panel.jpg" >
+<img src="https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/youtube/flyout-menu/hide-flyout-panel.jpg" >
 ===
 
 💡 <code><i>You can hide Ambient mode, Audio track, Captions, Help & Feedback, Listen with YouTube Music, Listening controls, Loop video, More information, Playback speed, Report, Stats for nerds, Watch in VR menu separately</i></code>

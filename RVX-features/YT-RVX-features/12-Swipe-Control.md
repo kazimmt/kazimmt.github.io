@@ -3,19 +3,19 @@
 #### Enable auto-brightness by swiping
 >Makes the brightness of HDR videos follow the system default by swiping the player.
 ==- Reference image
-<img src="/assets/youtube/swipe-control/Enable-auto-brightness-by-swiping.jpg">
+<img src="https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/youtube/swipe-control/Enable-auto-brightness-by-swiping.jpg">
 ===
 
 #### Enable brightness gesture
 >Enable brightness swipe control.
 ==- Reference image
-<img src="/assets/youtube/swipe-control/Enable-brightness-gesture.jpg">
+<img src="https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/youtube/swipe-control/Enable-brightness-gesture.jpg">
 ===
 
 #### Enable volume gesture
 >Enables volume swipe control.
 ==- Reference image
-<img src="/assets/youtube/swipe-control/Enable-volume-gesture.jpg">
+<img src="https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/youtube/swipe-control/Enable-volume-gesture.jpg">
 ===
 
 #### Enable press-to-swipe gesture

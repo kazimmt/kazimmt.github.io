@@ -4,17 +4,17 @@
 #### Disable switching emoji to sticker in message input field
 >Disable switching emoji to sticker in message input field
 ==- Reference image
-![](../assets/messenger/Disable-switching-emoji-to-sticker-in-message-input-field.jpg)
+![](https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/messenger/Disable-switching-emoji-to-sticker-in-message-input-field.jpg)
 ===
 
 #### Disable typing indicator
 >Disables the indicator while typing a message
 ==- Reference image
-![](../assets/messenger/Disable-typing-indicator.jpg)
+![](https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/messenger/Disable-typing-indicator.jpg)
 ===
 
 #### Hide inbox ads
 >Hides ads in messenger inbox
 ==- Reference image
-![](../assets/messenger/Hide-inbox-ads.jpg)
+![](https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/messenger/Hide-inbox-ads.jpg)
 ===
