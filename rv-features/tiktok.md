@@ -1,4 +1,4 @@
-# TikTok RV
+# TikTok ReVanced
 <i>Organized Tiktok ReVanced functionalities, arranged alphabetically.</i>
 
 ### Packages

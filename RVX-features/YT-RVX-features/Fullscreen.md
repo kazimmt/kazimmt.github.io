@@ -1,4 +1,4 @@
-# 4. Fullscreen
+# Fullscreen
 
 #### Hide autoplay preview container
 >Hides the autoplay preview container in the fullscreen.

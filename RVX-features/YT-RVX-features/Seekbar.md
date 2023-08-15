@@ -1,4 +1,4 @@
-# 10. Seekbar
+# Seekbar
 
 #### Enable custom seekbar color
 >Adds an option to change dark mode gray seekbar color to any color.

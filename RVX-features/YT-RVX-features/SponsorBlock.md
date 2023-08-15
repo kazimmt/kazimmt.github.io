@@ -1,4 +1,4 @@
-# 16. SponsorBlock
+# SponsorBlock
 
 #### Enable SponsorBlock
 >Integrates SponsorBlock which allows skipping undesired video segments, such as sponsored content.

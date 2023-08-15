@@ -1,4 +1,4 @@
-# 3. Flyout Menu
+# Flyout Menu
 
 ### Feed flyout panel
 

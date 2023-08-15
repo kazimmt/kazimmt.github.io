@@ -1,4 +1,4 @@
-# 12. Swipe Control
+# Swipe Control
 
 #### Enable auto-brightness by swiping
 >Makes the brightness of HDR videos follow the system default by swiping the player.

@@ -1,4 +1,4 @@
-# 14. More</summary>
+# More
 
 #### Add splash animation
 >Adds splash animation, which was removed in YT v18.19.36+. This patch cannot be used with custom-branding-icon patch.

@@ -1,4 +1,4 @@
-# 8. Overlay Button
+# Overlay Button
 
 #### Show Always autorepeat button
 >Shows always autorepeat button on player. You can autorepeat any video by pressing this button.

@@ -1,4 +1,4 @@
-# 11. Shorts
+# Shorts
 
 #### Hide shorts shelf
 >Hides shorts shelf from Feed.

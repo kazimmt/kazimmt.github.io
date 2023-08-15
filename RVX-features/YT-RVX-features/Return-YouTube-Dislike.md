@@ -1,4 +1,4 @@
-# 15. Return YouTube Dislike
+# Return YouTube Dislike
 
 #### Enable Return YouTube Dislike
 >Shows the dislike count of videos using the Return YouTube Dislike API.

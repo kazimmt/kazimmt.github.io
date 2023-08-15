@@ -1,4 +1,4 @@
-# 13. Videos
+# Videos
 
 #### Default playback speed
 >Adds ability to set default playback speed.

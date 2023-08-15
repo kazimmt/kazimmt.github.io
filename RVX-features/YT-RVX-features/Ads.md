@@ -1,4 +1,4 @@
-# 1. Ads
+# Ads
 
 #### Hide general ads
 > Removes general ads.

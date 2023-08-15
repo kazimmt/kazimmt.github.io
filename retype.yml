@@ -3,7 +3,7 @@ output: .retype
 url: https://kazimmt.github.io/RVX-Features/
 branding:
   title: ReVanced Apps | MMT
-  label: Features
+  label:
 links:
 - text: Join ReVanced MMT
   link: https://t.me/ReVanced_MMT

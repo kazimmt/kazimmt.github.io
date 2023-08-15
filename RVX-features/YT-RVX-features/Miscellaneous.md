@@ -1,4 +1,4 @@
-# 6. Miscellaneous
+# Miscellaneous
 
 #### Bypass ambient mode restrictions
 >Bypass ambient mode restrictions in battery saver mode.

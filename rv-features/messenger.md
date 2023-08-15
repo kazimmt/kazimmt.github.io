@@ -1,4 +1,4 @@
-# Messenger RV
+# Messenger ReVanced
 <i>Organized Messenger ReVanced functionalities, arranged alphabetically.</i>
 
 #### Disable switching emoji to sticker in message input field

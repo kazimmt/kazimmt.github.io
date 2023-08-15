@@ -1,4 +1,4 @@
-# Reddit RV + RVX
+# Reddit ReVanced + Extended
 <i>Organized Reddit ReVanced & ReVanced Extended functionalities along with visual illustrations, arranged alphabetically.</i>
 
 #### Disable screenshot popup

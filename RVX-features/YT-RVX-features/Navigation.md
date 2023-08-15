@@ -1,4 +1,4 @@
-# 7. Navigation
+# Navigation
 
 #### Change homepage
 #### Change homepage to subscriptions

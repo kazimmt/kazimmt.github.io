@@ -1,4 +1,4 @@
-# 5. General
+# General
 
 #### Disable forced auto captions
 >Disable forced captions from being automatically enabled.

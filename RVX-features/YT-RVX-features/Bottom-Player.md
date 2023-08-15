@@ -1,4 +1,4 @@
-# 2. Bottom Player</summary>
+# Bottom Player</summary>
 
 ### Button container
 

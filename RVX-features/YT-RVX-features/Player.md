@@ -1,4 +1,4 @@
-# 9. Player
+# Player
 
 #### Hide audio track button
 >Hide the audio track button shown in the video player.
