@@ -1,6 +1,6 @@
 # Download
 
-- [YT ReVanced Extended](YT-RVX.yml)
+- [YT ReVanced Extended](YT-RVX.md)
 - [YT Music ReVanced Extended](YTM-RVX.md)
 - [MicroG](microG.md)
 - [External Downloaders](https://t.me/ReVanced_MMT/266)
