@@ -1,4 +1,4 @@
-# 3. Miscellaneous
+# Miscellaneous
 
 #### Enable force shuffle
 >Enable force shuffle even if another track is played.

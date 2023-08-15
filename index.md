@@ -11,4 +11,4 @@
 - [Reddit Features](RV-features/reddit.md)
 - [TikTok Features](RV-features/tiktok.md)
 
-#### [Download Latest ReVanced Apps](Download/download.md)
+[!button variant="success" text="Download Latest ReVanced Apps"](Download/download.md)

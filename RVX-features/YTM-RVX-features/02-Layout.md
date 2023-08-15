@@ -1,4 +1,4 @@
-# 2. Layout
+# Layout
 
 #### Disable force auto captions
 >Disables forced auto captions.

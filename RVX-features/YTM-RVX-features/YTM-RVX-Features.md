@@ -1,4 +1,4 @@
-# YTMusic RVX Features
+# YT Music RVX Features
 
 Organized YouTube Music ReVanced Extended functionalities along with visual illustrations, arranged based on RVX Settings (Alphabetically).
 

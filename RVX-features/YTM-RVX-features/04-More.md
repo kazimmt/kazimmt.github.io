@@ -1,4 +1,4 @@
-# 4. More
+# More
 <i>Settings for these patches may not available in app setting</i>
 
 #### Amoled
