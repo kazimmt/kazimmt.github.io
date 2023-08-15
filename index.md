@@ -1,4 +1,4 @@
-# Home
+# ReVanced Apps | MMT
 
 <i>A documentation made for ReVanced Apps | MMT Telegram channel</i>
 
