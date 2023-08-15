@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml.gz
+Sitemap: https://kazimmt.github.io/RVX-Features/sitemap.xml.gz
