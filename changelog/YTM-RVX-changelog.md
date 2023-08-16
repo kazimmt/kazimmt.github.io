@@ -1,6 +1,7 @@
 ---
 label: "YT Music RVX Changelog"
 order: 98
+icon: "/assets/icons/ytm-rvx.svg"
 ---
 
 # YT Music RVX Changelog

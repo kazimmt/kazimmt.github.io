@@ -1,6 +1,7 @@
 ---
 label: "microG"
 order: 97
+icon: "/assets/icons/microg.svg"
 ---
 
 ![](/assets/cover/download-microg-cover.png)

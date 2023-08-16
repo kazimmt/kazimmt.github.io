@@ -1,6 +1,7 @@
 ---
 label: "Reddit Changelog"
 order: 97
+icon: "/assets/icons/reddit.svg"
 ---
 
 # Reddit RV + RVX Changelog

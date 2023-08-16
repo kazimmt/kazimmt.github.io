@@ -1,6 +1,7 @@
 ---
 label: "YT RVX Changelog"
 order: 99
+icon: "/assets/icons/yt-rvx.svg"
 ---
 
 # YT RVX Changelog

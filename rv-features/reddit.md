@@ -1,6 +1,7 @@
 ---
 label: "Reddit RV Features"
 order: 98
+icon: "/assets/icons/reddit.svg"
 ---
 
 ![](/assets/cover/reddit-rv-cover.png)

@@ -1,6 +1,7 @@
 ---
 label: "Messenger RV Features"
 order: 97
+icon: "/assets/icons/messenger.svg"
 ---
 
 ![](/assets/cover/messenger-rv-cover.png)

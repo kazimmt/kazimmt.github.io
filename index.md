@@ -11,12 +11,12 @@ icon: home
 ---
 
 ### ReVanced Extended Features
-- [YT RVX Features](RVX-features/YT-RVX-features/YT-RVX-Features.md)
-- [YTM RVX Features](RVX-features/YTM-RVX-features/YTM-RVX-Features.md)
+- [YT RVX Features](RVX-Features/YT-RVX-features/YT-RVX-Features.md)
+- [YTM RVX Features](RVX-Features/YTM-RVX-features/YTM-RVX-Features.md)
 
 ### ReVanced Features
-- [Messenger Features](RV-features/messenger.md)
-- [Reddit Features](RV-features/reddit.md)
-- [TikTok Features](RV-features/tiktok.md)
+- [Messenger Features](RV-Features/messenger.md)
+- [Reddit Features](RV-Features/reddit.md)
+- [TikTok Features](RV-Features/tiktok.md)
 
 [!button variant="success" text="Download Latest ReVanced Apps"](Download/download.md)

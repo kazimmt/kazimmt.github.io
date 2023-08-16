@@ -1,6 +1,7 @@
 ---
 label: "TikTok RV Features"
 order: 99
+icon: "/assets/icons/tiktok.svg"
 ---
 
 ![](/assets/cover/tiktok-rv-cover.png)
