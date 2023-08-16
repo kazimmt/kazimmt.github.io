@@ -10,7 +10,7 @@ links:
 - text: Discussion Group
   link: https://t.me/ReVancedBuildMMT
 branding:
-  logo: "https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/logo/revanced-mmt-logo.svg"
-  logoDark: "https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/logo/revanced-mmt-logo-dark.svg"
+  logo: https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/logo/revanced-mmt-logo.svg
+  logoDark: https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/logo/revanced-mmt-logo-dark.svg
 footer:
   copyright: "&copy; {{ year }} by kaziMMT. GPLv3"
