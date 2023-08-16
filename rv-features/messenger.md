@@ -1,3 +1,5 @@
+![](/assets/cover/messenger-rv-cover.png)
+
 # Messenger ReVanced
 <i>Organized Messenger ReVanced functionalities, arranged alphabetically.</i>
 
