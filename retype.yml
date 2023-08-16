@@ -3,6 +3,8 @@ output: .retype
 url: https://kazimmt.github.io/RVX-Features/
 
 branding:
+  title:
+  label:
   logo: /assets/logo/revanced-mmt-logo.svg
   logoDark: /assets/logo/revanced-mmt-logo-dark.svg
 
