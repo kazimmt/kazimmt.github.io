@@ -1,3 +1,9 @@
+---
+label: "YT RVX"
+---
+
+![](/assets/cover/download-yt-rvx-cover.png)
+
 # Download YouTube RVX
 
 Choose any icon/theme you prefer. [It will take you to the link of our Telegram Group.]
