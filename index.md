@@ -1,4 +1,9 @@
-# ReVanced Apps | MMT
+---
+label: "Home"
+icon: home
+---
+
+## Welcome to ReVanced Apps | MMT
 
 <i>A documentation made for ReVanced Apps | MMT Telegram channel</i>
 
