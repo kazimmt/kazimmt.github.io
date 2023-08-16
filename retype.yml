@@ -5,8 +5,8 @@ url: https://kazimmt.github.io/RVX-Features/
 branding:
   title: ReVanced Apps | MMT
   label:
-  logo: https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/logo/revanced-mmt-logo.svg
-  logoDark: https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/logo/revanced-mmt-logo-dark.svg
+  logo: /assets/logo/revanced-mmt-logo.svg
+  logoDark: /assets/logo/revanced-mmt-logo-dark.svg
 
 links:
 - text: Join ReVanced MMT
