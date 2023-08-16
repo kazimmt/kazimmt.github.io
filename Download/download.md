@@ -1,3 +1,9 @@
+---
+label: "Download"
+---
+
+![](/assets/cover/download-apps-cover.png)
+
 # Download
 
 - [YT ReVanced Extended](YT-RVX.md)
