@@ -1,3 +1,9 @@
+---
+label: "YT Music RVX"
+---
+
+![](/assets/cover/download-ytm-rvx-cover.png)
+
 # Download YouTube Music RVX
 
 Choose any icon you prefer. [It will take you to the link of our Telegram Group.]
