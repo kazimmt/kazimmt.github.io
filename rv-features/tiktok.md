@@ -1,6 +1,10 @@
+---
+label: "TikTok RV Features"
+---
+
 ![](/assets/cover/tiktok-rv-cover.png)
 
-# TikTok ReVanced
+# TikTok ReVanced Features
 <i>Organized Tiktok ReVanced functionalities, arranged alphabetically.</i>
 
 ### Packages
