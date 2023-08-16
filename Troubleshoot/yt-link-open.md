@@ -2,6 +2,7 @@
 label: "Link Open"
 order: 99
 icon: link
+image: /assets/cover/links-not-opening-cover.png
 ---
 
 # Link not Opening in RV/RVX App
