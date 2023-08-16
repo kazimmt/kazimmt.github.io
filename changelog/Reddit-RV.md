@@ -1,3 +1,5 @@
+![](/assets/cover/reddit-rv-cover.png)
+
 # Reddit RV + RVX Changelog
 
 ### 27 July 2023
