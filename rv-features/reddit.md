@@ -1,3 +1,5 @@
+![](/assets/cover/reddit-rv-cover.png)
+
 # Reddit ReVanced + Extended
 <i>Organized Reddit ReVanced & ReVanced Extended functionalities along with visual illustrations, arranged alphabetically.</i>
 
