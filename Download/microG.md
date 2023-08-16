@@ -1,3 +1,9 @@
+---
+label: "microG"
+---
+
+![](/assets/cover/download-microg-cover.png)
+
 # Download MicroG
 Get MicroG, which is necessary for using the non-root version of YT RVX / YT Music RVX.
 
