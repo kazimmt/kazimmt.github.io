@@ -1,6 +1,10 @@
+---
+label: "Reddit RV Features"
+---
+
 ![](/assets/cover/reddit-rv-cover.png)
 
-# Reddit ReVanced + Extended
+# Reddit ReVanced + Extended Features
 <i>Organized Reddit ReVanced & ReVanced Extended functionalities along with visual illustrations, arranged alphabetically.</i>
 
 #### Disable screenshot popup
