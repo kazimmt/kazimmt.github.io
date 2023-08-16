@@ -1,3 +1,7 @@
+---
+label: "YT RVX Features"
+---
+
 ![](/assets/cover/yt-rvx-cover.png)
 
 # YT RVX Features
