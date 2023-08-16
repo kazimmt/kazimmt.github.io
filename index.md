@@ -2,10 +2,13 @@
 label: "Home"
 icon: home
 ---
+![](/assets/cover/home-cover.png)
 
 # Welcome to ReVanced Apps | MMT
 
 <i>A documentation made for ReVanced Apps | MMT Telegram channel</i>
+
+---
 
 ### ReVanced Extended Features
 - [YT RVX Features](RVX-features/YT-RVX-features/YT-RVX-Features.md)
