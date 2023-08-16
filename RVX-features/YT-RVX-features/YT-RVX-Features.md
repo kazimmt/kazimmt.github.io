@@ -1,4 +1,5 @@
 ![](/assets/cover/yt-rvx-cover.png)
+
 # YT RVX Features
 
 Organized YouTube ReVanced Extended functionalities along with visual illustrations, arranged based on RVX Settings (Alphabetically).
