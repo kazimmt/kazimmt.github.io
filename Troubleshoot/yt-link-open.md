@@ -12,7 +12,7 @@ Link for YouTube RVX, YouTube Music RVX, TikTok RV, Twitter RV, Reddit RV etc no
 !!!
 
 
-==- Solution for All OS
++++ Solution for All OS
 #### Step 1 | Disable Main YouTube
 - Go to your phone setting, go to apps
 - From app list, find **Original YouTube** & tap on it.
@@ -37,9 +37,9 @@ HOLA! Your Job is Done!
 The screenshots were taken from OneUI (credit to @drsudhakar), so the text might vary on your device.
 !!!
 
-===
 
-==- Solution for MIUI
+
++++ Solution for MIUI
 #### Step 1 | Disable Main YouTube
 - First install [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets) from Playstore
 ![](https://telegra.ph/file/5042964f5db0ec4ec953b.jpg)
@@ -61,8 +61,7 @@ The screenshots were taken from OneUI (credit to @drsudhakar), so the text might
 ![](https://telegra.ph/file/327ed6efe9670ce1b6b84.jpg)
 
 HOLA! Your Job is Done!
-
-===
++++
 
 !!!
 You can use the same instructions for other ReVanced Apps. If any ReVanced-supported app isn't a system app on your device, you can skip the **'disable'** step. 
