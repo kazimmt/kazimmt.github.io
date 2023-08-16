@@ -16,7 +16,7 @@ Choose any icon you prefer. [It will take you to the link of our Telegram Group.
 [!button size="s" variant="secondary" text="📥 Non Root arm7"](https://t.me/ReVancedBuildMMT/120974) [!button size="s" variant="warning" text="📥 Root arm7"](https://github.com/kazimmt/RVX-MMT-module/releases/download/09-08/RVX-music-arm7-MMT.zip)
 
 ==- Example Image
-![](https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/icon-difference/mmt.jpg)
+![](/assets/icon-difference/ytm-mmt.jpg)
 ===
 
 ### 2. OG icon
@@ -25,5 +25,5 @@ Choose any icon you prefer. [It will take you to the link of our Telegram Group.
 [!button size="s" variant="secondary" text="📥 Non Root arm7"](https://t.me/ReVancedBuildMMT/120980) [!button size="s" variant="warning" text="📥 Root arm7"](https://github.com/kazimmt/RVX-MMT-module/releases/download/09-08/RVX-music-arm7-OG.zip)
 
 ==- Example Image
-![](https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/icon-difference/og.jpg)
+![](/assets/icon-difference/ytm-og.jpg)
 ===
