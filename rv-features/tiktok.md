@@ -1,3 +1,5 @@
+![](/assets/cover/tiktok-rv-cover.png)
+
 # TikTok ReVanced
 <i>Organized Tiktok ReVanced functionalities, arranged alphabetically.</i>
 
