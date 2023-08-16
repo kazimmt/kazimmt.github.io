@@ -1,6 +1,10 @@
+---
+label: "Messenger RV Features"
+---
+
 ![](/assets/cover/messenger-rv-cover.png)
 
-# Messenger ReVanced
+# Messenger ReVanced Features
 <i>Organized Messenger ReVanced functionalities, arranged alphabetically.</i>
 
 #### Disable switching emoji to sticker in message input field
