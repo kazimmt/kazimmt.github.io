@@ -1,3 +1,8 @@
+---
+label: "Reddit Changelog"
+order: 97
+---
+
 # Reddit RV + RVX Changelog
 
 ### 27 July 2023

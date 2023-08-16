@@ -1,5 +1,7 @@
 ---
 label: "YT RVX Features"
+order: 99
+icon: "https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/icons/yt-rvx.svg"
 ---
 
 ![](/assets/cover/yt-rvx-cover.png)

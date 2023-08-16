@@ -7,7 +7,6 @@ poweredByRetype: false
 branding:
   logo: "/assets/logo/revanced-mmt-logo.svg"
   logoDark: "/assets/logo/revanced-mmt-logo-dark.svg"
-  label: 1.0
 
 meta:
   title: " - ReVanced Apps | MMT"

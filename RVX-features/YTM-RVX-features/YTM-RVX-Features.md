@@ -1,5 +1,7 @@
 ---
 label: "YT Music RVX Features"
+order: 98
+icon: "https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/icons/ytm-rvx.svg"
 ---
 
 ![](/assets/cover/ytm-rvx-cover.png)
