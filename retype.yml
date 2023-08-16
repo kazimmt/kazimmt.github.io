@@ -9,6 +9,9 @@ branding:
   logoDark: "/assets/logo/revanced-mmt-logo-dark.svg"
   label: 1.0
 
+meta:
+  title: " - ReVanced Apps | MMT"
+
 links:
 - text: Join ReVanced MMT
   link: https://t.me/ReVanced_MMT
