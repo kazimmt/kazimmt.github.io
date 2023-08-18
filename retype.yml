@@ -2,7 +2,7 @@ input: .
 output: .retype
 url: https://kazimmt.github.io/RVX-Features/
 
-poweredByRetype: false
+favicon: "/assets/icons/yt-rvx.svg"
 
 branding:
   logo: "/assets/logo/revanced-mmt-logo.svg"
