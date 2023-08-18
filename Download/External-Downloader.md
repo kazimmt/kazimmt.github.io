@@ -24,14 +24,14 @@ com.deniscerri.ytdl
 ===
 
 #### Features
-- Aideo downloads up to 4k in WebM, MP4 and MKV & 8K MP4 also supports HDR Download
+- Video downloads up to 4k in WebM, MP4 and MKV & 8K MP4 also supports HDR Download
 - Audio downloads in multiple formats - MP3, M4A, AAC, ALAC, FLAC, OPUS, WAV (but most commonly in the first 2)
 - Ability to download without SponsorBlock segments
 - Ability to edit the video before downloading
 - Needs external player
 - Ability to download playlists
 - Embed subtitles
-- you can use it as a search engine to search for youtube videos you want to download(you CAN'T play them in the app itself)
+- You can use it as a search engine to search for youtube videos you want to download(you CAN'T play them in the app itself)
 - Ability to backup and restore everything - from settings to search history(as a json file)
 
 +++ Seal
@@ -65,12 +65,12 @@ org.schabi.newpipe
 ===
 
 #### Features
-- video downloads up to 4k60fps(haven't tested 8k) in 3 different formats - MPEG-4, WebM and 3GP(formats change depending on the quality)
-- audio downloads up to 128kbps in M4A and up to 160kbps in WebM
-- background playback and PIP
-- swipe controls for volume and brightness
+- Video downloads up to 4k60fps(haven't tested 8k) in 3 different formats - MPEG-4, WebM and 3GP(formats change depending on the quality)
+- Audio downloads up to 128kbps in M4A and up to 160kbps in WebM
+- Background playback and PIP
+- Swipe controls for volume and brightness
 
-+++ NewPipe x SponsorBlock
++++ NewPipe SB
 
 #### Package name
 ```
@@ -83,10 +83,10 @@ org.polymorphicshade.newpipe
 ===
 
 #### Features
-- video downloads up to 4k60fps(haven't tested 8k) in 3 different formats - MPEG-4, WebM and 3GP(formats change depending on the quality)
-- audio downloads up to 128kbps in M4A and up to 160kbps in WebM
-- background playback and PIP
-- swipe controls for volume and brightness
+- Video downloads up to 4k60fps(haven't tested 8k) in 3 different formats - MPEG-4, WebM and 3GP(formats change depending on the quality)
+- Audio downloads up to 128kbps in M4A and up to 160kbps in WebM
+- Background playback and PIP
+- Swipe controls for volume and brightness
 - SponsorBlock and Return Youtube Dislikes
 +++ DVD
 #### Package name
@@ -147,7 +147,7 @@ This app hasn't been updated since January 2022 and as such it may not work prop
 - Swipe controls for volume and brightness
 - Ability to download playlists
  
-+++ YouTube Downloader
++++ YTD
 #### Package name
 ```
 dentex.youtube.downloader
