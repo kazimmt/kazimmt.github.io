@@ -9,7 +9,7 @@ label: "Download"
 - [YT ReVanced Extended](YT-RVX.md)
 - [YT Music ReVanced Extended](YTM-RVX.md)
 - [MicroG](microG.md)
-- [External Downloaders](https://t.me/ReVanced_MMT/266)
+- [External Downloaders](External-Downloader.md)
 - [Twitter](https://t.me/ReVanced_MMT/421)
 - [TikTok](https://t.me/ReVanced_MMT/494)
 - [Reddit](https://t.me/ReVanced_MMT/512)
