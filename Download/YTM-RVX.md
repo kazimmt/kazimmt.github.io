@@ -2,6 +2,7 @@
 label: "YT Music RVX"
 order: 98
 icon: "/assets/icons/ytm-rvx.svg"
+hidden: true
 ---
 
 ![](/assets/cover/download-ytm-rvx-cover.png)

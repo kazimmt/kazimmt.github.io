@@ -2,6 +2,7 @@
 label: "YT RVX"
 order: 99
 icon: "/assets/icons/yt-rvx.svg"
+hidden: true
 ---
 
 ![](/assets/cover/download-yt-rvx-cover.png)
