@@ -6,6 +6,10 @@ icon: "/assets/icons/ytm-rvx.svg"
 
 # YT Music RVX Changelog
 
+### 19 August 2023
+- bumped base to YT Music 6.15.51
+- fix: `Hide Upgrade Button` hiding the **Library** icon in **Navigation bar**
+
 ### 09 August 2023
 - bumped base to YT Music 6.14.50
 - add `hide-channel-guidelines` patch
