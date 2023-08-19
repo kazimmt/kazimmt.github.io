@@ -6,6 +6,18 @@ icon: "/assets/icons/yt-rvx.svg"
 
 # YT RVX Changelog
 
+### 19 August 2023
+YT RVX 18.32.37
+- bumped YouTube base 18.32.37
+- add: `Alternative video thumbnails` (Anti Clickbait)
+- hide product banner: Hide new product type (in Store tab)
+- hide action button: Add hide for action button (like Transcript, Chapter, etc)
+- save video quality: Video Quality Preset not worked
+- hide suggestion shelf: Suggesstion shelf hidden on tablet layout
+
+Thanks to @annonyviet for continuing the RVX Project.
+
+
 ### 11 August 2023
 YT RVX 18.30.37
 - bumped YouTube base 18.30.37
