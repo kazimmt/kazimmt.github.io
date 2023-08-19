@@ -1,7 +1,8 @@
 # YouTube ReVanced Extended Features
 
 ### Suppressed by :
-[Website](https://github.com/kazimmt/RVX-Features/tree/website)
+[Website Branch](https://github.com/kazimmt/RVX-Features/tree/website)
+
 Now features can be found on github page: https://kazimmt.github.io/RVX-Features
 
 ## Organized YouTube ReVanced Extended functionalities along with visual illustrations, arranged based on RVX Settings (Alphabetically).
