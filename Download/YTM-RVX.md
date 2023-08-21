@@ -5,7 +5,7 @@ icon: "/assets/icons/ytm-rvx.svg"
 hidden: true
 ---
 
-![](/assets/cover/download-ytm-rvx-cover.png)
+![](../assets/cover/download-ytm-rvx-cover.png)
 
 # Download YouTube Music RVX
 

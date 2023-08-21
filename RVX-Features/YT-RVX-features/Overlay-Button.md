@@ -3,38 +3,38 @@
 #### Show Always autorepeat button
 >Shows always autorepeat button on player. You can autorepeat any video by pressing this button.
 ==- Reference image
-<img src="https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/youtube/overlay-button/always-autorepeat-button.jpg" >
+![](/assets/youtube/overlay-button/always-autorepeat-button.jpg)
 ===
 
 #### Show Copy timestamp URL button
 >Shows copy timestamp url button on player. You can copy video link with current timestamp directly by pressing this button.
 ==- Reference image
-<img src="https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/youtube/overlay-button/copy-timestamp-url-button.jpg" >
+![](/assets/youtube/overlay-button/copy-timestamp-url-button.jpg)
 ===
 
 #### Show Copy video URL button
 >Shows copy video url button on player. You can copy video link directly by pressing this button.
 ==- Reference image
-<img src="https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/youtube/overlay-button/copy-video-url-button.jpg" >
+![](/assets/youtube/overlay-button/copy-video-url-button.jpg)
 ===
 
 #### Show External download button
 >Shows external button on player which allows you to download video locally.
 ==- Reference image
-<img src="https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/youtube/overlay-button/external-download-button.jpg" >
+![](/assets/youtube/overlay-button/external-download-button.jpg)
 ===
 
 #### External downloader settings
 >Configure external download button with your favourite downloader app.
 ==- Reference image
-<img src="https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/youtube/overlay-button/external-download-configure.jpg" >
+![](/assets/youtube/overlay-button/external-download-configure.jpg)
 To learn how to config, visit this: https://telegra.ph/Set-downloader-to-RVXRV-01-09
 ===
 
 #### Show Speed dialog button
 >Shows speed dialog button on player. You can change/reset video speed using this button.
 ==- Reference image
-<img src="https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/youtube/overlay-button/speed-dialog-button.jpg" >
+![](/assets/youtube/overlay-button/speed-dialog-button.jpg)
 ===
 
 ### Experimental Flags
@@ -42,5 +42,5 @@ To learn how to config, visit this: https://telegra.ph/Set-downloader-to-RVXRV-0
 #### Hook download button
 >Hook native download button as external download button. Then native download button also work as a external downloader button.
 ==- Reference image
-<img src="https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/youtube/overlay-button/hook-download-button.jpg" >
+![](/assets/youtube/overlay-button/hook-download-button.jpg)
 ===

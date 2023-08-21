@@ -4,7 +4,7 @@ order: 97
 icon: "/assets/icons/microg.svg"
 ---
 
-![](/assets/cover/download-microg-cover.png)
+![](../assets/cover/download-microg-cover.png)
 
 # Download MicroG
 Get MicroG, which is necessary for using the non-root version of YT RVX / YT Music RVX.

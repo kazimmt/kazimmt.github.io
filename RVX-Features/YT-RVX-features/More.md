@@ -19,55 +19,55 @@
 #### Enable minimized playback
 >Enables minimized and background playback.
 ==- Reference image
-<img src="https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/youtube/more/Enable-minimized-playback.jpg">
+![](/assets/youtube/more/Enable-minimized-playback.jpg)
 ===
 
 #### Force hide player button background
 >Force removes the background from the video player buttons.
 ==- Reference image
-<img src="https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/youtube/more/Force-hide-player-button-background.jpg">
+![](/assets/youtube/more/Force-hide-player-button-background.jpg)
 ===
 
 #### Hide pip notification
 >Disable pip notification when you first launch pip mode.
 ==- Reference image
-<img src="https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/youtube/more/Hide-pip-notification.jpg">
+![](/assets/youtube/more/Hide-pip-notification.jpg)
 ===
 
 #### Hide tooltip content
 >Hides the tooltip box that appears on first install.
 ==- Reference image
-<img src="https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/youtube/more/Hide-tooltip-content.jpg">
+![](/assets/youtube/more/Hide-tooltip-content.jpg)
 ===
 
 #### Language switch
 >Add in-app language switch toggle.
 ==- Reference image
-<img src="https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/youtube/more/Language-switch.jpg">
+![](/assets/youtube/more/Language-switch.jpg)
 ===
 
 #### MaterialYou
 >Applies the MaterialYou theme for Android 12+ to YouTube.
 ==- Reference image
-<img src="https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/youtube/more/MaterialYou.jpg">
+![](/assets/youtube/more/MaterialYou.jpg)
 ===
 
 #### Settings
 >Applies mandatory patches to implement ReVanced settings into the application.
 ==- Reference image
-<img src="https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/youtube/more/settings.jpg">
+![](/assets/youtube/more/settings.jpg)
 ===
 
 #### Theme
 >Change the app's theme to the values specified in options.json. [by default: Black]
 ==- Reference image
-<img src="https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/youtube/more/Theme.jpg">
+![](/assets/youtube/more/Theme.jpg)
 ===
 
 #### Translations
 >Add Crowdin translations for YouTube ReVanced Extended settings.
 ==- Reference image
-<img src="https://raw.githubusercontent.com/kazimmt/RVX-Features/website/assets/youtube/more/Translations.jpg">
+![](/assets/youtube/more/Translations.jpg)
 ===
 
 💡 <code><i>Settings for some of these features are not available in ReVanced Extended Settings Page</i></code>

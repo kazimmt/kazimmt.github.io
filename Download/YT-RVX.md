@@ -5,7 +5,7 @@ icon: "/assets/icons/yt-rvx.svg"
 hidden: true
 ---
 
-![](/assets/cover/download-yt-rvx-cover.png)
+![](../assets/cover/download-yt-rvx-cover.png)
 
 # Download YouTube RVX
 

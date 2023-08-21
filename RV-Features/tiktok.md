@@ -4,7 +4,7 @@ order: 99
 icon: "/assets/icons/tiktok.svg"
 ---
 
-![](/assets/cover/tiktok-rv-cover.png)
+![](../assets/cover/tiktok-rv-cover.png)
 
 # TikTok ReVanced Features
 <i>Organized Tiktok ReVanced functionalities, arranged alphabetically.</i>

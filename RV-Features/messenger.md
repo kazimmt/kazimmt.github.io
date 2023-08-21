@@ -4,7 +4,7 @@ order: 97
 icon: "/assets/icons/messenger.svg"
 ---
 
-![](/assets/cover/messenger-rv-cover.png)
+![](../assets/cover/messenger-rv-cover.png)
 
 # Messenger ReVanced Features
 <i>Organized Messenger ReVanced functionalities, arranged alphabetically.</i>

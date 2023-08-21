@@ -4,7 +4,7 @@ order: 98
 icon: "/assets/icons/reddit.svg"
 ---
 
-![](/assets/cover/reddit-rv-cover.png)
+![](../assets/cover/reddit-rv-cover.png)
 
 # Reddit ReVanced + Extended Features
 <i>Organized Reddit ReVanced & ReVanced Extended functionalities along with visual illustrations, arranged alphabetically.</i>
