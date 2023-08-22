@@ -7,7 +7,7 @@ icon: "/assets/icons/lightroom.svg"
 ![](../assets/cover/lightroom-rv-cover.png)
 
 # Lightroom Mobile ReVanced Features
-<i>Organized VSCO Editor ReVanced functionalities, order alphabetically.</i>
+<i>Organized Lightroom Mobile ReVanced functionalities, order alphabetically.</i>
 
 
 #### Disable mandatory login
