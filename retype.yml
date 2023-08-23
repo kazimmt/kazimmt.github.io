@@ -2,11 +2,11 @@ input: .
 output: .retype
 url: https://kazimmt.github.io/RVX-Features/
 
-favicon: "/assets/icons/yt-rvx.svg"
+favicon: /assets/icons/yt-rvx.svg
 
 branding:
-  logo: "/assets/logo/revanced-mmt-logo.svg"
-  logoDark: "/assets/logo/revanced-mmt-logo-dark.svg"
+  logo: /assets/logo/revanced-mmt-logo.svg
+  logoDark: /assets/logo/revanced-mmt-logo-dark.svg
 
 meta:
   title: " - ReVanced Apps | MMT"
