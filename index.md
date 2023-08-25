@@ -20,6 +20,8 @@ icon: home
 - [Messenger Features](RV-Features/messenger.md)
 - [Twitter Features](RV-Features/twitter.md)
 - [Twitch Features](RV-Features/twitch.md)
+- [Duolinto Features](RV-Features/duolingo.md)
+- [VSCO Features](RV-Features/vsco.md)
 
 ---
 

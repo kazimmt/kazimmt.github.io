@@ -15,7 +15,9 @@ icon: "/assets/icons/duolingo.svg"
 - Monthly streak repair
 - No ads
 - Super free education
+
 === Reference image
 ![](/assets/screenshots/duolingo-premium.jpg)
 ===
+
 ---
