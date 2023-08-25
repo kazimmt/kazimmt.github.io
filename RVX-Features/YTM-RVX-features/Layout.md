@@ -33,7 +33,7 @@
 ### Enable force minimized player
 >Permanently keep player minimized even if another track is played.
 ==- Reference Video
-[!embed](https://github.com/kazimmt/RVX-Features/assets/82371061/1f8a7de3-6a6b-49d7-8218-2192318c7a2b)
+[!embed](https://www.youtube.com/embed/4n9AZbzHktU?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&vq=hd1080)
 ===
 ---
 ### Enable landscape mode

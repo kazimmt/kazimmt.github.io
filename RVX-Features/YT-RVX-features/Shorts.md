@@ -11,7 +11,7 @@
 ### Disable shorts player at app startup
 >Disables playing YouTube Shorts when launching YouTube.
 ==- Reference video
-[!embed](https://github.com/kazimmt/RVX-Features/assets/82371061/9e0dcdfd-fe78-44c5-bc23-8a1b22011413)
+[!embed](https://www.youtube.com/embed/QQZytXUfoT8?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&vq=hd1080)
 ===
 ---
 ### Enable new comment popup panels
@@ -63,6 +63,7 @@
 ===
 ---
 ### Hide share button
+==-
 >Hides share button in shorts.
 ![](/assets/youtube/shorts/Hide-share-button.jpg)
 ===
