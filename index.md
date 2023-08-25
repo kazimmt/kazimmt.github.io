@@ -15,8 +15,16 @@ icon: home
 - [YTM RVX Features](RVX-Features/YTM-RVX-features/YTM-RVX-Features.md)
 
 ### ReVanced Features
-- [Messenger Features](RV-Features/messenger.md)
-- [Reddit Features](RV-Features/reddit.md)
 - [TikTok Features](RV-Features/tiktok.md)
+- [Reddit Features](RV-Features/reddit.md)
+- [Messenger Features](RV-Features/messenger.md)
+- [Twitter Features](RV-Features/twitter.md)
+- [Twitch Features](RV-Features/twitch.md)
 
-[!button variant="success" text="Download Latest ReVanced Apps"](Download/download.md)
+---
+
+### Download
+
+[!button variant="secondary" text="MicroG"](Download/microg.md) [!button variant="success" text="Downloader"](Download/External-Downloader.md)
+
+[!button variant="warning" text="Latest ReVanced Apps"](Download/download.md)

@@ -18,4 +18,5 @@ label: "Download"
 - [Lightroom Mobile](https://t.me/ReVanced_MMT/492)
 - [Candylink VPN](https://t.me/ReVanced_MMT/374)
 - [VSCO Editor](https://t.me/ReVanced_MMT/377)
+- [Duolingo](https://t.me/ReVanced_MMT/528)
 - [Nova Launcher](https://t.me/ReVanced_MMT/480)
