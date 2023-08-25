@@ -1,44 +1,80 @@
 # More
-<i>Settings for these patches may not available in app setting</i>
+!!! warning
+Settings for some of these patches may not available in app setting
+!!!
 
-#### Amoled
+### Amoled
 >Applies pure black theme in flyout panels.
-
-#### Background play
+==- Reference image
+![](/assets/ytmusic/more/Amoled.jpg)
+===
+---
+### Background play
 >Enables playing music in the background.
-
-#### Bitrate Default Value
+==- Reference image
+![](/assets/ytmusic/more/Background-play.jpg)
+===
+---
+### Bitrate Default Value
 >Set the audio quality to "Always High" when you first install the app.
-
-#### Certificate spoof
+==- Reference image
+![](/assets/ytmusic/more/Bitrate-Default-Value.jpg)
+===
+---
+### Certificate spoof
 >Spoofs the YouTube Music certificate for Android Auto.
-
-#### Custom branding icon mmt
+==- Reference image
+![](/assets/ytmusic/more/Certificate-spoof.jpg)
+===
+---
+### Custom branding icon mmt
 >Changes the YouTube Music launcher icon to MMT.
-
-#### Enable minimized playback
+==- Reference image
+![](/assets/icon-difference/ytm-mmt.jpg)
+===
+---
+### Enable minimized playback
 >Enables minimized playback on Kids music.
-
-#### Exclusive audio playback
+==- Reference image
+![](/assets/ytmusic/more/Enable-minimized-playback.jpg)
+===
+---
+### Exclusive audio playback
 >Enables the option to play music without video.
-
-#### Hide get premium
+==- Reference image
+![](/assets/ytmusic/more/Exclusive-audio-playback.jpg)
+===
+---
+### Hide get premium
 >Hides "Get Premium" label from the account menu.
-
-#### Hide taste builder
+==- Reference image
+![](/assets/ytmusic/more/Hide-get-premium.jpg)
+===
+---
+### Hide taste builder
 >Hides the "Tell us which artists you like" card from homepage.
-
-#### Hide upgrade button
+==- Reference image
+![](/assets/ytmusic/more/Hide-taste-builder.jpg)
+===
+---
+### Hide upgrade button
 >Hides upgrade button from navigation bar and hide upgrade banner from homepage.
-
-#### MicroG support
+==- Reference image
+![](/assets/ytmusic/more/Hide-upgrade-button.jpg)
+===
+---
+### MicroG support
 >Allows ReVanced Music to run without root and under a different package name with MicroG.
-
-#### Optimize resource
+---
+### Optimize resource
 >Remove unnecessary resources.
-
-#### Settings
+---
+### Settings
 >Adds settings for ReVanced to YouTube Music.
-
-#### Translations
+---
+### Translations
 >Add Crowdin translations for YouTube Music.
+==- Reference image
+![](/assets/ytmusic/more/Translation.jpg)
+===
+---

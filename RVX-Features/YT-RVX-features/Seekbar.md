@@ -1,6 +1,6 @@
 # Seekbar
-
-#### Enable custom seekbar color
+---
+### Enable custom seekbar color
 >Adds an option to change dark mode gray seekbar color to any color.
 ==- Reference image
 ![](/assets/youtube/seekbar/Enable-custom-seekbar-color.jpg)
@@ -8,38 +8,40 @@
 
 💡 <code><i>You can set any color with hex color code.</i></code>
 
-#### Enable new thumbnail preview
+---
+### Enable new thumbnail preview
 >Enables a new type of thumbnail preview.
 ==- Reference image
 ![](/assets/youtube/seekbar/Enable-new-thumbnail-preview.jpg)
 ===
-
-#### Enable seekbar tapping
+---
+### Enable seekbar tapping
 >Enables tap-to-seek on the seekbar of the video player.
 ==- Reference image
 ![](/assets/youtube/seekbar/Enable-seekbar-tapping.jpg)
 ===
-
-#### Enable time stamp speed
+---
+### Enable time stamp speed
 >Adds the current video speed in brackets next to the current time.
 ==- Reference image
 ![](/assets/youtube/seekbar/Enable-timestamp-speed.jpg)
 ===
-
-#### Hide seekbar in video player
+---
+### Hide seekbar in video player
 >Hides the seekbar in video player.
 ==- Reference image
 ![](/assets/youtube/seekbar/Hide-seekbar-in-video-player.jpg)
 ===
-
-#### Hide seekbar in video thumbnails
+---
+### Hide seekbar in video thumbnails
 >Hides the seekbar in video thumbnails.
 ==- Reference image
 ![](/assets/youtube/seekbar/Hide-seekbar-in-video-thumbnails.jpg)
 ===
-
-#### Hide time stamp
+---
+### Hide time stamp
 >Hides timestamp in video player.
 ==- Reference image
 ![](/assets/youtube/seekbar/Hide-time-stamp.jpg)"
 ===
+---

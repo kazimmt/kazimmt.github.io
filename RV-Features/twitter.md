@@ -9,14 +9,16 @@ icon: "/assets/icons/twitter.svg"
 # Twitter ReVanced Features
 <i>Organized Twitter ReVanced functionalities, order alphabetically.</i>
 
-#### Dynamic color
+---
+### Dynamic color
 >Replaces the default Twitter Blue with the users Material You palette.
-
-#### Hide ads
+---
+### Hide ads
 >Hides ads from Twitter Feed.
-
-#### Hide recommended users
+---
+### Hide recommended users
 >Hides recommended users from Twitter Feed
-
-#### Hide Who to Follow
+---
+### Hide Who to Follow
 >Hide recommended users patch also hides Who To Follow shelf
+---

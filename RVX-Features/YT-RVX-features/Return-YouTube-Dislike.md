@@ -1,25 +1,26 @@
 # Return YouTube Dislike
-
-#### Enable Return YouTube Dislike
+---
+### Enable Return YouTube Dislike
 >Shows the dislike count of videos using the Return YouTube Dislike API.
 ==- Reference image
 ![](/assets/youtube/return-youtube-dislike/Enable-Return-YouTube-Dislike.jpg)
 ===
-
-#### Show dislikes on Shorts
+---
+### Show dislikes on Shorts
 >Return YouTube Dislike now support Shorts videos. It also shows the dislike count of shorts video using the RYD API.
 ==- Reference image
 ![](/assets/youtube/return-youtube-dislike/Show-dislikes-on-Shorts.jpg)
 ===
-
-#### Dislikes as percentage
+---
+### Dislikes as percentage
 >It counts dislikes as a percentage of the number.
 ==- Reference image
 ![](/assets/youtube/return-youtube-dislike/Dislikes-as-percentage.jpg)
 ===
-
-#### Compact like button
+---
+### Compact like button
 >Like button styled for minimum width.
 ==- Reference image
 ![](/assets/youtube/return-youtube-dislike/Compact-like-button.jpg)
 ===
+---

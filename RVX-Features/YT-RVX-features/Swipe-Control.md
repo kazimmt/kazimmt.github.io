@@ -1,23 +1,23 @@
 # Swipe Control
-
-#### Enable auto-brightness by swiping
+---
+### Enable auto-brightness by swiping
 >Makes the brightness of HDR videos follow the system default by swiping the player.
 ==- Reference image
 ![](/assets/youtube/swipe-control/Enable-auto-brightness-by-swiping.jpg)
 ===
-
-#### Enable brightness gesture
+---
+### Enable brightness gesture
 >Enable brightness swipe control.
 ==- Reference image
 ![](/assets/youtube/swipe-control/Enable-brightness-gesture.jpg)
 ===
-
-#### Enable volume gesture
+---
+### Enable volume gesture
 >Enables volume swipe control.
 ==- Reference image
 ![](/assets/youtube/swipe-control/Enable-volume-gesture.jpg)
 ===
-
+---
 #### Enable press-to-swipe gesture
 >Enables long press to swipe control instead of normal swipe.
 
@@ -35,7 +35,7 @@
 
 #### Swipe overlay timeout
 >Can set the time (in millisecond) the overlay is visible.
-
+---
 ### Experimental Flags
 
 #### Disable auto HDR brightness
@@ -43,3 +43,4 @@
 
 #### Enable save and restore brightness
 >Saves & restores the brightness when exiting or entering fullscreen.
+---

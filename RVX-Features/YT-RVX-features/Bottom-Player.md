@@ -1,5 +1,5 @@
 # Bottom Player</summary>
-
+---
 ### Button container
 
 #### Hide button container
@@ -10,36 +10,40 @@
 ![](/assets/youtube/bottom-player/hide-button-container.jpg)
 ===
 
-💡 <code><i>You can hide Clip, Dislike, Download, Download, Like, Playlist, Rewards button separately</i></code>
+!!! success
+You can hide **Clip**, **Dislike**, **Download**, **Like**, **Live Chat**, **Playlist**, **Remix**, **Report**, **Rewards**, **Share**, **Shop**, **Thanks** button separately</i></code>
+!!!
 
+---
 ### Comments
 
-#### Hide channel guidelines
+### Hide channel guidelines
 >Hide community guidelines from comments.
 ==- Reference image
 ![](/assets/youtube/bottom-player/hide-channel-guidelines.jpg)
 ===
-
-#### Hide comments section
+---
+### Hide comments section
 >Adds options to hide comment component under a video.
 ==- Reference image
 ![](/assets/youtube/bottom-player/hide-comment-section.jpg)
 ===
-
-#### Hides emoji picker
+---
+### Hides emoji picker
 >Hides emoji picker from comments section.
 ==- Reference image
 ![](/assets/youtube/bottom-player/Hide-Emoji-Picker.jpg)
 ===
-
-#### Hide preview comment
+---
+### Hide preview comment
 >Hides preview from comments
 ==- Reference image
 ![](/assets/youtube/bottom-player/hide-preview-comment.jpg)
 ===
-
-#### Hide thanks button
+---
+### Hide thanks button
 >Hides super thanks button from comments.
 ==- Reference image
 ![](/assets/youtube/bottom-player/hide-thanks-button.jpg)
 ===
+---

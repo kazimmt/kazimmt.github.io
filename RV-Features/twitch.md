@@ -9,23 +9,24 @@ icon: "/assets/icons/twitch.svg"
 # Twitch ReVanced Features
 <i>Organized Twitch ReVanced functionalities, order alphabetically.</i>
 
-#### Auto claim channel points
+---
+### Auto claim channel points
 >Automatically claim Channel Points.
-
-#### Block audio ads
+---
+### Block audio ads
 >Blocks audio ads in streams and VODs.
-
-#### Block embedded ads
+---
+### Block embedded ads
 >Blocks embedded stream ads using services like TTV.lol or PurpleAdBlocker.
-
-#### Block video ads
+---
+### Block video ads
 >Blocks video ads in streams and VODs.
-
-#### Debug mode
+---
+### Debug mode
 >Enables Twitch's internal debugging mode.
-
-#### Settings
+---
+### Settings
 >Adds settings menu to Twitch.
-
-#### Show deleted messages
+---
+### Show deleted messages
 >Shows deleted chat messages behind a clickable spoiler.

@@ -9,6 +9,7 @@ icon: "/assets/icons/tiktok.svg"
 # TikTok ReVanced Features
 <i>Organized Tiktok ReVanced functionalities, arranged alphabetically.</i>
 
+---
 ### Packages
 
 **TikTok (Global Server)**
@@ -22,29 +23,30 @@ com.zhiliaoapp.musically
 com.ss.android.ugc.trill
 ```
 
-#### Disable login requirement
+---
+### Disable login requirement
 >Do not force login.
 
-#### Downloads
+### Downloads
 >Removes download restrictions and changes the default path to download to.
 
-#### Feed filter
+### Feed filter
 >Filters tiktok videos: removing ads, removing livestreams.
 
-#### Fix google login
+### Fix google login
 >Allows logging in with a Google account.
 
-#### Hide ads
+### Hide ads
 >Removes ads from TikTok.
 
-#### Playback speed
+### Playback speed
 >Enables the playback speed option for all videos.
 
-#### Settings
+### Settings
 >Adds ReVanced settings to TikTok.
 
-#### Show seekbar
+### Show seekbar
 >Show seekbar
 
-#### Sim spoof
+### Sim spoof
 >Spoofs the information which is retrieved from the sim-card.
