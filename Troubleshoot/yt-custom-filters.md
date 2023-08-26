@@ -32,6 +32,7 @@ This  List of items that can be hide using Custom Filter option inside General S
 | `snappy_horizontal_shelf` Hide handy horizontal shelves inside Discover -> News | ![](https://github-production-user-asset-6210df.s3.amazonaws.com/82371061/263474162-4769dbda-7193-4e8e-a6cf-fa5c6d8fed9d.png) |
 | `styled_product_carousel` hides the product images | ![](https://user-images.githubusercontent.com/117499019/244918005-2aa3cbe3-b4f2-4cc3-a75c-ce5750c8061d.png) |
 | `video_action_toggle_button` Hide like, dislike buttons in full screen view | ![](https://github-production-user-asset-6210df.s3.amazonaws.com/82371061/263313868-ecd65726-5112-41b3-86a9-e0a08e14c62c.png) |
+| `video_card_content` Hide playlist contents from library | ![](https://github-production-user-asset-6210df.s3.amazonaws.com/82371061/263478662-99324dde-3304-40ab-ab5d-ec76e9de55b9.png) |
 
 
 Last update: 26 August 2023
