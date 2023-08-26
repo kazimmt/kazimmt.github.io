@@ -13,7 +13,7 @@ Get MicroG, which is necessary for using the non-root version of YT RVX / YT Mus
 
 or
 
-[!button variant="warning" text="📥 mMicroG v0.2.28.232516"](https://github.com/kazimmt/mMicroG/releases/download/v0.2.28.232516/microG.apk)
+[!button variant="warning" text="📥 mMicroG v0.2.28.233217"](https://github.com/kazimmt/mMicroG/releases/download/v0.2.28.233217/MicroG-Universal.apk)
 
 ==- MicroG Differences
 **(🇬) What is mMicroG (GmsCore)?**
