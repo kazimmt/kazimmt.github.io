@@ -113,6 +113,11 @@
 ==- Reference image
 ![](/assets/youtube/general/Enable-Custom-Filter.jpg)
 ===
+
+!!!
+Some filter items can be found [here](/troubleshoot/yt-custom-filters.md)
+!!!
+
 ---
 ### Hide album cards
 >Hides the album cards below the artist description.
