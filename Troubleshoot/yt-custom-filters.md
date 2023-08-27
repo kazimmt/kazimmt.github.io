@@ -10,7 +10,9 @@ This  List of items that can be hide using Custom Filter option inside General S
 
 | Filter Name | Screenshot of the item |
 |---|---|---|
-| `carousel_header` Hide text "Comment" on the comment box | ![](https://github-production-user-asset-6210df.s3.amazonaws.com/82371061/263311832-3383c92b-fe41-4d00-bd3b-b8de5c728354.png) |
+| `carousel_header` Hide **"Comment"** header on the comment box | ![](https://github-production-user-asset-6210df.s3.amazonaws.com/82371061/263311832-3383c92b-fe41-4d00-bd3b-b8de5c728354.png) |
+| `compact_channel_bar` Hide channel bar under the video player | ![](https://github-production-user-asset-6210df.s3.amazonaws.com/82371061/263509768-a34165a4-de81-4dd9-9b49-e5d1c1ea4720.jpg) |
+| `compact_channel_bar_header` Hide channel info from channel bar | ![](https://github-production-user-asset-6210df.s3.amazonaws.com/82371061/263509937-e2a35082-6e66-4bc3-8ab8-3d6561c0283d.jpg) |
 | `expandable_list_inner` hides product ads from the description. | ![](https://user-images.githubusercontent.com/117499019/244920930-1040a30a-dc90-49d6-82e2-a00520ccd55b.png) |
 | `expandable_product_grid` removes a long list of product ads which upon clicking takes user back to `offer_box` | ![](https://user-images.githubusercontent.com/117499019/244918938-2b8b5fb3-7462-4737-b658-0843f17bf5c2.png) |
 | `grid_channel_shelf` Hide channels grid | ![](https://github-production-user-asset-6210df.s3.amazonaws.com/82371061/263473867-e8c85554-c7c7-4040-907e-b776cb1dee0e.png) |
@@ -33,9 +35,10 @@ This  List of items that can be hide using Custom Filter option inside General S
 | `styled_product_carousel` hides the product images | ![](https://user-images.githubusercontent.com/117499019/244918005-2aa3cbe3-b4f2-4cc3-a75c-ce5750c8061d.png) |
 | `video_action_toggle_button` Hide like, dislike buttons in full screen view | ![](https://github-production-user-asset-6210df.s3.amazonaws.com/82371061/263313868-ecd65726-5112-41b3-86a9-e0a08e14c62c.png) |
 | `video_card_content` Hide playlist contents from library | ![](https://github-production-user-asset-6210df.s3.amazonaws.com/82371061/263478662-99324dde-3304-40ab-ab5d-ec76e9de55b9.png) |
+| `video_subtitle` Hide watch count, video tag, upload time & more section under video title. | ![](https://github-production-user-asset-6210df.s3.amazonaws.com/82371061/263509564-c6efe8d4-372a-4421-afb4-f4bec1fe9b21.jpg) |
 
 
-Last update: 26 August 2023
+Last update: 27 August 2023
 
 ---
 
