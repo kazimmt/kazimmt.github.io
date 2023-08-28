@@ -1,6 +1,6 @@
 ---
 label: "VSCO RV Features"
-order: 92
+order: 91
 icon: "/assets/icons/vsco.svg"
 ---
 
