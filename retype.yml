@@ -24,3 +24,11 @@ links:
   
 footer:
   copyright: "&copy; {{ year }} by kaziMMT. GPLv3."
+  links:
+    - text: GitHub Repo
+      link: https://github.com/kazimmt/RVX-Features
+      icon: repo
+
+    - text: Report Issue
+      link: https://github.com/kazimmt/RVX-Features/issues
+      icon: report
