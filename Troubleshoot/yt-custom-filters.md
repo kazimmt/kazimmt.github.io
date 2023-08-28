@@ -33,6 +33,7 @@ This  List of items that can be hide using Custom Filter option inside General S
 | `shorts_shelf` Hide the shorts shelf | ![](https://github-production-user-asset-6210df.s3.amazonaws.com/82371061/263312492-80145f6c-b569-45a0-9988-69ae0fda787e.png) |
 | `snappy_horizontal_shelf` Hide handy horizontal shelves inside Discover -> News | ![](https://github-production-user-asset-6210df.s3.amazonaws.com/82371061/263474162-4769dbda-7193-4e8e-a6cf-fa5c6d8fed9d.png) |
 | `styled_product_carousel` hides the product images | ![](https://user-images.githubusercontent.com/117499019/244918005-2aa3cbe3-b4f2-4cc3-a75c-ce5750c8061d.png) |
+| `subscribe_button` Hide **Subscribe** button from Channel page, Channel bar, search result everywhire | ![](https://github-production-user-asset-6210df.s3.amazonaws.com/82371061/263595829-b574b799-327d-4e43-b8af-7e816b832d90.jpg) |
 | `video_action_toggle_button` Hide like, dislike buttons in full screen view | ![](https://github-production-user-asset-6210df.s3.amazonaws.com/82371061/263313868-ecd65726-5112-41b3-86a9-e0a08e14c62c.png) |
 | `video_card_content` Hide playlist contents from library | ![](https://github-production-user-asset-6210df.s3.amazonaws.com/82371061/263478662-99324dde-3304-40ab-ab5d-ec76e9de55b9.png) |
 | `video_subtitle` Hide watch count, video tag, upload time & more section under video title. | ![](https://github-production-user-asset-6210df.s3.amazonaws.com/82371061/263509564-c6efe8d4-372a-4421-afb4-f4bec1fe9b21.jpg) |
