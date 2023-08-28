@@ -1,6 +1,7 @@
 ---
 label: "Home"
 icon: home
+order: 100
 image: /assets/cover/revanced_mmt.jpg
 ---
 ![](/assets/cover/home-cover.png)
