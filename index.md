@@ -22,7 +22,9 @@ image: /assets/cover/revanced_mmt.jpg
 - [Messenger Features](RV-Features/messenger.md)
 - [Twitter Features](RV-Features/twitter.md)
 - [Twitch Features](RV-Features/twitch.md)
+- [Lightroom Features](RV-Features/lightroom.md)
 - [Duolingo Features](RV-Features/duolingo.md)
+- [Photomath Features](RV-Features/photomath.md)
 - [VSCO Features](RV-Features/vsco.md)
 
 ---
