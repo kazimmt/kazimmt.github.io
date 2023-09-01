@@ -14,6 +14,8 @@ YT RVX 18.33.40
 - fix: `Emoji picker` in comment section not hidden
 - fix: `Hide Fullscreen panel` not working correctly
 
+[!button size="s" variant="secondary" text="VirusTotal Check v18.33.40"](https://www.virustotal.com/gui/file/7b6e2e2085c7aec76b3a3b97741758edb6335105517b1bed7e6438f2d158ddab/detection)
+
 ### 19 August 2023
 YT RVX 18.32.37
 - bumped YouTube base 18.32.37
