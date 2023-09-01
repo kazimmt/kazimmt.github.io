@@ -6,6 +6,14 @@ icon: "/assets/icons/yt-rvx.svg"
 
 # YT RVX Changelog
 
+### 01 September 2023
+YT RVX 18.33.40
+- bumped YouTube base 18.33.40
+- add: `Hide quality layout footer` settings (inside flyout menu)
+- add: `higher-seekbar-height` patch
+- fix: `Emoji picker` in comment section not hidden
+- fix: `Hide Fullscreen panel` not working correctly
+
 ### 19 August 2023
 YT RVX 18.32.37
 - bumped YouTube base 18.32.37

@@ -25,6 +25,6 @@
 ![](/assets/youtube/flyout-menu/hide-flyout-panel.jpg)
 ===
 
-💡 <code><i>You can hide Ambient mode, Audio track, Captions, Help & Feedback, Listen with YouTube Music, Listening controls, Loop video, More information, Playback speed, Report, Stats for nerds, Watch in VR menu separately</i></code>
+💡 <code><i>You can hide Ambient mode, Audio track, Captions, Help & Feedback, Listen with YouTube Music, Listening controls, Loop video, More information, Playback speed, Quality layout footer, Report, Stats for nerds, Watch in VR menu separately</i></code>
 
 ---
