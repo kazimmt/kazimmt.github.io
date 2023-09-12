@@ -6,6 +6,12 @@ icon: "/assets/icons/reddit.svg"
 
 # Reddit RV + RVX Changelog
 
+### 12 September 2023
+Reddit 2023.36.0
+- bump Reddit base 2023.36.0
+- shared-resource-id: If the target resource ID is not found, empty index is returned instead of generating patch exception
+-  remove `decoding-patch` that are no longer used
+
 ### 27 July 2023
 Reddit 2023.29.0
 - bumped Reddit base 2023.29.0
