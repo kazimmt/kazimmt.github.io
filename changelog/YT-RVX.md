@@ -8,13 +8,15 @@ icon: "/assets/icons/yt-rvx.svg"
 
 ### 19 September 2023
 YT RVX 18.36.39
-- bumped YouTube base 18.33.40
+- bumped YouTube base 18.36.39
 - fix (whitelist): SponsorBlock option disappear
 - fix (hide-quality-footer): hide-quality-footer
 - bypass-ambient-mode-restrictions: update fingerprint
 - add: Ads whitelist
 - fix: some old bugs
 - add: some new bugs
+
+[!button size="s" variant="secondary" text="VirusTotal Check v18.36.39"](https://www.virustotal.com/gui/file/e89ccf18d8579ea0b012cfaaa11cb3c4fe0aed60815a8da5a0ca727ea56207a1/detection)
 
 ### 01 September 2023
 YT RVX 18.33.40
