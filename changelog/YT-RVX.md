@@ -6,6 +6,16 @@ icon: "/assets/icons/yt-rvx.svg"
 
 # YT RVX Changelog
 
+### 19 September 2023
+YT RVX 18.36.39
+- bumped YouTube base 18.33.40
+- fix (whitelist): SponsorBlock option disappear
+- fix (hide-quality-footer): hide-quality-footer
+- bypass-ambient-mode-restrictions: update fingerprint
+- add: Ads whitelist
+- fix: some old bugs
+- add: some new bugs
+
 ### 01 September 2023
 YT RVX 18.33.40
 - bumped YouTube base 18.33.40
