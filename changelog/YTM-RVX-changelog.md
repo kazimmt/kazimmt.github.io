@@ -6,6 +6,25 @@ icon: "/assets/icons/ytm-rvx.svg"
 
 # YT Music RVX Changelog
 
+### 22 September 2023
+- bumped base to YT Music 6.19.52
+- add `replace-dismiss-queue` patch
+- add `sponsorblock` patch
+- add `custom-playback-speed` patch
+- add `hide-account-menu` patch
+- add `hide-handle` patch
+- add `hide-terms-container` patch
+- add `import/export-settings` patch
+- add `start-page` patch
+- add `hide-navigation-bar-component` patch
+- remove `optimize-resource` patch
+- exclusive-audio-playback: now patch enables the `Don't play podcast videos` setting
+- hide-cast-button: patch now hides the cast banner inside the player
+- replace-dismiss-queue: add `Continue watching` settings
+- hook-download-button: change the default external downloader package name
+- Setting Category
+- & more changes by inotia00
+
 ### 06 September 2023
 - bumped base to YT Music 6.17.52
 - add `enable-old-style-library-shelf` patch
