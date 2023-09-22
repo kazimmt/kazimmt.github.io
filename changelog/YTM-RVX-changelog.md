@@ -25,6 +25,8 @@ icon: "/assets/icons/ytm-rvx.svg"
 - Setting Category
 - & more changes by inotia00
 
+[!button size="s" variant="secondary" text="VirusTotal Check v6.19.52"](https://www.virustotal.com/gui/file/a21490331537733911c6626546a3b059b9b7a664a524b16765c8fc3542a6cf92/detection)
+
 ### 06 September 2023
 - bumped base to YT Music 6.17.52
 - add `enable-old-style-library-shelf` patch
