@@ -68,7 +68,7 @@
 ![](/assets/youtube/shorts/Hide-share-button.jpg)
 ===
 ---
-### Hide subscrioptions button
+### Hide subscriptions button
 >Hides subscription button in shorts.
 ==- Reference image
 ![](/assets/youtube/shorts/Hide-subscription-button.jpg)
