@@ -6,6 +6,22 @@ icon: "/assets/icons/ytm-rvx.svg"
 
 # YT Music RVX Changelog
 
+### 22 October 2023
+- bumped base to YT Music 6.23.54
+- add `remember-repeat-state` patch
+- add `repace-cast-button` patch
+- add `remember-shuffle-state` patch
+- add setting to hide `podcast-related` menus
+- add `Enable new player background` patch
+- add `Enable old player layout` patch
+- remove `enable-force-shuffle` patch
+- remove `Enable new layout` patch
+- enable-playback-speed: apply radio button instead of list view in playback speed dialog
+- fix/enable-playback-speed: excluding enable playback speed patch still shows playback speed icon in the flyout menu
+- fix/hook-download-button: change the URL format used when launching external downloads
+- fix/Custom playback speed: incorrect warning message
+- & More fixes from inotia00
+
 ### 22 September 2023
 - bumped base to YT Music 6.19.52
 - add `replace-dismiss-queue` patch
