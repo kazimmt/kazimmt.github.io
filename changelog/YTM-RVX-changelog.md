@@ -22,6 +22,9 @@ icon: "/assets/icons/ytm-rvx.svg"
 - fix/Custom playback speed: incorrect warning message
 - & More fixes from inotia00
 
+[!button size="s" variant="secondary" text="VirusTotal Check v6.23.54"](https://www.virustotal.com/gui/file/1298a8f66ffe73740c9c88d68c3d4c5d1c80ca7689b4d7207a1aadd4549139dd/detection)
+This time it shows 1 warn. Even when I test Stock YT Music from Apkmirror, it shows this [warning](https://www.virustotal.com/gui/file/2f937be0939df2b384fd4601b0963d32782d38f6dde3637e65e081689017f49c/detection) Maybe false positive! 
+
 ### 22 September 2023
 - bumped base to YT Music 6.19.52
 - add `replace-dismiss-queue` patch
