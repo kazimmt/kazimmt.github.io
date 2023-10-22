@@ -6,6 +6,50 @@ icon: "/assets/icons/yt-rvx.svg"
 
 # YT RVX Changelog
 
+### 22 October 2023
+YT RVX v18.40.34
+- bumped YouTube base v18.40.34
+- add `Hide transcript button` settings
+- add `Hide notify me button` settings
+- add `Hide stable volume menu`, `Hide captions menu footer`, `Hide quality menu footer` settings
+- add `Skip dummy segment` setting
+- add `Hide pivot button` settings
+- add `Enable gradient loading screen` patch. if you disable `Enable gradient loading screen`, gradient loading screen will be disabled.
+- add `Enable HDR codec` settings
+- add `Hide channel profile links` settings
+- add `Hide toolbar button` patch
+- add `Custom player overlay opacity` patch
+- add `Spoof device dimensions` patch
+- add `Disable ambient mode`, `Disable ambient mode in fullscreen` settings
+- Seek undo message (`Release to cancel`) is also hidden
+- custom-speed-overlay: change patch name `hide-speed-overlay` → `custom-speed-overlay`
+- Alternative thumbnails: add Using `DeArrow API` settings
+- Spoof player parameters: add `Spoof player parameter in feed` settings
+- Hide general ads: block new type of `web search` panel
+- Hide layout components: add `Hide start trial button` settings
+- Hide shorts components: `Hide info panels` now also hides the panel for music information
+- Hide navigation buttons:` Open library on app startup` now also works in the You tab (`Open library on app startup` → `Open library(You) on app startup`)
+- Hide quick actions: add `Hide open mix playlist button`, `Hide open playlist button` settings
+- change patch name `Force VP9 codec` → `Force video codec`
+- change patch name `Language switch` → `Enable language switch`
+- change patch name `Bypass ambient mode restrictions` → `Ambient mode switch`
+- remove `optimize-resource` patch
+- remove `Hide live chat button` settings (no longer exists in the button container)
+- remove `press-to-swipe gesture` settings
+- remove `save and restore brightness` settings
+- remove `Enable new comment popup panels` patch
+- remove `Hide player overlay filter` patch
+- remove `Disable speed overlay` settings
+- Settings: `import/export` settings are no longer Experimental Flags
+- Spoof app version: add target version `18.01.38` - remove 'Comments by members' banner
+- append-time-stamps-information: users can now choose between playback speed and video quality, which users can also toggle by long-pressing on the timestamp
+- Custom playback speed: regulate maximum playback speed to 8.0x (playback rate that can be handled by the client)
+- Hide layout components: move `Hide join button` to the `Channel bar` subpreference in the `Bottom player` category
+- Hide shorts components: remove the `Hide toolbar` setting and add settings to `hide each toolbar button`
+- & More fixes from ReVanced Team & Inotia00
+
+[!button size="s" variant="secondary" text="VirusTotal Check v18.40.34"](https://www.virustotal.com/gui/file/1b037bc5516864f4271254cf83487a0cfd150ca7c618a773bbb18e1a8387e2a7/detection)
+
 ### 19 September 2023
 YT RVX 18.36.39
 - bumped YouTube base 18.36.39
