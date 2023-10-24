@@ -12,6 +12,7 @@ Organized YouTube ReVanced Extended functionalities along with visual illustrati
 
 #### Categories
 - [Ads](Ads.md)
+- [Alternative Thumbnails](Alternative-thumbnails.md)
 - [Bottom Player](Bottom-Player.md)
 - [Flyout Menu](Flyout-Menu.md)
 - [Fullscreen](Fullscreen.md)
