@@ -57,12 +57,6 @@ Settings for some of these patches may not available in app setting
 ![](/assets/ytmusic/more/Hide-taste-builder.jpg)
 ===
 ---
-### Hide upgrade button
->Hides upgrade button from navigation bar and hide upgrade banner from homepage.
-==- Reference image
-![](/assets/ytmusic/more/Hide-upgrade-button.jpg)
-===
----
 ### MicroG support
 >Allows ReVanced Music to run without root and under a different package name with MicroG.
 ---

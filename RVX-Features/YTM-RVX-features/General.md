@@ -1,27 +1,9 @@
-# Layout
+# General
 ---
 ### Disable force auto captions
 >Disables forced auto captions.
 ==- Reference image
 ![](/assets/ytmusic/layout/Disable-force-auto-captions.jpg)
-===
----
-### Enable black navigation bar
->Sets the navigation bar color to black.
-==- Reference image
-![](/assets/ytmusic/layout/Enable-black-navigation-bar.jpg)
-===
----
-### Enable color match player
->Matches the color of the mini player and the fullscreen player.
-==- Reference image
-![](/assets/ytmusic/layout/Enable-color-match-player.jpg)
-===
----
-### Enable compact dialog
->Enable compact dialog on phone.
-==- Reference image
-![](/assets/ytmusic/layout/Enable-compact-dialog.jpg)
 ===
 ---
 ### Enable custom filter
@@ -30,40 +12,16 @@
 <i>WIth edit custom filter menu, you can add/edit layout components to filter</i>
 
 ---
-### Enable force minimized player
->Permanently keep player minimized even if another track is played.
-==- Reference Video
-[!embed](https://www.youtube.com/embed/4n9AZbzHktU?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&vq=hd1080)
-===
----
 ### Enable landscape mode
 >Enables entry into landscape mode by screen rotation on the phone.
 ==- Reference image
 ![](/assets/ytmusic/layout/Enable-landscape-mode.jpg)
 ===
 ---
-### Enable new layout
->Enable new player layouts. (YT Music v5.47.51+)
+### Enable old style library shelf
+>Returns the library shelf of old style (experimental)
 ==- Reference image
-![](/assets/ytmusic/layout/Enable-new-layout.jpg)
-===
----
-### Enable old style mini player
->Return the mini players to old style. (for YT Music v5.55.53+)
-==- Reference image
-![](/assets/ytmusic/layout/Enable-old-style-mini-player.jpg)
-===
----
-### Enable sleep timer
->Add sleep timer to flyout menu.
-==- Reference image
-![](/assets/ytmusic/layout/Enable-sleep-timer.jpg)
-===
----
-### Enable Zen mode
->Adds a grey tint to the video player to reduce eye strain.
-==- Reference image
-![](/assets/ytmusic/layout/Enable-Zen-Mode.jpg)
+
 ===
 ---
 ### Hide button shelf
@@ -89,17 +47,17 @@
 ==- Reference image
 ![](/assets/ytmusic/layout/Hide-category-bar.jpg)
 ===
-
+---
 ### Hide channel guidelines
 >Hides channel guidelines at the tof of comments.
 ==- Reference image
 ![](/assets/ytmusic/layout/Hide-channel-guidelines.jpg)
 ===
 ---
-### Hide navigation bar labels
->Hides labels in navigation bar.
+### Hide emoji picker
+>Hides emoji picker at the comments box.
 ==- Reference image
-![](/assets/ytmusic/layout/Hide-navigation-bar-labels.jpg)
+
 ===
 ---
 ### Hide new playlist button
@@ -113,4 +71,9 @@
 ==- Reference image
 ![](/assets/ytmusic/layout/Hide-playlist-card.jpg)
 ===
+---
+### Start Page
+>You can set the start page from list.
+> 
+> Available options: **Chart**, **Explore**, **Home**, **Library**, **Subscription**
 ---
