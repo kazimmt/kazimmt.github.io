@@ -1,6 +1,6 @@
 # Flyout Menu
 ---
-### Feed flyout panel
+#### Feed flyout panel
 
 ### Hide feed flyout menu
 >Hides components from feed flyout menu.
@@ -11,7 +11,7 @@
 <i>By utilizing the filter in the edit feed flyout menus, you have the option to select what you wish to conceal.</i>
 
 ---
-### Player flyout panel
+#### Player flyout panel
 
 ### Enable old style quality layout
 >Enables the original quality flyout menu.
@@ -25,6 +25,6 @@
 ![](/assets/youtube/flyout-menu/hide-flyout-panel.jpg)
 ===
 
-💡 <code><i>You can hide Ambient mode, Audio track, Captions, Help & Feedback, Listen with YouTube Music, Listening controls, Loop video, More information, Playback speed, Quality layout footer, Report, Stats for nerds, Watch in VR menu separately</i></code>
+💡 <code><i>You can hide **Ambient mode**, **Audio track**, **Captions**, **Captions menu footer**, **Help & Feedback**, **Listen with YouTube Music**, **Lock screen menu**, **Loop video**, **More information**, **Playback speed**, **Premium controls**, **Quality menu footer**, **Report**, **Stable volume**, **Stats for nerds**, **Watch in VR** menu separately</i></code>
 
 ---

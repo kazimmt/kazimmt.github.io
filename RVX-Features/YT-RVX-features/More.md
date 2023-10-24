@@ -40,12 +40,6 @@
 ![](/assets/youtube/more/Hide-tooltip-content.jpg)
 ===
 ---
-### Language switch
->Add in-app language switch toggle.
-==- Reference image
-![](/assets/youtube/more/Language-switch.jpg)
-===
----
 ### MaterialYou
 >Applies the MaterialYou theme for Android 12+ to YouTube.
 ==- Reference image

@@ -18,11 +18,6 @@
 ![](/assets/youtube/swipe-control/Enable-volume-gesture.jpg)
 ===
 ---
-#### Enable press-to-swipe gesture
->Enables long press to swipe control instead of normal swipe.
-
-#### Enable press-to-swipe haptic feedback
->Feels haptic feedback when try to use press-to-swipe gesture.
 
 #### Swipe background visibility
 >Can set the visibility of swipe overlay background.
@@ -36,11 +31,9 @@
 #### Swipe overlay timeout
 >Can set the time (in millisecond) the overlay is visible.
 ---
-### Experimental Flags
+#### Experimental Flags
 
-#### Disable auto HDR brightness
+### Disable auto HDR brightness
 >Disable the brightness to set HDR automatically.
 
-#### Enable save and restore brightness
->Saves & restores the brightness when exiting or entering fullscreen.
 ---

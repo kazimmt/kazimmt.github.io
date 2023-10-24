@@ -1,6 +1,5 @@
 # Navigation
 ---
-### Change homepage
 ### Change homepage to subscriptions
 >Changes homepage to subscription feed. [When you start the app, the main feed becomes the subscription feed instead of the home feed]
 ==- Reference image
@@ -49,8 +48,8 @@
 ![](/assets/youtube/navigation/hide-subscriptions-button.jpg)
 ===
 ---
-### Open library on app startup
->When you start the app, the main page becomes the library instead of the home feed
+### Open library(You) on app startup
+>When you start the app, the main page becomes the library(You) instead of the home feed
 ==- Reference image
 ![](/assets/youtube/navigation/open-library-on-app-startup.jpg)
 ===

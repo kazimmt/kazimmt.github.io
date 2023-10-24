@@ -45,3 +45,8 @@
 ![](/assets/youtube/video/Enable-save-playback-speed.jpg)
 ===
 ---
+#### Experimental Flags
+
+### Skip preload buffer
+>Skips preloaded buffer at video start to bypass default video quality enforcement delay
+---

@@ -1,5 +1,12 @@
 # Fullscreen
 ---
+### Disable ambient mode in fullscreen
+>Disables ambient mode while watching video in fullscreen.
+==- Reference image
+![](/assets/youtube/fullscreen/disable-ambient-mode-in-fullscreen.jpg)
+===
+---
+
 ### Hide autoplay preview container
 >Hides the autoplay preview container in the fullscreen.
 ==- Reference image
@@ -21,18 +28,18 @@
 💡 <code><i>When fullscreen panels are hidden, you can how the title only with Show fullscreen title setting.</i></code>
 
 ---
-### Quick actions
+#### Quick actions
 
-#### Hide quick actions container
+### Hide quick actions container
 >Adds the options to hide quick actions components in the fullscreen.
 ==- Reference image
 ![](/assets/youtube/fullscreen/hide-quick-actions-container.jpg)
 ===
 
-💡 <code><i>You can hide Comment, Dislike, Like, Live chat, More, Playlist button separately</i></code>
+💡 <code><i>You can hide Comment, Dislike, Like, Live chat, More, Open mix playlist button, Open playlist button, Related videos in quick actions, Save to playlist button, Share button separately</i></code>
 
 ---
-### Experimental Flags
+#### Experimental Flags
 
 ### Enable compact controls overlay
 >Compact all control overlay in fullscressn.

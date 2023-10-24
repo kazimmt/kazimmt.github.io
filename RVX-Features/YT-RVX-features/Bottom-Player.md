@@ -1,21 +1,28 @@
 # Bottom Player</summary>
 ---
-### Button container
+#### Channel bar
+### Hide Join button
+> Hides join button from channel bar
+==- Reference image
+![](/assets/youtube/bottom-player/hide-join-button.jpg)
+===
+ 
+### Hide start trial button
+> Hides start trial button from channel bar
 
-#### Hide button container
-
-#### Hide action buttons
+#### Button container
+### Hide action buttons
 >Adds the options to hide action buttons under a video.
 ==- Reference image
 ![](/assets/youtube/bottom-player/hide-button-container.jpg)
 ===
 
 !!! success
-You can hide **Clip**, **Dislike**, **Download**, **Like**, **Live Chat**, **Playlist**, **Remix**, **Report**, **Rewards**, **Share**, **Shop**, **Thanks** button separately</i></code>
+You can hide **Clip**, **Download**, **Like and dislike**, **Remix**, **Report**, **Rewards**, **Save to playlist** **Share**, **Shop**, **Thanks** & **Transcript** button separately</i></code>
 !!!
 
 ---
-### Comments
+#### Comments
 
 ### Hide channel guidelines
 >Hide community guidelines from comments.

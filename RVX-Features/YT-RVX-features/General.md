@@ -6,6 +6,12 @@
 ![](/assets/youtube/general/disable-forced-auto-caption.jpg)
 ===
 ---
+### Enable gradient loading screen
+>Enables gradient loading screen.
+==- Reference image
+![](/assets/youtube/general/enable-graident-loading-screen.jpg)
+===
+---
 ### Enable tablet mini player
 >Enables the tablet mini player layout.
 ==- Reference image
@@ -16,6 +22,12 @@
 >Replaces the search icon with a wide search bar. This will hide the YouTube logo when active.
 ==- Reference image
 ![](/assets/youtube/general/enable-wide-search-bar.jpg)
+===
+---
+### Enable wide search bar in You tab
+>Replaces the Notification bell icon, search icon & gear icon with wide search bar in You tab
+==- Reference image
+![](/assets/youtube/general/enable-wide-search-bar-in-You-tab.jpg)
 ===
 ---
 ### Hide account menu
@@ -93,14 +105,20 @@
 ![](/assets/youtube/general/hide-suggestions-shelf.jpg)
 ===
 ---
+### Hide buttons in toolbar
+>Hide Create or Notification button in toolbar
+==- Reference image
+
+===
+---
 ### Hide trending searches
 >Hide trending searches in the search bar.
 ==- Reference image
 ![](/assets/youtube/general/hide-search-terms.jpg)
 ===
 ---
-### Header switch
->Add switch to change header. [Regular or Premium]
+### Premium Header
+>Switch to change header. [Regular or Premium]
 ==- Reference image
 ![](/assets/youtube/general/header-switch.jpg)
 ===
@@ -135,6 +153,12 @@ Some filter items can be found [here](/troubleshoot/yt-custom-filters.md)
 >Hide member shelf from channel.
 ==- Reference image
 ![](/assets/youtube/general/hide-channel-member-shelf.jpg)
+===
+---
+### Hide channel profile links
+>Hides links at the top of channel profile.
+==- Reference image
+![](/assets/youtube/general/hide-channel-profile-links.jpg)
 ===
 ---
 ### Hide chips shelf
@@ -224,7 +248,7 @@ Some filter items can be found [here](/troubleshoot/yt-custom-filters.md)
 ![](/assets/youtube/general/hide-timed-reaction.jpg)
 ===
 ---
-### Description
+#### Description
 
 ### Hide Chapters
 >Hides chapters section from video description
@@ -261,20 +285,3 @@ Some filter items can be found [here](/troubleshoot/yt-custom-filters.md)
 ==- Reference image
 ![](/assets/youtube/general/hide-transcript.jpg)
 ===
----
-### Alternative Thumbnails
-
-#### Enable Alternative thumbnails
-> YouTube thumbnails will replaced with alternative ones
-
-==- Reference image
-![](/assets/youtube/general/Alternative-Thumbnails.jpg)
-===
-
-#### Video time to take the stills from
-> Set from which part you want to see the alternative thumbnail.
- 
-#### Use fast alternative thumbnails
-> It'll show medium quality thumbnail but will load faster.
-
----

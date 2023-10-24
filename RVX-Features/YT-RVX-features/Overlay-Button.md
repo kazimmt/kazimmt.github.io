@@ -1,7 +1,7 @@
 # Overlay Button
 ---
-### Show Always autorepeat button
->Shows always autorepeat button on player. You can autorepeat any video by pressing this button.
+### Show Always repeat button
+>Shows always repeat button on player. You can repeat any video by pressing this button.
 ==- Reference image
 ![](/assets/youtube/overlay-button/always-autorepeat-button.jpg)
 ===
@@ -43,9 +43,9 @@ To learn how to config, visit this: https://telegra.ph/Set-downloader-to-RVXRV-0
 ![](/assets/youtube/overlay-button/show-whitelist-button.jpg)
 ===
 ---
-### Experimental Flags
+#### Experimental Flags
 
-#### Hook download button
+### Hook download button
 >Hook native download button as external download button. Then native download button also work as a external downloader button.
 ==- Reference image
 ![](/assets/youtube/overlay-button/hook-download-button.jpg)

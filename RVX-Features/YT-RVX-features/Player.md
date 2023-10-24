@@ -1,5 +1,16 @@
 # Player
 ---
+### Custom player overlay opacity
+>Change the opacity of the player background, when player controls are visible.
+>You can set the opacity between 0-100, where 0 is transparent & 100 is solid.
+==- Reference image
+===
+---
+### Custom speed overlay
+>Customize 'Play at 2x speed' while holding down.
+==- Reference image
+===
+---
 ### Hide audio track button
 >Hide the audio track button shown in the video player.
 ==- Reference image
@@ -36,7 +47,7 @@
 ![](/assets/youtube/player/Hide-collapse-button.jpg)
 ===
 ---
-### Hide endscreen cards
+### Hide end screen cards
 >Hides the suggested video cards at the end of a video.
 ==- Reference image
 ![](/assets/youtube/player/Hide-endscreen-cards.jpg)
@@ -54,12 +65,6 @@
 ![](/assets/youtube/player/Hide-player-button-background.jpg)
 ===
 ---
-### Hide player overlay filter
->Removes the dark filter layer from player when you tap on it.
-==- Reference image
-![](/assets/youtube/player/Hide-player-overlay-filter.jpg)
-===
----
 ### Hide previous & next button
 >Hides the previous and next button in the player controller.
 ==- Reference image
@@ -72,10 +77,10 @@
 ![](/assets/youtube/player/Hide-seek-message.jpg)
 ===
 ---
-### Hide speed overlay
->Hides speed overlay in player.
+### Hide seek undo message
+>Hides the 'release to cancel' message container.
 ==- Reference image
-![](/assets/youtube/player/Hide-speed-overlay.jpg)
+
 ===
 ---
 ### Hide suggested actions
@@ -90,7 +95,7 @@
 ![](/assets/youtube/player/Hide-youtube-music-button.jpg)
 ===
 ---
-### Experimental Flags
+#### Experimental Flags
 
 ### Hide film strip overlay
 >Hide flimstrip overlay on swipe controls.
@@ -112,6 +117,6 @@
 ![](/assets/youtube/player/Disable-haptic-feedback.jpg)
 ===
 
-<i>💡 You can disable Chapters haptic feedback, Scrubbing haptic feedback, Seek haptic feedback, Zoom haptic feedback seperately</i>
+<i>💡 You can disable Chapters haptic feedback, Scrubbing haptic feedback, Seek haptic feedback, Zoom haptic feedback separately</i>
 
 ---

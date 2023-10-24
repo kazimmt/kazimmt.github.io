@@ -1,5 +1,11 @@
 # Seekbar
 ---
+### Append time stamp information
+>Add the current video quality or playback speed in brackets next to the current time.
+>You can choose between speed or video quality.
+==- Reference image
+===
+---
 ### Enable custom seekbar color
 >Adds an option to change dark mode gray seekbar color to any color.
 ==- Reference image
@@ -19,12 +25,6 @@
 >Enables tap-to-seek on the seekbar of the video player.
 ==- Reference image
 ![](/assets/youtube/seekbar/Enable-seekbar-tapping.jpg)
-===
----
-### Enable time stamp speed
->Adds the current video speed in brackets next to the current time.
-==- Reference image
-![](/assets/youtube/seekbar/Enable-timestamp-speed.jpg)
 ===
 ---
 ### Hide seekbar in video player
