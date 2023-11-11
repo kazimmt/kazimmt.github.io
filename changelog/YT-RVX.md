@@ -6,6 +6,19 @@ icon: "/assets/icons/yt-rvx.svg"
 
 # YT RVX Changelog
 
+### 12 November 2023
+YT RVX v18.43.45
+- bumped YouTube base 18.43.45
+- add `Disable speed overlay` patch
+- `Disable speed overlay` now restores the old `Slide to seek` behavior
+- add `Enable music search` patch
+- add `Hide search term thumbnail` patch
+- add `Sanitize sharing links` patch
+- add `Hide videos with low views` settings
+- more fixes
+
+[!button size="s" variant="secondary" text="VirusTotal Check v18.44.45"](https://www.virustotal.com/gui/file-analysis/ZWQ1NDJiNzNiMmM2ZWFiMDdhYmRkZmExZTBlNTZhNmU6MTY5OTcyOTc4Ng==/detection)
+
 ### 22 October 2023
 YT RVX v18.40.34
 - bumped YouTube base v18.40.34
