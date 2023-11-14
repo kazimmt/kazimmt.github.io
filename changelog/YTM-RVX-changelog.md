@@ -6,6 +6,14 @@ icon: "/assets/icons/ytm-rvx.svg"
 
 # YT Music RVX Changelog
 
+### 15 November 2023
+- bumped base to YT Music 6.27.53
+- Hide flyout panel: add `Hide help & feedback` settings
+- add `Sanitize sharing links` patch
+- & Fixes old bugs
+
+[!button size="s" variant="secondary" text="VirusTotal Check v6.27.53"](https://www.virustotal.com/gui/file-analysis/ZDk5NTRiYzcwNGU0YzMxNWNlMGIwMjE5YjZhYzRkN2Y6MTY5OTk4NjQ3Mg==/detection)
+
 ### 22 October 2023
 - bumped base to YT Music 6.23.54
 - add `remember-repeat-state` patch
