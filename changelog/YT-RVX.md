@@ -6,6 +6,22 @@ icon: "/assets/icons/yt-rvx.svg"
 
 # YT RVX Changelog
 
+### 28 November 2023
+YT RVX v18.45.43
+- bumped YouTube base 18.45.43
+- add `Hide 'For You' shelf` settings
+- add `Hide podcast sections` settings
+- Hide description components: add `Hide shopping links` settings
+- Hide navigation buttons: add `Hide notifications button` settings
+- Spoof app version: add target version 18.38.45 - Restore old default video quality behavior
+- Swipe controls: restore `press-to-swipe gesture` and `press-to-swipe haptic feedback` settings
+- Settings: now `Import / Export settings` exportable as text as well as file
+- separate the `Shorts outline button patch` from `Overlay buttons` patch
+- separate the `Hide channel profile components patch` from `Hide layout components` patch
+- Overlay buttons: removed `pause after repeat` feature
+
+[!button size="s" variant="secondary" text="VirusTotal Check v18.45.43"](https://www.virustotal.com/gui/file-analysis/ZWQ1NDJiNzNiMmM2ZWFiMDdhYmRkZmExZTBlNTZhNmU6MTY5OTcyOTc4Ng==/detection)
+
 ### 12 November 2023
 YT RVX v18.43.45
 - bumped YouTube base 18.43.45
@@ -17,7 +33,7 @@ YT RVX v18.43.45
 - add `Hide videos with low views` settings
 - more fixes
 
-[!button size="s" variant="secondary" text="VirusTotal Check v18.44.45"](https://www.virustotal.com/gui/file-analysis/ZWQ1NDJiNzNiMmM2ZWFiMDdhYmRkZmExZTBlNTZhNmU6MTY5OTcyOTc4Ng==/detection)
+[!button size="s" variant="secondary" text="VirusTotal Check v18.43.45"](https://www.virustotal.com/gui/file-analysis/ZWQ1NDJiNzNiMmM2ZWFiMDdhYmRkZmExZTBlNTZhNmU6MTY5OTcyOTc4Ng==/detection)
 
 ### 22 October 2023
 YT RVX v18.40.34
