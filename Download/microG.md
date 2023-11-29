@@ -9,7 +9,7 @@ icon: "/assets/icons/microg.svg"
 # Download MicroG
 Get MicroG, which is necessary for using the non-root version of YT RVX / YT Music RVX.
 
-[!button variant="warning" text="📥 mMicroG v0.2.28.233217 (recommended)"](https://github.com/kazimmt/mMicroG/releases/download/v0.2.28.233217/MicroG-Universal.apk)
+[!button variant="warning" text="📥 mMicroG v0.3.0.234414 (recommended)"](https://github.com/kazimmt/mMicroG/releases/download/v0.3.0.234414/MicroG-Universal.apk)
 
 or
 
