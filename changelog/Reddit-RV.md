@@ -6,6 +6,11 @@ icon: "/assets/icons/reddit.svg"
 
 # Reddit RV + RVX Changelog
 
+### 01 December 2023
+Reddit 2023.47.0
+- bump Reddit base 2023.47.0
+- add `Hide recently visited shelf` patch
+
 ### 12 September 2023
 Reddit 2023.36.0
 - bump Reddit base 2023.36.0
