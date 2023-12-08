@@ -6,6 +6,20 @@ icon: "/assets/icons/ytm-rvx.svg"
 
 # YT Music RVX Changelog
 
+### 08 December 2023
+- bumped base to YT Music 6.29.58
+- add `Hide general ads` patch [Github](https://github.com/inotia00/ReVanced_Extended/issues/698)
+- integrate `Hide music ads` patch
+- add `Hide voice search button` patch
+- add `Close interstitial ads` settings [Github](https://github.com/inotia00/ReVanced_Extended/issues/1190)
+- Import / Export as file is no longer save in `*.json` format, and is saved in `*.txt` format
+- add `Open MicroG` settings
+- add `Hide history button` patch
+- add `Hide remove from playlist menu` settings [Github](https://github.com/inotia00/ReVanced_Extended/issues/1682)
+- & Fixes old bugs
+
+[!button size="s" variant="secondary" text="VirusTotal Check v6.29.58"](https://www.virustotal.com/gui/file-analysis/ZmUzZDY4ZmEwMTBiZGUwZTJjZTFkOTczMWRjODk5NGY6MTcwMjAyNDY3OA==/detection)
+
 ### 15 November 2023
 - bumped base to YT Music 6.27.53
 - Hide flyout panel: add `Hide help & feedback` settings
