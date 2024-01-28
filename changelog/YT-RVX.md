@@ -6,6 +6,28 @@ icon: "/assets/icons/yt-rvx.svg"
 
 # YT RVX Changelog
 
+### 27 January 2024
+YT RVX v19.02.39 [Final Version of RVX]
+- bumped YouTube base 19.02.39
+- add `Force fullscreen` patch
+- add `Hide voice search button` patch
+- add `Change start page` patch | remove `Change homepage` patch
+- add `Enable bottom player gestures` patch
+- add `Remove viewer discretion dialog` patch
+- add `Change player flyout panel toggles` patch
+- add `Disable update screen` patch
+- add `Keep landscape mode` patch
+- add `Enable shorts default playback speed` settings
+- add `Hide preview comment type` settings
+- add `Hide comments by members banner` settings
+- add `Hide videos with gray description` settings
+- add `Hide create shorts button` settings
+- add `Close interstitial ads` settings
+- add `Swipe gestures in 'Lock screen' mode` settings
+- add `Hide store tab` settings
+- `Import / Export as file` is no longer save in `*.json` format, and is saved in `*.txt` format
+- remove `Hide transcript` button setting
+
 ### 28 November 2023
 YT RVX v18.45.43
 - bumped YouTube base 18.45.43
