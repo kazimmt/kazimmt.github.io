@@ -10,6 +10,10 @@ icon: "/assets/icons/yt-rvx.svg"
 
 Organized YouTube ReVanced Extended functionalities along with visual illustrations, arranged based on RVX Settings (Alphabetically).
 
+!!!warning Warning
+The RVX Project has been discontinued.
+!!!
+
 #### Categories
 - [Ads](Ads.md)
 - [Alternative Thumbnails](Alternative-thumbnails.md)

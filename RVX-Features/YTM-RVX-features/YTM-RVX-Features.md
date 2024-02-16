@@ -10,6 +10,10 @@ icon: "/assets/icons/ytm-rvx.svg"
 
 Organized YouTube Music ReVanced Extended functionalities along with visual illustrations, arranged based on RVX Settings (Alphabetically).
 
+!!!warning Warning
+The RVX Project has been discontinued.
+!!!
+
 #### Categories
 - [Account](Account.md)
 - [Action Bar](Action-Bar.md)

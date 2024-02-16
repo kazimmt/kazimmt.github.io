@@ -33,7 +33,7 @@ com.ss.android.ugc.trill
 ### Feed filter
 >Filters tiktok videos: removing ads, removing livestreams.
 
-### Fix google login
+### Fix Google login
 >Allows logging in with a Google account.
 
 ### Hide ads
@@ -41,6 +41,9 @@ com.ss.android.ugc.trill
 
 ### Playback speed
 >Enables the playback speed option for all videos.
+ 
+### Remember clear display
+>Remembers the clear display configurations in between videos.
 
 ### Settings
 >Adds ReVanced settings to TikTok.

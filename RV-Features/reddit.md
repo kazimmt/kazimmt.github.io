@@ -6,8 +6,8 @@ icon: "/assets/icons/reddit.svg"
 
 ![](../assets/cover/reddit-rv-cover.png)
 
-# Reddit ReVanced + Extended Features
-<i>Organized Reddit ReVanced & ReVanced Extended functionalities along with visual illustrations, arranged alphabetically.</i>
+# Reddit ReVanced  Features
+<i>Organized Reddit ReVanced functionalities along with visual illustrations, arranged alphabetically.</i>
 
 ---
 ### Disable screenshot popup
@@ -24,28 +24,10 @@ icon: "/assets/icons/reddit.svg"
 ![](/assets/reddit/Hide-ads.jpg)
 ===
 ---
-### Open Links Directly
->Skips over redirection URLs to external links.
-==- Reference image
-![](/assets/reddit/Open-Links-Directly.jpg)
-===
----
-### Open Links Externally
->Open links outside of the app directly in your browser.
-==- Reference image
-![](/assets/reddit/Open-Links-Externally.jpg)
-===
----
-### Premium icon
+### Unlock premium Reddit icons
 >Unlocks premium icons.
 ==- Reference image
 ![](/assets/reddit/Premium-icon.jpg)
-===
----
-### Reddit Settings
->Adds ReVanced Extended settings to Reddit.
-==- Reference image
-![](/assets/reddit/Reddit-Settings.jpg)
 ===
 ---
 ### Sanitize Sharing Links

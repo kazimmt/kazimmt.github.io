@@ -8,22 +8,14 @@ icon: "/assets/icons/photomath.svg"
 
 # Photomath ReVanced Features
 
----
-### Unlock plus
->Unlocks plus features.
-
-=== Reference image
-![](/assets/screenshots/Photomath.jpg)
-===
-
----
-
-### Enable book point
->Enables textbook access.
-
----
+### Hide update popup
+>Prevents the update popup from showing up.
 
 ### Spoof device ID
 >Spoofs device ID to mitigate manual bans by developers.
 
----
+### Unlock plus
+>Unlocks plus features.
+=== Reference image
+![](/assets/screenshots/Photomath.jpg)
+===

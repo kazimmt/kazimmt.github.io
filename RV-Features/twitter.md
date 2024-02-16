@@ -11,7 +11,7 @@ icon: "/assets/icons/twitter.svg"
 
 ---
 ### Dynamic color
->Replaces the default Twitter Blue with the users Material You palette.
+>Replaces the default X (Formerly Twitter) Blue with the user's Material You palette.
 ---
 ### Hide ads
 >Hides ads from Twitter Feed.
@@ -19,6 +19,9 @@ icon: "/assets/icons/twitter.svg"
 ### Hide recommended users
 >Hides recommended users from Twitter Feed
 ---
-### Hide Who to Follow
->Hide recommended users patch also hides Who To Follow shelf
+### Hide view count
+>Hides the view count of Posts.
+---
+### Unlock downloads
+>Unlocks the ability to download any video.
 ---
