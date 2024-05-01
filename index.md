@@ -31,6 +31,6 @@ image: /assets/cover/revanced_mmt.jpg
 
 ### Download
 
-[!button variant="secondary" text="MicroG"](Download/microg.md) [!button variant="success" text="Downloader"](Download/External-Downloader.md)
+[!button variant="secondary" text="GmsCore"](Download/GmsCore.md) [!button variant="success" text="Downloader"](Download/External-Downloader.md)
 
 [!button variant="warning" text="Latest ReVanced Apps"](https://t.me/ReVanced_MMT/242)
