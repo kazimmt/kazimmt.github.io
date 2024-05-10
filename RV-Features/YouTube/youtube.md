@@ -1,5 +1,26 @@
-# YT RV Features
+---
+label: "YouTube RV Features"
+order: 99
+icon: "/assets/icons/yt-rv.svg"
+---
 
-Organized YouTube ReVanced functionalities along with visual illustrations, arranged based on RVX Settings (Alphabetically).
+![](/assets/cover/yt-rv-cover.png)
 
-Coming Soon...
+# YouTube ReVanced Features
+
+Organized YouTube ReVanced functionalities along with visual illustrations, arranged based on ReVanced Settings (Alphabetically).
+
+#### Categories
+- [Ads](Ads.md)
+- [Alternative thumbnails](Alternative-thumbnails.md)
+- [Feed](Feed.md)
+- [Player](Player.md)
+- [Generarl layout](General-layout.md)
+- [Shorts](Shorts.md)
+- [Seekbar](Seekbar.md)
+- [Swipe controls](Swipe-controls.md)
+- [Return YouTube Dislike](Return-YouTube-Dislike.md)
+- [SponsorBlock](SponsorBlock.md)
+- [Misc](Misc.md)
+- [Video](Video.md)
+- [Others](Others.md)
