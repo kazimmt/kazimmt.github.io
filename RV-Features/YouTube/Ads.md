@@ -71,7 +71,7 @@ order: 98
 
 ---
 ### Hide YouTube Premium Promotions
-> Adds an option to remove ads in the video player.
+> Adds an option to remove YouTube Premium promotions under the video player.
 
 ![](/assets/ytrv/ads/Hide-YouTube-Premium-Promotions.jpg)
 
