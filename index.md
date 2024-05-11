@@ -12,11 +12,8 @@ image: /assets/cover/revanced_mmt.jpg
 
 ---
 
-### ReVanced Extended Features
-- [YT RVX Features](RVX-Features/YT-RVX-features/YT-RVX-Features.md)
-- [YTM RVX Features](RVX-Features/YTM-RVX-features/YTM-RVX-Features.md)
-
 ### ReVanced Features
+- [YouTube Features](RV-Features/YouTube/youtube.md)
 - [TikTok Features](RV-Features/tiktok.md)
 - [Reddit Features](RV-Features/reddit.md)
 - [Messenger Features](RV-Features/messenger.md)
@@ -26,6 +23,11 @@ image: /assets/cover/revanced_mmt.jpg
 - [Duolingo Features](RV-Features/duolingo.md)
 - [Photomath Features](RV-Features/photomath.md)
 - [VSCO Features](RV-Features/vsco.md)
+
+### ReVanced Extended Features
+- [YT RVX Features](RVX-Features/YT-RVX-features/YT-RVX-Features.md)
+- [YTM RVX Features](RVX-Features/YTM-RVX-features/YTM-RVX-Features.md)
+- [Reddit RVX Features](RVX-Features/YTM-RVX-Features.md)
 
 ---
 
