@@ -15,7 +15,7 @@ Organized YouTube ReVanced functionalities along with visual illustrations, arra
 - [Alternative thumbnails](Alternative-thumbnails.md)
 - [Feed](Feed.md)
 - [Player](Player.md)
-- [Generarl layout](General-layout.md)
+- [General layout](General-layout.md)
 - [Shorts](Shorts.md)
 - [Seekbar](Seekbar.md)
 - [Swipe controls](Swipe-controls.md)

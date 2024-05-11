@@ -16,8 +16,6 @@ icon: "/assets/icons/duolingo.svg"
 - No ads
 - Super free education
 
-=== Reference image
 ![](/assets/screenshots/duolingo-premium.jpg)
-===
 
 ---

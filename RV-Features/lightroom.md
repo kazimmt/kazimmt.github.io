@@ -12,15 +12,15 @@ icon: "/assets/icons/lightroom.svg"
 ---
 ### Disable mandatory login
 >Disable mandatory login to use Lightroom Mobile.
-==- Reference image
+
 ![](/assets/screenshots/lightroom-mandatory-login.png)
-===
+
 ---
 ### Unlock premium
 >Unlocks premium features.
-==- Reference image
+
 ![](/assets/screenshots/lightroom-premium-features.png)
-===
+
 ---
 !!! warning
 Server sided features cannot be unlocked. You need to login to get Server Sided Premium Features.

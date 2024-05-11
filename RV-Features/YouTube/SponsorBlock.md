@@ -5,9 +5,9 @@ order: 90
 ---
 ### Enable SponsorBlock
 >Integrates SponsorBlock which allows skipping undesired video segments, such as sponsored content.
-==- Reference image
+
 ![](/assets/youtube/Sponsorblock/Enable-Sponsorblock.jpg)
-===
+
 ---
 ### Appearance
 

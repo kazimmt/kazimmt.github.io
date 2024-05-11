@@ -12,7 +12,6 @@ icon: "/assets/icons/vsco.svg"
 ### Unlock pro
 >Unlocks pro features.
 
-=== Reference image
 ![](/assets/screenshots/vsco-premium.jpg)
-===
+
 ---

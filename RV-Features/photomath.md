@@ -16,6 +16,7 @@ icon: "/assets/icons/photomath.svg"
 
 ### Unlock plus
 >Unlocks plus features.
-=== Reference image
+
 ![](/assets/screenshots/Photomath.jpg)
-===
+
+---
