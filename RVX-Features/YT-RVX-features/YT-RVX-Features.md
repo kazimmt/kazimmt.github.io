@@ -11,7 +11,7 @@ icon: "/assets/icons/yt-rvx.svg"
 Organized YouTube ReVanced Extended functionalities along with visual illustrations, arranged based on RVX Settings (Alphabetically).
 
 !!!warning Warning
-The RVX Project has been discontinued.
+Newly added features are not available. You can help me to add newest features. Create an issue [here](https://github.com/kazimmt/kazimmt.github.io/issues) add feature name & screenshot on the body. I'll definately add them.
 !!!
 
 #### Categories
