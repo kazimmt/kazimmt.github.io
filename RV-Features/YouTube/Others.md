@@ -9,7 +9,7 @@ Settings for some of these features are not available in ReVanced Settings Page
 ### Client spoof
 > Spoofs the client to allow video playback.
 
-![](/assets/ytrv/others/..............)
+![](/assets/ytrv/others/client-spoof.jpg)
 
 ---
 ### Enable slide to seek
@@ -18,18 +18,18 @@ Settings for some of these features are not available in ReVanced Settings Page
 ### Minimized playback
 > Unlocks options for picture-in-picture and background playback.
 
-![](/assets/youtube/others/Enable-minimized-playback.jpg)
+![](/assets/youtube/more/Enable-minimized-playback.jpg)
 
 ---
 ### Remove player controls background
 > Removes the dark background surrounding the video player controls.
 
-![](/assets/youtube/others/Force-hide-player-button-background.jpg)
+![](/assets/youtube/more/Force-hide-player-button-background.jpg)
 
 ---
 ### Theme
 > Adds options for theming and applies a custom background theme (dark background theme defaults to amoled black).
 
-![](/assets/youtube/others/Theme.jpg)
+![](/assets/youtube/more/Theme.jpg)
 
 ---
