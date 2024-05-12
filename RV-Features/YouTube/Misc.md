@@ -5,17 +5,20 @@ order: 89
 ---
 ### Debugging
 > Adds options for debugging.
+
+![](/assets/ytrv/misc/Debugging.jpg) 
+
 ---
 ### GmsCore Settings
 > Settings to Access GmsCore Settings directly from YouTube.
 
-![](/assets/ytrv/misc/..............)
+![](/assets/ytrv/misc/GmsCore-Settings.jpg)
 
 ---
 ### Bypass URL redirects
 > Adds an option to bypass URL redirects and open the original URL directly.
 
-![](/assets/ytrv/misc/..............)
+![](/assets/ytrv/misc/Bypass-URL-redirects.jpg)
 
 ---
 ### Disable zoom haptics
@@ -33,24 +36,24 @@ order: 89
 ### Import / Export
 > Options to Export Import ReVanced Settings.
 
-![](/assets/ytrv/misc/..............)
+![](/assets/ytrv/misc/Import-Export.jpg)
 
 ---
 ### Open link in browser
 > Adds an option to always open links in your browser instead of in the in-app-browser.
 
-![](/assets/ytrv/misc/..............)
+![](/assets/ytrv/misc/Open-link-in-browser.jpg)
 
 ---
-### Remove tracking quere parameter
+### Remove tracking query parameter
 > Adds an option to remove the tracking info from links you share.
 
-![](/assets/ytrv/misc/..............)
+![](/assets/ytrv/misc/Remove-tracking-query-parameter.jpg)
 
 ---
 ### Spoof device dimensions
 > Adds an option to spoof the device dimensions which can unlock higher video qualities.
 
-![](/assets/ytrv/misc/..............)
+![](/assets/ytrv/misc/Spoof-device-dimensions.jpg)
 
 ---

@@ -6,13 +6,13 @@ order: 92
 ### Enable brightness gesture
 > Enables brightness swipe control.
 
-![](/assets/ytrv/swipte-controls/..............)
+![](/assets/ytrv/swipte-controls/Enable-brightness-gesture.jpg)
 
 ---
 ### Enable volume gesture
 > Enables volume swipe control.
 
-![](/assets/ytrv/swipte-controls/..............)
+![](/assets/ytrv/swipte-controls/Enable-volume-gesture.jpg)
 
 ---
 ### Enable press-to-swipe gesture
@@ -36,7 +36,7 @@ order: 92
 ### Enable auto-brightness gesture
 > Makes the brightness of HDR videos follow the system default by swiping the player.
 
-![](/assets/ytrv/swipte-controls/..............)
+![](/assets/ytrv/swipte-controls/Enable-auto-brightness-gesture.jpg)
 
 ---
 ### Swipe overlay timeout
