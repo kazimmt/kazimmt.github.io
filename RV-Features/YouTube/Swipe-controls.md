@@ -6,37 +6,37 @@ order: 92
 ### Enable brightness gesture
 > Enables brightness swipe control.
 
-![](/assets/ytrv/swipte-controls/Enable-brightness-gesture.jpg)
+![](/assets/ytrv/swipe-controls/Enable-brightness-gesture.jpg)
 
 ---
 ### Enable volume gesture
 > Enables volume swipe control.
 
-![](/assets/ytrv/swipte-controls/Enable-volume-gesture.jpg)
+![](/assets/ytrv/swipe-controls/Enable-volume-gesture.jpg)
 
 ---
 ### Enable press-to-swipe gesture
 > Enables hard press to use swipe control.
 
-![](/assets/ytrv/swipte-controls/..............)
+![](/assets/ytrv/swipe-controls/..............)
 
 ---
 ### Enable haptic feedback
 > Enables haptic feedback when using swipe gesture.
 
-![](/assets/ytrv/swipte-controls/..............)
+![](/assets/ytrv/swipe-controls/..............)
 
 ---
 ### Save and restore brightness
 > Save and restore the brightness when entering fullscreen.
 
-![](/assets/ytrv/swipte-controls/..............)
+![](/assets/ytrv/swipe-controls/..............)
 
 ---
 ### Enable auto-brightness gesture
 > Makes the brightness of HDR videos follow the system default by swiping the player.
 
-![](/assets/ytrv/swipte-controls/Enable-auto-brightness-gesture.jpg)
+![](/assets/ytrv/swipe-controls/Enable-auto-brightness-gesture.jpg)
 
 ---
 ### Swipe overlay timeout
