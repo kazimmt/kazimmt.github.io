@@ -1,6 +1,7 @@
 ---
 label: "Buffering"
 order: 98
+hidden: true
 icon: dot
 ---
 
