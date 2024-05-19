@@ -70,13 +70,13 @@ org.schabi.newpipe
 - Background playback and PIP
 - Swipe controls for volume and brightness
 
-+++ NewPipe SB
++++ Tubular
 
 #### Package name
 ```
-org.polymorphicshade.newpipe
+org.polymorphicshade.tubular
 ```
-[!button variant="secondary" text="📥 GitHub"](https://github.com/polymorphicshade/NewPipe/releases/latest) [!button variant="warning" text="📥 F-Droid"](https://apt.izzysoft.de/fdroid/index/apk/org.polymorphicshade.newpipe)
+[!button variant="secondary" text="📥 GitHub"](https://github.com/polymorphicshade/Tubular/releases/latest) [!button variant="warning" text="📥 F-Droid"](https://apt.izzysoft.de/fdroid/index/apk/org.polymorphicshade.tubular)
 
 ==- Example image
 ![](../assets/screenshots/NewPipexSB.jpg)
